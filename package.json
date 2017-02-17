@@ -1,0 +1,31 @@
+{
+  "name": "gleesik-starter-kit",
+  "version": "1.2.0",
+  "description": "A project including full setup for Jekyll, GulpJS, SASS & BrowserSync",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Costrășel",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "browser-sync": "^2.13.0",
+    "gulp-autoprefixer": "^3.1.0"
+  },
+  "repository": {
+    "type": "template",
+    "url": "https://gleesik.ro/"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync"
+  ],
+  "bugs": {
+    "url": "https://gleesik.ro/"
+  },
+  "homepage": "https://gleesik.ro/"
+}
