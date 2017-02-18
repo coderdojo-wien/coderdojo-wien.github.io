@@ -13,13 +13,13 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "README.md"]
 #######################################################
 
 # This is your site title
-title: Sera - OnePage Multi-Purpose Theme
+title: CodingDojo Wien
 # Website language
-lang: en-US
+lang: de-AT
 # Header Title
-header-title: Create the <strong>Impossible</strong>
+header-title: comming <strong>soon</strong>
 # Header Tagline
-headter-tagline: We Always
+headter-tagline: We are
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -51,7 +51,7 @@ baseurl:
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
-email: your_email@example.com
+email: hallo@wien.coderdojo.net
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
@@ -60,12 +60,12 @@ banner-link: https://themeforest.net/collections/6069390-sera
 ####################################
 ######  Global Social Links   ######
 ####################################
-youtube: '#'
-pinterest: '#'
-facebook: '#'
-twitter: '#'
-google-plus: '#'
-vimeo: '#'
+# youtube: '#'
+# pinterest: '#'
+facebook: 'https://www.facebook.com/coderdojowien'
+twitter: 'https://twitter.com/coderdojowien'
+# google-plus: '#'
+# vimeo: '#'
 
 #########################
 ######   Widgets   ######
