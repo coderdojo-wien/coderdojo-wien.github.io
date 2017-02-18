@@ -3,8 +3,8 @@
 #
 
 # Team Member
-- name: Jack Skilton
-  tagline: Graphic Designer
+- name: Anton Kalcik
+  tagline: Co-Founder
   avatar: avatar-01.jpg
 
   # Social Links
@@ -16,35 +16,9 @@
   vimeo: '#'
 
 # Team Member
-- name: James Young
-  tagline: Developer
+- name: Daniel Wagner
+  tagline: Co-Founder
   avatar: avatar-02.jpg
-
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
-
-# Team Member
-- name: Johnatan Doe
-  tagline: Hacker
-  avatar: avatar-04.jpg
-
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
-
-# Team Member
-- name: Ecaterina Doe
-  tagline: Support Expert
-  avatar: avatar-03.jpg
 
   # Social Links
   youtube: '#'
