@@ -433,3 +433,6 @@ footer-description: Nulla a tellus at turpis gravida congue non interdum et male
 footer-copyright-text: Gleesik&trade;
 footer-copyright-url: http://gleesik.ro/
 footer-copyright-year: 2016
+
+gems:
+  - jekyll-sitemap
