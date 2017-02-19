@@ -13,7 +13,7 @@ exclude: [".gitignore", "node_modules", "docker-compose.yml", "Gemfile", "Gemfil
 #######################################################
 
 # This is your site title
-title: CodingDojo Wien
+title: CoderDojo Wien
 # Website language
 lang: de-AT
 # Header Title
