@@ -5,23 +5,23 @@
 # Team Member
 - name: Anton Kalcik
   tagline: Co-Founder
-  avatar: avatar-01.jpg
+  avatar: anton_kalcik.png
   email: 'anton.kalcik@wien.coderdojo.net'
 
   # Social Links
   youtube: '#'
   pinterest: '#'
-  facebook: '#'
-  twitter: '#'
+  facebook: 'http://facebook/kalcik.net'
+  twitter: 'http://www.twitter.com/akalcik'
   google-plus: '#'
-  linkedin: '#'
-  xing: '#'
+  linkedin: 'https://www.linkedin.com/in/akalcik'
+  xing: 'https://www.xing.com/profile/Anton_Kalcik'
   vimeo: '#'  
 
 # Team Member
 - name: Daniel Wagner
   tagline: Co-Founder
-  avatar: daniel_wagner.jpg
+  avatar: daniel_wagner.png
   email: 'daniel.wagner@wien.coderdojo.net'
 
   # Social Links
