@@ -60,12 +60,12 @@ banner-link: https://themeforest.net/collections/6069390-sera
 ####################################
 ######  Global Social Links   ######
 ####################################
-# youtube: '#'
-# pinterest: '#'
+youtube: '#'
+pinterest: '#'
 facebook: 'https://www.facebook.com/coderdojowien'
 twitter: 'https://twitter.com/coderdojowien'
-# google-plus: '#'
-# vimeo: '#'
+google-plus: '#'
+vimeo: '#'
 
 #########################
 ######   Widgets   ######
@@ -378,5 +378,8 @@ footer-copyright-text: Gleesik&trade;
 footer-copyright-url: http://gleesik.ro/
 footer-copyright-year: 2016
 
+#####################################
+############# Components ############
+#####################################
 gems:
   - jekyll-sitemap
