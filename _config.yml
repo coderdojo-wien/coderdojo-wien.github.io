@@ -383,3 +383,7 @@ footer-copyright-year: 2016
 #####################################
 gems:
   - jekyll-sitemap
+
+sass:
+  sass_dir: _scss
+  style: compressed
