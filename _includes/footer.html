@@ -15,12 +15,12 @@
 
         <div class="social-icons">
           <ul class="icons">
-            <li><a href="{{ site.youtube }}" target="_blank"><i class="fi flaticon-youtube"></i></a></li>
-            <li><a href="{{ site.pinterest }}" target="_blank"><i class="fi flaticon-pinterest"></i></a></li>
-            <li><a href="{{ site.facebook }}" target="_blank"><i class="fi flaticon-facebook"></i></a></li>
-            <li><a href="{{ site.twitter }}" target="_blank"><i class="fi flaticon-twitter"></i></a></li>
-            <li><a href="{{ site.google-plus }}" target="_blank"><i class="fi flaticon-google-plus"></i></a></li>
-            <li><a href="{{ site.vimeo }}" target="_blank"><i class="fi flaticon-vimeo"></i></a></li>
+            {% if site.youtube != '#' %} <li><a href="{{ site.youtube }}" target="_blank"><i class="fi flaticon-youtube"></i></a></li> {% endif %}
+            {% if site.pinterest != '#' %} <li><a href="{{ site.pinterest }}" target="_blank"><i class="fi flaticon-pinterest"></i></a></li> {% endif %}
+            {% if site.facebook != '#' %} <li><a href="{{ site.facebook }}" target="_blank"><i class="fi flaticon-facebook"></i></a></li> {% endif %}
+            {% if site.twitter != '#' %} <li><a href="{{ site.twitter }}" target="_blank"><i class="fi flaticon-twitter"></i></a></li> {% endif %}
+            {% if site.google-plus != '#' %} <li><a href="{{ site.google-plus }}" target="_blank"><i class="fi flaticon-google-plus"></i></a></li> {% endif %}
+            {% if site.vimeo != '#' %} <li><a href="{{ site.vimeo }}" target="_blank"><i class="fi flaticon-vimeo"></i></a></li> {% endif %}
           </ul>
         </div>
 
