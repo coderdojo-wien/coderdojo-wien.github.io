@@ -1,0 +1,21 @@
+{
+  "Services": {
+    "jekyll": {
+      "Args": [
+        "jekyll", 
+        "serve", 
+        "--force_polling", 
+        "--incremental"
+      ], 
+      "Image": "jekyll/jekyll@sha256:beb4345dd301b5cb697c9cadbda1c3c175135517fa18b92456f3ec6ccd702b12", 
+      "Networks": [], 
+      "Ports": [
+        {
+          "Port": 4000, 
+          "Protocol": "tcp"
+        }
+      ]
+    }
+  }, 
+  "Version": "0.1"
+}
