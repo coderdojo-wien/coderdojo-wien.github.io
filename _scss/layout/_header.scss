@@ -81,20 +81,8 @@ header.site-header {
 
             &.current-menu-item {
               a {
-                color: $primary;
+                background-color: $primary;
                 position: relative;
-
-                &:before {
-                  content: '';
-                  display: block;
-                  position: absolute;
-                  width: 50%;
-                  height: 1px;
-                  left: 50%;
-                  bottom: -10px;
-                  transform: translateX(-50%);
-                  background-color: $primary;
-                }
               }
             }
 
@@ -105,13 +93,12 @@ header.site-header {
 
               &:hover,
               &:active {
-                color: $primary;
+                background-color: $primary;
               }
 
             }
           }
         }
-
       }
     }
 
