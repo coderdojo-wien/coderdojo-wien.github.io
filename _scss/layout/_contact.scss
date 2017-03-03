@@ -33,26 +33,22 @@ section.contact-section {
 
       input, textarea {
         color: $white;
+        border-color: $primary;
 
-        &:hover,
-        &:active {
+        background: transparentize($primary, 0.75);
+
+        // Placeholders
+        &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
           color: $white;
-          border-color: $primary;
-          background: transparentize($primary, 0.75);
-
-          // Placeholders
-          &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-            color: $white;
-          }
-          &::-moz-placeholder { /* Firefox 19+ */
-            color: $white;
-          }
-          &:-ms-input-placeholder { /* IE 10+ */
-            color: $white;
-          }
-          &:-moz-placeholder { /* Firefox 18- */
-            color: $white;
-          }
+        }
+        &::-moz-placeholder { /* Firefox 19+ */
+          color: $white;
+        }
+        &:-ms-input-placeholder { /* IE 10+ */
+          color: $white;
+        }
+        &:-moz-placeholder { /* Firefox 18- */
+          color: $white;
         }
       }
 

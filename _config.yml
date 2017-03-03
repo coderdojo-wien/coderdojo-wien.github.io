@@ -321,7 +321,7 @@ blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. 
 #####################################
 ############### Team ################
 #####################################
-team-title: Meet Our Team
+team-title: Unsere Team
 team-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 # Members in separate data file
@@ -329,8 +329,8 @@ team-description: Nulla a tellus at turpis gravida congue non interdum et malesu
 #####################################
 ########## Pricing Tables ###########
 #####################################
-pricing-title: Pricing Tables
-pricing-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+events-title: Termine
+events-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 #
 # Plan Personal
@@ -366,8 +366,8 @@ plan-ultimate-url: '#'
 #####################################
 ############   Contact   ############
 #####################################
-contact-title: Schreiben sie uns
-contact-description: Bei Fragen oder Anregungen schreiben sie uns hier oder sagens sie uns <a href="mailto:hallo@wien.coderdojo.net">Hallo</a>!
+contact-title: Sagen sie Hallo
+contact-description: Bei Fragen oder Anregungen schreiben sie uns hier oder sagens sie einfach <a href="mailto:hallo@wien.coderdojo.net">Hallo</a>!
 
 
 #####################################
