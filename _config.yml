@@ -17,9 +17,9 @@ title: CoderDojo Wien
 # Website language
 lang: de-AT
 # Header Title
-header-title: Coming <strong>soon</strong>
+header-title: <strong>bald</strong> da
 # Header Tagline
-headter-tagline: We are
+headter-tagline: Wir sind
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -27,12 +27,12 @@ headter-tagline: We are
 
 # Focus Buttons
 header-focus-button:
-  title: Download Now
+  title: Termine
   url: https://themeforest.net/collections/6069390-sera
 
 # Secondary Buttons
 header-secondary-button:
-  title: Discover More
+  title: Übungen
   url: http://themeforest.net/user/gleesik
 
 #
@@ -144,9 +144,9 @@ features:
 
 
 #####################################
-############  Portfolio  ############
+############  Exercises  ############
 #####################################
-portfolio-title: Portfolio
+portfolio-title: Übungen
 portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
 
 #
@@ -266,58 +266,6 @@ core-features-right:
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
   icon: pe-7s-camera
 
-
-#####################################
-########### Testimonials ############
-#####################################
-testimonials-title: Testimonials
-testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi.
-
-#
-# Testimonials
-#
-testimonials:
-
-# Client
-- name: Johnatan Doe
-  url: http://themeforest.net
-  url-text: ThemeForest.net
-  avatar: avatar-01.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: themeforest.png
-
-# Client
-- name: Adam Smith
-  url: http://codecanyon.net
-  url-text: CodeCanyon.net
-  avatar: avatar-02.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: codecanyon.png
-
-# Client
-- name: Irene Warner
-  url: http://videohive.net
-  url-text: VideoHive.net
-  avatar: avatar-03.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: videohive.png
-
-# Client
-- name: Richard Ryan
-  url: http://audiojungle.net
-  url-text: AudioJungle.net
-  avatar: avatar-04.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: audiojungle.png
-
-
-#####################################
-############# Our Blog ##############
-#####################################
-blog-title: Our Blog
-blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
-
-
 #####################################
 ############### Team ################
 #####################################
@@ -327,7 +275,7 @@ team-description: Nulla a tellus at turpis gravida congue non interdum et malesu
 # Members in separate data file
 
 #####################################
-########## Pricing Tables ###########
+############## Events ###############
 #####################################
 events-title: Termine
 events-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
