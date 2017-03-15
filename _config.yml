@@ -28,12 +28,12 @@ headter-tagline: Wir sind
 # Focus Buttons
 header-focus-button:
   title: Termine
-  url: https://themeforest.net/collections/6069390-sera
+  url: '#events'
 
 # Secondary Buttons
 header-secondary-button:
   title: Übungen
-  url: http://themeforest.net/user/gleesik
+  url: '#exercises'
 
 #
 # If your website is placed in a separate folder on your server please modify
