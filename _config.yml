@@ -322,9 +322,9 @@ contact-description: Bei Fragen oder Anregungen schreiben sie uns hier oder sage
 #############   Footer   ############
 #####################################
 footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Gleesik&trade;
-footer-copyright-url: http://gleesik.ro/
-footer-copyright-year: 2016
+footer-copyright-text: CoderDojo Wien
+footer-copyright-url: '#'
+footer-copyright-year: 2017
 
 #####################################
 ############# Components ############

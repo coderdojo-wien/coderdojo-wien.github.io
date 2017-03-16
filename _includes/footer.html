@@ -6,7 +6,7 @@
       <div class="col-md-6 col-md-push-3 footer-info text-center">
 
         <div class="footer-logo">
-          <img src="{{ site.baseurl }}/images/logo-focus.svg" width="140" alt="Sera - OnePage Logo by Gleesik" />
+          <img src="{{ site.baseurl }}/images/logo-focus.svg" width="220" alt="CoderDojo Wien" />
         </div>
 
         <div class="footer-info-text">
@@ -28,8 +28,15 @@
 
       <div class="col-md-8 col-md-push-2 footer-copyright">
         <div class="footer-text text-center">
-          <p>All Right Reserved!</p>
-        <p><a href="{{ site.footer-copyright-url }}">{{ site.footer-copyright-text }}</a> &copy; {{ site.footer-copyright-year }} Copyright</p>
+        <p>
+          {% if site.footer-copyright-url != '#' %}
+          <a href="{{ site.footer-copyright-url }}">
+              {{ site.footer-copyright-text }}
+          </a> {{ site.footer-copyright-year }} Copyright
+          {% else %}
+              {{ site.footer-copyright-text }} {{ site.footer-copyright-year }}
+          {% endif %}
+        </p>
         </div>
       </div>
     </div>
