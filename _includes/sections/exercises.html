@@ -7,13 +7,13 @@
 
       <!-- Section Header -->
       <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-        <h2>{{ site.portfolio-title }}</h2>
+        <h2>{{ site.exercises-title }}</h2>
         <hr class="normal">
       </header>
 
       <!-- Section Content -->
       <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-        <p>{{ site.portfolio-description }}</p>
+        <p>{{ site.exercises-description }}</p>
       </div>
 
     </div>
@@ -25,7 +25,7 @@
           <ul>
             <li data-filter="all" class="current">All</li>
 
-            {% for category in site.portfolio-categories %}
+            {% for category in site.data.exercises.exercises-categories %}
               <li data-filter=".{{ category | replace:' ','-' | downcase }}" >{{ category }}</li>
             {% endfor %}
 
@@ -37,7 +37,7 @@
     <!-- Portfolio Grid -->
     <div class="row portfolio-grid">
 
-      {% for item in site.portfolio %}
+      {% for item in site.data.exercises.exercises %}
 
       <div class="col-md-4 col-sm-6 item visible {% for category in item.categories %} {{ category | replace:' ','-' | downcase }}{% endfor %}">
         <figure class="img-wrap">
