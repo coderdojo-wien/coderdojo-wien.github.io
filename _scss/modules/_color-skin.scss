@@ -6,7 +6,6 @@ $green: #2ecc71;
 $white: #fff;
 $black: #000;
 $black-transparent:  rgba($black, 0.9);
-$light-blue: #f4f8f9;
 
 // Primary & Secondary
 $primary: $red;
@@ -27,12 +26,12 @@ $background-color: $white;
 
 // Sections Colors
 $section-bg: $white;
-$section-focus: $light-blue;
+$section-focus: $light-gray;
 
 // Footer Colors
 $footer-color: $text-gray;
 $footer-background-color: $dark-gray;
 
 // Sidebar Colors [Widgets]
-$sidebar-header: $light-blue;
+$sidebar-header: $light-gray;
 $sidebar-title: $secondary;

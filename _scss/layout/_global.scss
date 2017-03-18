@@ -226,7 +226,7 @@ blockquote {
   bottom: 0;
 	left: 0;
 	opacity: 1;
-  background: $light-blue;
+  background: $light-gray;
 	transition: all 0.7s $transition-links-type;
   z-index: 99999999999;
 
@@ -273,7 +273,7 @@ blockquote {
   height: 50px;
   cursor: pointer;
   border: 1px solid $primary;
-  background: rgba($light-blue, 0.2);
+  background: rgba($light-gray, 0.2);
   transform: translate3d(0, calc(130% + 50px), 0);
   transition: all $transition-links $transition-links-type;
   z-index: 9999;
