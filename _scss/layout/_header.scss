@@ -169,7 +169,7 @@ header.site-header {
       // Background
       &:after {
         transition: background-color $transition-links $transition-links-type;
-        background-color: rgba(255, 255, 255, 0.2);
+        background-color: rgba($primary, 0.2);
       }
 
       &:hover {
@@ -178,7 +178,7 @@ header.site-header {
         }
 
         &:after {
-          background-color: rgba(255, 255, 255, 0.3);
+          background-color: rgba($secondary, 0.3);
         }
       }
 
