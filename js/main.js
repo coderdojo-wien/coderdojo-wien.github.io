@@ -73,10 +73,10 @@
      *  Portfolio
      **/
     var $filter_menu_item = $('.filter-menu ul li');
-    var $portfolio_grid = $('.portfolio-grid');
+    var $portfolio_grid = $('.exercises-grid');
     var $portfolio_grid_item = $portfolio_grid.children(".item");
     var $overlay = $portfolio_grid.children("#overlay");
-    var $img = '<img alt="Portfolio Overlay Image" />';
+    var $img = '<img alt="Exercise Image" />';
     var $data_filters = null;
 
     // Filter Menu

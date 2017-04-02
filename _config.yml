@@ -28,7 +28,7 @@ headter-tagline: Wir sind
 # Focus Buttons
 header-focus-button:
   title: Termine
-  url: '#events'
+  url: '#sponsorship'
 
 # Secondary Buttons
 header-secondary-button:

@@ -1,5 +1,5 @@
-<!-- Portfolio Section -->
-<section class="site-section portfolio-section next-section-indicator" id="exercises">
+<!-- Exercise Section -->
+<section class="site-section exercises-section next-section-indicator" id="exercises">
   <div class="container">
 
     <!-- Section Heading -->
@@ -34,14 +34,14 @@
       </div>
     </div>
 
-    <!-- Portfolio Grid -->
-    <div class="row portfolio-grid">
+    <!-- Exercise Grid -->
+    <div class="row exercises-grid">
 
       {% for item in site.data.exercises.exercises %}
 
       <div class="col-md-4 col-sm-6 item visible {% for category in item.categories %} {{ category | replace:' ','-' | downcase }}{% endfor %}">
         <figure class="img-wrap">
-          <img src="{{ site.baseurl }}/images/portfolio/{{ item.image }}" alt="Portfolio Item Image" />
+          <img src="{{ site.baseurl }}/images/exercises/{{ item.image }}" alt="Exercise Image" />
         </figure>
         <div class="item-content">
           <h3>{{ item.title }}</h3>
@@ -50,7 +50,7 @@
             <ul>
               <li><a href="{{ item.url }}" class="item-link"><i class="pe-7s-link"></i></a></li>
               <li><a href="#" class="item-like"><i class="pe-7s-like"></i></a></li>
-              <li><a href="{{ site.baseurl }}/images/portfolio/{{ item.image }}" class="item-expand"><i class="pe-7s-exapnd2"></i></a></li>
+              <li><a href="{{ site.baseurl }}/images/exercises/{{ item.image }}" class="item-expand"><i class="pe-7s-exapnd2"></i></a></li>
             </ul>
           </div>
         </div>

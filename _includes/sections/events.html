@@ -1,119 +1,57 @@
-<!-- Prices Section -->
-<section class="site-section prices-section" id="events">
+<!-- Events Section -->
+<section class="site-section events-section" id="events">
   <div class="container">
 
     <!-- Section Heading -->
     <div class="row text-center">
 
-      <!-- Section Header -->
+      <!-- Events Header -->
       <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
         <h2>{{ site.events-title }}</h2>
         <hr class="normal">
       </header>
 
-      <!-- Section Content -->
+      <!-- Events Content -->
       <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
         <p>{{ site.events-description }}</p>
       </div>
 
     </div>
 
-    <!-- Pricing Tables Container -->
-    <div class="row pricing-tables-container">
-      <div class="pricing-tables-wrapper clearfix">
+    <!-- Events Tables Container -->
+    <div class="row events-tables-container">
+      <div class="events-tables-wrapper clearfix">
 
-        <!-- Pricing Table -->
+        {% for event in site.data.events %}
+
+        <!-- Events Table -->
         <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2">
-          <div class="pricing-table">
+          <div class="events-table">
 
-            <!-- Plan Head -->
-            <div class="plan-head">
-              <h3 class="plan-title">Personal</h3>
+            <!-- Event Content -->
+            <div class="event-content">
+              <h3 class="event-date">{{ event.event-date }}</h3>
               <hr class="normal">
-              <p class="plan-subtitle">From <span class="text-focus">{{ site.data.events.plan-personal-price }}</span> Per Month</p>
-            </div>
-
-            <!-- Plan Content -->
-            <div class="plan-content">
-              <h4 class="feature-title"><i class="pe-7s-check check"></i>{{ site.data.events.plan-personal-offer-1-title }}</h4>
-              <p class="feature-content">{{ site.data.events.plan-personal-offer-1-info }}</p>
+              <p class="event-time">{{ event.event-time }}</p>
               <hr class="separator">
-              <h4 class="feature-title"><i class="pe-7s-check check"></i>{{ site.data.events.plan-personal-offer-2-title }}</h4>
-              <p class="feature-content">{{ site.data.events.plan-personal-offer-2-info }}</p>
+              <p class="event-place">{{ event.event-place }}</p>
             </div>
 
-            <!-- Plan Action -->
-            <div class="plan-action">
-              <a href="{{ site.data.events.plan-personal-url }}" class="button">Get Started</a>
+            <!-- Event Registration -->
+            <div class="event-registration">
+              <a href="{{ event.event-registration-url }}" class="button">Anmelden</a>
             </div>
 
           </div>
         </div>
 
-        <!-- Pricing Table -->
-        <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2">
-          <div class="pricing-table pricing-table-focus">
-
-            <!-- Plan Head -->
-            <div class="plan-head">
-              <div class="offer">Recommend</div>
-              <h3 class="plan-title">Business</h3>
-              <hr class="normal">
-              <p class="plan-subtitle">From <span class="text-focus">{{ site.data.events.plan-business-price }}</span> Per Month</p>
-            </div>
-
-            <!-- Plan Content -->
-            <div class="plan-content">
-              <h4 class="feature-title"><i class="pe-7s-check check"></i>{{ site.data.events.plan-business-offer-1-title }}</h4>
-              <p class="feature-content">{{ site.data.events.plan-business-offer-1-info }}</p>
-              <hr class="separator">
-              <h4 class="feature-title"><i class="pe-7s-check check"></i>{{ site.data.events.plan-business-offer-2-title }}</h4>
-              <p class="feature-content">{{ site.data.events.plan-business-offer-2-info }}</p>
-            </div>
-
-            <!-- Plan Action -->
-            <div class="plan-action">
-              <a href="{{ site.data.events.plan-business-url }}" class="button button-focus">Get Started</a>
-            </div>
-
-          </div>
-        </div>
-
-        <!-- Pricing Table -->
-        <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2">
-          <div class="pricing-table">
-
-            <!-- Plan Head -->
-            <div class="plan-head">
-              <h3 class="plan-title">Ultimate</h3>
-              <hr class="normal">
-              <p class="plan-subtitle">From <span class="text-focus">{{ site.data.events.plan-ultimate-price }}</span> Per Month</p>
-            </div>
-
-            <!-- Plan Content -->
-            <div class="plan-content">
-              <h4 class="feature-title"><i class="pe-7s-check check"></i>{{ site.data.events.plan-ultimate-offer-1-title }}</h4>
-              <p class="feature-content">{{ site.data.events.plan-ultimate-offer-1-info }}</p>
-              <hr class="separator">
-              <h4 class="feature-title"><i class="pe-7s-check check"></i>{{ site.data.events.plan-ultimate-offer-2-title }}</h4>
-              <p class="feature-content">{{ site.data.events.plan-ultimate-offer-2-info }}</p>
-            </div>
-
-            <!-- Plan Action -->
-            <div class="plan-action">
-              <a href="{{ site.data.events.plan-ultimate-url }}" class="button">Get Started</a>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
+        {% endfor %}
 
   </div>
 </section>
 
 <!-- Google Map Embed -->
-<div class="google-map">
+<div class="google-map" id="main-event-place-map">
 
   <script src="http://maps.googleapis.com/maps/api/js?key={{ site.key-api }}"></script>
   <div style='overflow:hidden;height:490px;width:100%;'>
