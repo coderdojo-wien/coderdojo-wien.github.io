@@ -46,22 +46,23 @@ section.events-section {
     // Event Table
     .events-table {
       position: relative;
-      border: 1px solid $simple-gray;
+      border: none;
       text-align: center;
       background: $white;
       transition: all $transition-links $transition-links-type;
 
       // Event conten
       .event-content {
-        padding: 50px 0;
+        padding: 20px 0;
         font-weight: bold;
-        border-bottom: 1px solid $simple-gray;
+        border-bottom: none;
+        background-color: $secondary;
         overflow: hidden;
 
           .event-date {
             text-transform: uppercase;
-            color: $secondary;
-            font-size: 1.25rem;
+            color: $white;
+            font-size: 2.5rem;
           }
 
           hr.normal {
@@ -69,10 +70,11 @@ section.events-section {
             height: 2px;
             margin-top: 20px;
             margin-bottom: 20px;
-            background-color: $primary;
+            background-color: $white;
 
             &:after {
               height: 2px;
+              background-color: $white;
             }
           }
 
@@ -83,14 +85,15 @@ section.events-section {
           }
 
           .event-time {
-            font-size: 1.0rem;
+            font-size: 1.5rem;
+            color: $white;
           }
 
           p.event-place {
 
             a {
-              font-size: 1.0rem;
-              color:  $simple-gray;
+              font-size: 1.25rem;
+              color:  $white;
               &:active,
               &:hover{
                 color: $primary;
@@ -102,7 +105,20 @@ section.events-section {
 
       // Event Registration
       .event-registration {
-        padding: 30px 10px;
+
+         .button{
+           background-color: $white;
+           border-color: $secondary;
+           color: $secondary;
+              &:active,
+              &:hover{
+                color: $white;
+                background-color: $primary;
+              }
+         }
+
+        background-color: $secondary;
+        padding-bottom: 20px;
       }
       
     }

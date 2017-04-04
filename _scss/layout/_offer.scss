@@ -27,6 +27,14 @@ section.offer-section {
   }
 
   .button-cta {
-    margin-bottom: 0;
+    margin-bottom: 0;   
+    background-color: $white;
+    border-color: $secondary;
+    color: $secondary;
+      &:active,
+      &:hover{
+        color: $white;
+        background-color: $secondary;
+      }
   }
 }
