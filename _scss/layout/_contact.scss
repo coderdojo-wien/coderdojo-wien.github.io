@@ -1,22 +1,14 @@
-/**
- *
- *  Contact Section Style
- *
- *  @package gleesik_layout
- *
- **/
-
 section.contact-section {
   color: $light-gray;
 
   // Section Header
   header.section-header {
     h2, h3, h4 {
-      color: $white;
+      color: $primary;
     }
 
     hr {
-      background: $white;
+      background: $secondary;
     }
   }
 

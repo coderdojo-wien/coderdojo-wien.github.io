@@ -1,11 +1,3 @@
-#
-# Sera - OnePage Jekyll Template
-# Configuration File
-#
-
-# Information for compile
-exclude: [".gitignore", "node_modules", "docker-compose.yml", "Gemfile", "Gemfile.lock", "gulpfile.js", "package.json", "README.md"]
-
 #######################################################
 #######################################################
 ###############   HEADER INFORMATIONS   ###############
@@ -67,25 +59,6 @@ twitter: 'https://twitter.com/coderdojowien'
 google-plus: '#'
 vimeo: '#'
 
-#########################
-######   Widgets   ######
-#########################
-
-#
-# About Blog Author Widget
-#
-about-widget:
-  author-avatar: avatar-02.jpg
-  author-name: John Doe
-  author-tagline: Blog Author
-  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies nec.
-  author-social-links:
-    youtube: '#'
-    pinterest: '#'
-    facebook: '#'
-    twitter: '#'
-    google-plus: '#'
-
 # Google Map JS api
 # This is my api for this template
 key-api: AIzaSyA3sRKRuJN5RybRwAc79U3wBn6S8SEfVU4
@@ -100,110 +73,17 @@ mailchimp:
   user-id: REPLACEME
   list-id: REPLACEME
 
-####
-#
-# Hi you now use Sera - OnePage Jekyll Template created by Gleesik™
-#
-# Below are each section from the website in order from top to bottom
-# @TODO Edit each sections with your real information and each section from Sera will autocomplete with your information
-#
-####
-
 #####################################
 #############   About   #############
 #####################################
 about-title: CoderDojo Wien
-about-description: Das CoderDojo ist ein Club für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen. In regelmäßigen Treffen wird gelernt wie man Code schreibt, Webseiten entwickelt oder Apps und Spiele programmiert.
-
-
-#####################################
-#############  Features  ############
-#####################################
-features-title: Features
-features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante.
-
-#
-# Features
-#
-features:
-
-# Feature
-- title: Clean & Unique Design
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
-  icon: pe-7s-vector
-
-# Feature
-- title: Professional Support
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
-  icon: pe-7s-help2
-
-# Feature
-- title: Pixel Perfect
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
-  icon: pe-7s-airplay
-
+about-description: Das CoderDojo ist ein Platz für Kinder und Jugendliche, die programmieren lernen und Spaß haben wollen. In regelmäßigen Treffen wird gelernt wie man Code schreibt, Webseiten entwickelt oder Apps und Spiele programmiert. <h3>Für wem?</h3>
 
 #####################################
 ############  Exercises  ############
 #####################################
 exercises-title: Übungen
 exercises-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
-
-#####################################
-##########  Core Features  ##########
-#####################################
-core-title: Core Features
-core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis aliquet diam ut eleifend.
-
-#
-# Core Features Left
-#
-core-features-left:
-
-# Feature
-- name: Creative
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-light
-
-# Feature
-- name: Minimalism
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-drop
-
-# Feature
-- name: Clean Coding
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-coffee
-
-# Feature
-- name: Friendly
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-smile
-
-#
-# Core Features Right
-#
-core-features-right:
-
-# Feature
-- name: Branding
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-wine
-
-# Feature
-- name: Web Design
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-monitor
-
-# Feature
-- name: Graphic Design
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-crop
-
-# Feature
-- name: Photography
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-camera
 
 #####################################
 ############### Team ################
@@ -222,9 +102,8 @@ events-description: Nulla a tellus at turpis gravida congue non interdum et male
 #####################################
 ############   Contact   ############
 #####################################
-contact-title: Sagen sie Hallo
-contact-description: Bei Fragen oder Anregungen schreiben sie uns hier oder sagen sie einfach <a href="mailto:hallo@wien.coderdojo.net">Hallo</a>!
-
+contact-title: Sag einfach Hallo!
+contact-description: Hast du Fragen oder Anregungen? Schreib uns oder sag einfach <a href="mailto:hallo@wien.coderdojo.net">Hallo</a>!
 
 #####################################
 #############   Footer   ############
@@ -243,3 +122,6 @@ gems:
 sass:
   sass_dir: _scss
   style: compressed
+
+# Information for compile
+exclude: [".gitignore", "node_modules", "docker-compose.yml", "Gemfile", "Gemfile.lock", "gulpfile.js", "package.json", "README.md"]
