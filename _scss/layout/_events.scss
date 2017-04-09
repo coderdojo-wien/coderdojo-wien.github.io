@@ -48,12 +48,12 @@ section.events-section {
         padding: 20px 0;
         font-weight: bold;
         border-bottom: none;
-        background-color: $primary  ;
+        background-color: $light-gray;
         overflow: hidden;
 
           .event-date {
             text-transform: uppercase;
-            color: $white;
+            color: $normal-gray;
             font-size: 2.5rem;
           }
 
@@ -78,14 +78,14 @@ section.events-section {
 
           .event-time {
             font-size: 1.5rem;
-            color: $white;
+            color: $normal-gray;
           }
 
           p.event-place {
 
             a {
               font-size: 1.25rem;
-              color:  $white;
+              color:  $normal-gray;
               &:active,
               &:hover{
                 color: $secondary;
@@ -100,21 +100,24 @@ section.events-section {
 
          .button{
            background-color: $white;
-           border-color: $secondary;
+           border-color: $primary;
            color: $primary;
               &:active,
               &:hover{
                 color: $white;
-                background-color: $secondary;
+                background-color: $primary;
               }
          }
 
-        background-color: $primary;
+        background-color: $light-gray;
         padding-bottom: 20px;
       }
       
     }
 
   }
+}
 
+section.event-location {
+    padding: 0;
 }
