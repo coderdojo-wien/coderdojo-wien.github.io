@@ -123,7 +123,7 @@ contact-description: Hast du Fragen oder Anregungen? Schreib uns hier oder sag e
 #####################################
 footer-description:
 footer-copyright-text: CoderDojo Wien
-footer-copyright-url: '#'
+footer-copyright-url:
 footer-copyright-year: 2017
 
 #####################################

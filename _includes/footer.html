@@ -10,7 +10,7 @@
         </div>
 
         <div class="footer-info-text">
-          <p>{{ site.footer-description }}</p>
+          {% if site.footer-description != null %}<p>{{ site.footer-description }}</p>{% endif %}
         </div>
 
         <div class="social-icons">
@@ -29,12 +29,10 @@
       <div class="col-md-8 col-md-push-2 footer-copyright">
         <div class="footer-text text-center">
         <p>
-          {% if site.footer-copyright-url != '#' %}
-          <a href="{{ site.footer-copyright-url }}">
-              {{ site.footer-copyright-text }}
-          </a> {{ site.footer-copyright-year }} Copyright
+          {% if site.footer-copyright-url != null %}
+            <a href="{{ site.footer-copyright-url }}">{{ site.footer-copyright-text }}</a> {{ site.footer-copyright-year }} Copyright
           {% else %}
-              {{ site.footer-copyright-text }} {{ site.footer-copyright-year }}
+            {{ site.footer-copyright-text }} {{ site.footer-copyright-year }}
           {% endif %}
         </p>
         </div>
