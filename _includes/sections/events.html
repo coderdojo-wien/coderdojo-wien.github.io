@@ -13,7 +13,7 @@
 
       <!-- Events Content -->
       <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-        <p>{{ site.events-description }}</p>
+        {% if site.events-description != null %} <p>{{ site.events-description }}</p> {% endif %}
       </div>
 
     </div>

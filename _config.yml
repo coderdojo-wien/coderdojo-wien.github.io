@@ -36,7 +36,7 @@ header-secondary-button:
 # For this example my site url is: projects.gleesik.ro (This can be just www.example.com)
 # My folder for Demo Website is: /sera-onepage so baseurl: /sera-onepage
 #
-baseurl: 
+baseurl:
 
 #
 # This is your email adress, contact from send here all emails from contact section
@@ -52,12 +52,12 @@ banner-link: '#contact'
 ####################################
 ######  Global Social Links   ######
 ####################################
-youtube: '#'
-pinterest: '#'
+youtube:
+pinterest:
 facebook: 'https://www.facebook.com/coderdojowien'
 twitter: 'https://twitter.com/coderdojowien'
-google-plus: '#'
-vimeo: '#'
+google-plus:
+vimeo:
 
 # Google Map JS api
 # This is my api for this template
@@ -93,7 +93,7 @@ schon erfahrener bist und eigene Projekte umsetzen möchtest.</p>"
 ############  Exercises  ############
 #####################################
 exercises-title: Übungen
-exercises-description: 
+exercises-description:
 
 #####################################
 ############### Team ################
@@ -110,7 +110,7 @@ Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sonder Menschen
 ############## Events ###############
 #####################################
 events-title: Termine
-events-description: 
+events-description:
 
 #####################################
 ############   Contact   ############
@@ -121,7 +121,7 @@ contact-description: Hast du Fragen oder Anregungen? Schreib uns hier oder sag e
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: 
+footer-description:
 footer-copyright-text: CoderDojo Wien
 footer-copyright-url: '#'
 footer-copyright-year: 2017
