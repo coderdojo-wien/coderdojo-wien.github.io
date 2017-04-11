@@ -81,10 +81,10 @@ about-description: "Das CoderDojo ist ein Raum für Kinder und Jugendliche, wo s
 <h3>Für wem</h3>
 <p>Wenn du zwischen 8 und 17 Jahren alt bist komm vorbei. Alles was du machen musst ist sich <a href=\"#sponsorship\">für einen Termin anzumelden.</a>
 Wenn du jünger als 13 Jahren bist must dich ein Erwachsene begleiten und ganze Zeit anwesend sein.</p>
-<h3>Was du mitzunehmen solltest</h3>
-<p>Derzeit brauchst du mindestens dein Notebook mit. In der Zukunft wollen wir auch Notebooks und andere Mitteln zu verfügung stellen.</p>
-<h3>Wie ein CoderDojo abläuft</h3>
-<p>Dōjō [doːdʑoː] kommt aus japanischen und steht für ein Trainigsraum für verschiede Kampfkünste. Wir werden gemeinsam jedoch kein Kampfkünst sondern programieren tranieren. 
+<h3>Was du mitnehmen solltest</h3>
+<p>Du brauchst einen Laptop, es ist aber egal ob Windows, MacOS oder Linux. Ein Tablet oder Smartphone reicht nicht aus, egal ob iPad oder Android.</p>
+<h3>Wie läuft ein CoderDojo ab</h3>
+<p>Dōjō [doːdʑoː] kommt aus japanischen und steht für ein Trainigsraum für verschiede Kampfkünste. Wir werden gemeinsam jedoch kein Kampfkünste sondern Programieren tranieren. 
 Wir haben einige <a href=\"#exercises\">Beispiele</a> vorbereitet, jedoch stehen deine Ideen im Mittelpunkt. Wenn du ein cooles Projekt hast, bringt es mit. Im CoderDojo 
 hast du Hilfe von <a href=\"#team\">Mentoren</a>, die viel Erfahrung Wissen haben. Ein Mentor begleiten dich bei den ersten Schritten aber auch wenn du 
 schon erfahrener bist und eigene Projekte umsetzen möchtest.</p>"
@@ -99,10 +99,10 @@ exercises-description:
 ############### Team ################
 #####################################
 team-title: Unser Team
-team-description: "Wir sind ehrenamtlich engagierte Fachexperten. Wir kommen dich zu unterstzützen und in dir das Potenzial zu entfalten. 
+team-description: "Wir sind ehrenamtlich engagierte Fachexperten. Wir kommen um dich zu unterstzützen und in dir das Potenzial zu entfalten. 
 Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sonder Menschen die Spaß daran haben mit die Kindern zu arbeiten.
 <h3>Mentor werden</h3>
-<p>Möchtest du selber ein Mentor werden? Fühle unsere <a href=\"https://de.surveymonkey.com/r/GBNGGFP\">Umfrage</a> aus oder <a href=\"#contact\">schreib uns.</a></p>"
+<p>Möchtest du selber ein Mentor werden? Fülle unsere <a href=\"https://de.surveymonkey.com/r/GBNGGFP\">Umfrage</a> aus oder <a href=\"#contact\">schreib uns.</a></p>"
 
 # Members in separate data file
 
