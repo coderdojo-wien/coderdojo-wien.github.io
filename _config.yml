@@ -67,12 +67,6 @@ map-text-location: Vienna, Austria
 map-lat: 48.2108226
 map-lng: 16.3675638
 
-# Enter your Mailchimp User ID and Campaign ID
-# @TODO: Add in a link for where to find these
-mailchimp:
-  user-id: REPLACEME
-  list-id: REPLACEME
-
 #####################################
 #############   About   #############
 #####################################
