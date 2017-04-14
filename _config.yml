@@ -24,8 +24,8 @@ header-focus-button:
 
 # Secondary Buttons
 header-secondary-button:
-  title: Übungen
-  url: '#exercises'
+  title: Kontakt
+  url: '#contact'
 
 #
 # If your website is placed in a separate folder on your server please modify
