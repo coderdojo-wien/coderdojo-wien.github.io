@@ -1,0 +1,37 @@
+// Theme Colors
+$red: #DC0102;
+$green: #2ecc71;
+
+// Global Pallete
+$white: #fff;
+$black: #000;
+$black-transparent:  rgba($black, 0.5);
+
+// Primary & Secondary
+$primary: $red;
+$secondary:#E85E5E;
+
+// Gray Pallete
+$text-gray: #b4b4b4;
+$light-gray: #f0f0f0;
+$simple-gray: #a6a6a6;
+$normal-gray: #5c5c5c;
+$dark-gray: #1a1a1a;
+
+// Global Text Color
+$global-text: darken($text-gray, 15%);
+
+// Background Color
+$background-color: $white;
+
+// Sections Colors
+$section-bg: $white;
+$section-focus: $light-gray;
+
+// Footer Colors
+$footer-color: $text-gray;
+$footer-background-color: $dark-gray;
+
+// Sidebar Colors [Widgets]
+$sidebar-header: $light-gray;
+$sidebar-title: $secondary;

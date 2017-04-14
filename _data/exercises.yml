@@ -1,0 +1,59 @@
+#
+# Exercises Grid
+#
+exercises-categories: [Scratch, CodingGame, C-Sharp, Java, Html, JavaScript]
+exercises:
+
+# Exercises Item
+- title: S<span class="thin">era</span> Style
+  categories: [Scratch, C-Sharp]
+  image: img-01.jpg
+  url: '#'
+
+# Exercises Item
+- title: S<span class="thin">era</span> Style
+  categories: [C-Sharp, CodingGame, Scratch]
+  image: img-02.jpg
+  url: '#'
+
+# Exercises Item
+- title: S<span class="thin">era</span> Style
+  categories: [C-Sharp, CodingGame, JavaScript]
+  image: img-03.jpg
+  url: '#'
+
+# Exercises Item
+- title: S<span class="thin">era</span> Style
+  categories: [Scratch, Html, JavaScript]
+  image: img-04.jpg
+  url: '#'
+
+# Exercises Item
+- title: S<span class="thin">era</span> Style
+  categories: [Java, CodingGame]
+  image: img-05.jpg
+  url: '#'
+
+# Exercises Item
+- title: S<span class="thin">era</span> Style
+  categories: [Java, Html]
+  image: img-06.jpg
+  url: '#'
+
+# Exercises Item
+- title: S<span class="thin">era</span> Style
+  categories: [Scratch, C-Sharp]
+  image: img-07.jpg
+  url: '#'
+
+# Exercises Item
+- title: S<span class="thin">era</span> Style
+  categories: [Scratch , Html]
+  image: img-08.jpg
+  url: '#'
+
+# Exercises Item
+- title: S<span class="thin">era</span> Style
+  categories: [JavaScript, CodingGame]
+  image: img-09.jpg
+  url: '#'

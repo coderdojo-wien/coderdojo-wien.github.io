@@ -1,0 +1,72 @@
+section.contact-section {
+  color: $light-gray;
+
+  // Section Header
+  header.section-header {
+    h2, h3, h4 {
+      color: $primary;
+    }
+
+    hr {
+      background: $secondary;
+    }
+  }
+
+  div.section-content{
+      text-align: center;
+  }
+
+  // Form Container
+  .form-container {
+    margin-top: 80px;
+
+    // Contact Form
+    form.contact-form {
+
+      .col-md-6, .col-md-12 {
+        margin-bottom: 30px;
+      }
+
+      input, textarea {
+        color: $white;
+        border-color: $primary;
+
+        background: transparentize($primary, 0.75);
+
+        // Placeholders
+        &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+          color: $white;
+        }
+        &::-moz-placeholder { /* Firefox 19+ */
+          color: $white;
+        }
+        &:-ms-input-placeholder { /* IE 10+ */
+          color: $white;
+        }
+        &:-moz-placeholder { /* Firefox 18- */
+          color: $white;
+        }
+      }
+
+      // Form Action
+      .form-action {
+        text-align: center;
+        padding-top: 30px;
+
+        .send-button {
+          text-transform: uppercase;
+          width: 40%;
+
+          // Responsive Media
+          @media (max-width: 500px) {
+            display: block;
+            width: 100%;
+          }
+        }
+      }
+
+    }
+
+  }
+
+}

@@ -1,0 +1,67 @@
+<!-- Exercise Section -->
+<section class="site-section exercises-section next-section-indicator section-focus" id="exercises">
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="row text-center">
+
+      <!-- Section Header -->
+      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+        <h2>{{ site.exercises-title }}</h2>
+        <hr class="normal">
+      </header>
+
+      <!-- Section Content -->
+      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+        {% if site.exercises-description != null %}<p>{{ site.exercises-description }}</p> {% endif %}
+      </div>
+
+    </div>
+
+    <!-- Filter Menu -->
+    <div class="row filter-menu-wrapper">
+      <div class="col-md-8 col-md-push-2">
+        <div class="filter-menu">
+          <ul>
+            <li data-filter="all" class="current">All</li>
+
+            {% for category in site.data.exercises.exercises-categories %}
+              <li data-filter=".{{ category | replace:' ','-' | downcase }}" >{{ category }}</li>
+            {% endfor %}
+
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Exercise Grid -->
+    <div class="row exercises-grid">
+
+      {% for item in site.data.exercises.exercises %}
+
+      <div class="col-md-4 col-sm-6 item visible {% for category in item.categories %} {{ category | replace:' ','-' | downcase }}{% endfor %}">
+        <figure class="img-wrap">
+          <img src="{{ site.baseurl }}/images/exercises/{{ item.image }}" alt="Exercise Image" />
+        </figure>
+        <div class="item-content">
+          <h3>{{ item.title }}</h3>
+          <h4>{{ item.categories | first }}</h4>
+          <div class="links">
+            <ul>
+              <li><a href="{{ item.url }}" class="item-link"><i class="pe-7s-link"></i></a></li>
+              <li><a href="#" class="item-like"><i class="pe-7s-like"></i></a></li>
+              <li><a href="{{ site.baseurl }}/images/exercises/{{ item.image }}" class="item-expand"><i class="pe-7s-exapnd2"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      {% endfor %}
+
+      <!-- Overlay Lightbox -->
+      <div id="overlay" class="overlay"></div>
+
+    </div>
+
+  </div>
+</section>

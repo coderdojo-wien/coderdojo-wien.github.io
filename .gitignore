@@ -1,2 +1,5 @@
-
-*.yml
+_site/
+.bundle/
+.sass-cache/
+.jekyll-metadata
+Gemfile.lock

@@ -1,0 +1,134 @@
+#######################################################
+#######################################################
+###############   HEADER INFORMATIONS   ###############
+#######################################################
+#######################################################
+
+# This is your site title
+title: CoderDojo Wien
+# Website language
+lang: de-AT
+# Header Title
+header-title: <strong>bald</strong> da
+# Header Tagline
+headter-tagline: Wir sind
+
+####################################
+######   CTA Header Buttons   ######
+####################################
+
+# Focus Buttons
+header-focus-button:
+  title: Termine
+  url: '#sponsorship'
+
+# Secondary Buttons
+header-secondary-button:
+  title: Übungen
+  url: '#exercises'
+
+#
+# If your website is placed in a separate folder on your server please modify
+# this with your folder name, by default is empty.
+# Example: Sera Demo is hosted on projects.gleesik.ro/sera-onepage
+# If I compile Sera Template and I put in /sera-onepage without modifing baseurl
+# than scripts can't be loaded corectly.
+# For this example my site url is: projects.gleesik.ro (This can be just www.example.com)
+# My folder for Demo Website is: /sera-onepage so baseurl: /sera-onepage
+#
+baseurl:
+
+#
+# This is your email adress, contact from send here all emails from contact section
+# IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
+# To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
+#
+email: hallo@wien.coderdojo.net
+
+# Offer Banner Link
+# Default link is a link to all Sera OnePage products
+banner-link: '#contact'
+
+####################################
+######  Global Social Links   ######
+####################################
+youtube:
+pinterest:
+facebook: 'https://www.facebook.com/coderdojowien'
+twitter: 'https://twitter.com/coderdojowien'
+google-plus:
+vimeo:
+
+# Google Map JS api
+# This is my api for this template
+key-api: AIzaSyA3sRKRuJN5RybRwAc79U3wBn6S8SEfVU4
+map-text: CoderDojo Wien
+map-text-location: Vienna, Austria
+map-lat: 48.2108226
+map-lng: 16.3675638
+
+#####################################
+#############   About   #############
+#####################################
+about-title: CoderDojo Wien
+about-description: "Das CoderDojo ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, in dem sie Technik und Programmieren lernen können. In regelmäßigen Treffen werden verschiedene Übungen gemacht.
+<h3>Für wen</h3>
+<p>Wenn du zwischen 8 und 17 Jahren alt bist komm vorbei. Alles was du machen musst ist sich <a href=\"#sponsorship\">für einen Termin anzumelden.</a>
+Wenn du jünger als 13 Jahren bist must dich ein Erwachsene begleiten und ganze Zeit anwesend sein.</p>
+<h3>Was du mitnehmen solltest</h3>
+<p>Du brauchst einen Laptop, es ist aber egal ob Windows, MacOS oder Linux. Ein Tablet oder Smartphone reicht nicht aus, egal ob iPad oder Android.</p>
+<h3>Wie läuft ein CoderDojo ab</h3>
+<p>Dōjō [doːdʑoː] kommt aus japanischen und steht für ein Trainigsraum für verschiede Kampfkünste. Wir werden gemeinsam jedoch kein Kampfkünste sondern Programieren tranieren. 
+Wir haben einige Beispiele vorbereitet, jedoch stehen deine Ideen im Mittelpunkt. Wenn du ein cooles Projekt hast, bringt es mit. Im CoderDojo 
+hast du Hilfe von <a href=\"#team\">Mentoren</a>, die viel Erfahrung Wissen haben. Ein Mentor begleiten dich bei den ersten Schritten aber auch wenn du 
+schon erfahrener bist und eigene Projekte umsetzen möchtest.</p>"
+
+#####################################
+############  Exercises  ############
+#####################################
+exercises-title: Übungen
+exercises-description:
+
+#####################################
+############### Team ################
+#####################################
+team-title: Unser Team
+team-description: "Wir sind ehrenamtlich engagierte Fachexperten. Wir kommen um dich zu unterstzützen und in dir das Potenzial zu entfalten. 
+Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sonder Menschen die Spaß daran haben mit die Kindern zu arbeiten.
+<h3>Mentor werden</h3>
+<p>Möchtest du selber ein Mentor werden? Fülle unsere <a href=\"https://de.surveymonkey.com/r/GBNGGFP\">Umfrage</a> aus oder <a href=\"#contact\">schreib uns.</a></p>"
+
+# Members in separate data file
+
+#####################################
+############## Events ###############
+#####################################
+events-title: Termine
+events-description:
+
+#####################################
+############   Contact   ############
+#####################################
+contact-title: Sag Hallo
+contact-description: Hast du Fragen oder Anregungen? Schreib uns hier oder sag einfach <a href="mailto:hallo@wien.coderdojo.net">Hallo</a>!
+
+#####################################
+#############   Footer   ############
+#####################################
+footer-description:
+footer-copyright-text: CoderDojo Wien
+footer-copyright-url:
+footer-copyright-year: 2017
+
+#####################################
+############# Components ############
+#####################################
+gems:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _scss
+  style: compressed
+
+# Information for compile
+exclude: [".gitignore", "node_modules", "docker-compose.yml", "Gemfile", "Gemfile.lock", "gulpfile.js", "package.json", "README.md"]
