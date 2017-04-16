@@ -1,9 +1,10 @@
 <!-- Site Head -->
+
 <head>
   <meta charset="utf-8" />
   <title>{{ page.title | strip_html }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="shortcut icon" href="{{ site.baseurl }}/images/logos/favicon.png" title="Favicon" />  
+  <link rel="shortcut icon" href="{{ site.baseurl }}/images/logos/favicon.png" title="Favicon" />
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/logos/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logos/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logos/favicon-16x16.png" sizes="16x16">
@@ -14,4 +15,54 @@
 
   <!-- Importing Styles -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+
+  {% capture header %}
+  <meta name="description" content="Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 8 und 17 Jahren. Diese Seite ist für die CoderDojos Wien."
+  />
+  <meta name="keywords" content="CoderDojo Wien Programmierclub" />
+  <meta name="robots" content="index, follow" />
+  <meta name="revisit-after" content="7 days" />
+
+  <!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.6.1 -->
+  <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="de_AT" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  
+  {% if page.title %}
+    <meta property="og:type" content="article" />
+	  <meta property="og:title" content="{{ page.title }}" />
+  {% else %}
+    <meta property="og:type" content="website" />
+  {% endif %}
+
+  {% capture page_url %}{{ site.baseurl | append: site.url | append: page.url | replace:'/index.html','/' }}{% endcapture %}
+  <meta property="og:url" content="{{ page_url }}" />
+  <meta property="og:description" content="Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 8 und 17 Jahren. Diese Seite ist für die CoderDojos Wien."
+  />
+  <!-- Google+ / Schema.org -->
+  {% if page.title %}
+    <meta itemprop="name" content="{{ page.title }}" />
+  {% else %}
+    <meta itemprop="name" content="{{ site.title }}" />
+  {% endif %}
+  
+  <meta itemprop="description" content="Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 8 und 17 Jahren. Diese Seite ist für die CoderDojos Wien."
+  />
+  <!-- Twitter Cards -->
+  {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}" />
+  {% else %}
+    <meta name="twitter:title" content="{{ site.title }}" />
+  {% endif %}
+  <meta name="twitter:url" content="{{ page_url }}" />
+
+  <meta name="twitter:description" content="Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 8 und 17 Jahren. Diese Seite ist für die CoderDojos Wien."
+  />
+  <meta name="twitter:card" content="summary_large_image" />
+  <!-- SEO -->
+  <!-- Misc. tags -->
+
+  {% endcapture %}{{ header | strip_newlines }}
+  <!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.6.1 -->
+
 </head>

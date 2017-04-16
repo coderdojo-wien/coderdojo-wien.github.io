@@ -20,12 +20,12 @@ headter-tagline: Wir sind
 # Focus Buttons
 header-focus-button:
   title: Termine
-  url: '#sponsorship'
+  url: 'index.html#sponsorship'
 
 # Secondary Buttons
 header-secondary-button:
   title: Kontakt
-  url: '#contact'
+  url: 'index.html#contact'
 
 #
 # If your website is placed in a separate folder on your server please modify
@@ -47,7 +47,7 @@ email: hallo@wien.coderdojo.net
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: '#contact'
+banner-link: 'index.html#contact'
 
 ####################################
 ######  Global Social Links   ######
@@ -119,6 +119,8 @@ footer-description:
 footer-copyright-text: CoderDojo Wien
 footer-copyright-url:
 footer-copyright-year: 2017
+footer-imprint-text: Impressum und Datenschutz
+footer-imprint-url: imprint.html
 
 #####################################
 ############# Components ############
