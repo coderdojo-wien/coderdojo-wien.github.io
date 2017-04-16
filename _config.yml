@@ -31,12 +31,12 @@ keywords: "Kinder Lernen Programmieren Technik Dojo Wien Mentoring"
 # Focus Buttons
 header-focus-button:
   title: Termine
-  url: 'index.html#sponsorship'
+  url: '/#sponsorship'
 
 # Secondary Buttons
 header-secondary-button:
   title: Kontakt
-  url: 'index.html#contact'
+  url: '/#contact'
 
 #
 # If your website is placed in a separate folder on your server please modify
@@ -58,7 +58,7 @@ email: hallo@wien.coderdojo.net
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: 'index.html#contact'
+banner-link: '/#contact'
 
 ####################################
 ######  Global Social Links   ######
@@ -131,7 +131,7 @@ footer-copyright-text: CoderDojo Wien
 footer-copyright-url:
 footer-copyright-year: 2017
 footer-imprint-text: Impressum und Datenschutz
-footer-imprint-url: imprint.html
+footer-imprint-url: impressum
 
 #####################################
 ############# Components ############
