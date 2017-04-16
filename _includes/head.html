@@ -12,42 +12,55 @@
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 
 <!-- Importing Styles -->
-<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css"> {% capture header %}
-<meta name="description" content="Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 8 und 17 Jahren. Diese Seite ist für die CoderDojos Wien."
-/>
-<meta name="keywords" content="CoderDojo Wien Programmierclub" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+{% capture seo-tags %}
+<meta name="description" content="{{ site.description }}" />
+<meta name="keywords" content="{{ site.keywords }}" />
 <meta name="robots" content="index, follow" />
 <meta name="revisit-after" content="7 days" />
 
 <!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.6.1 -->
+
 <!-- Facebook Open Graph -->
-<meta property="og:locale" content="de_AT" />
-<meta property="og:site_name" content="{{ site.title }}" /> {% if page.title %}
-<meta property="og:type" content="article" />
-<meta property="og:title" content="{{ page.title }}" /> {% else %}
-<meta property="og:type" content="website" /> {% endif %} {% capture page_url %}{{ site.baseurl | append: site.url | append: page.url | replace:'/index.html','/' }}{%
-endcapture %}
+<meta property="og:locale" content="{{ site.lang | replace: '-','_'}} " />
+<meta property="og:site_name" content="{{ site.title }}" /> 
+{% if page.title %}
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" /> 
+{% else %}
+    <meta property="og:type" content="website" /> 
+{% endif %} 
+{% capture page_url %}
+{{ site.baseurl | append: site.url | append: page.url | replace:'/index.html','/' | strip }}
+{%endcapture %}
 <meta property="og:url" content="{{ page_url }}" />
-<meta property="og:description" content="Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 8 und 17 Jahren. Diese Seite ist für die CoderDojos Wien."
-/>
+<meta property="og:description" content="{{ site.description }}" />
+<!-- End of Facebook Open Graph -->
+
 <!-- Google+ / Schema.org -->
 {% if page.title %}
-<meta itemprop="name" content="{{ page.title }}" /> {% else %}
-<meta itemprop="name" content="{{ site.title }}" /> {% endif %}
+    <meta itemprop="name" content="{{ page.title }}" />
+{% else %}
+    <meta itemprop="name" content="{{ site.title }}" /> 
+{% endif %}
+<meta itemprop="description" content="{{ site.description }}" />
+<!-- End of Google+ / Schema.org -->
 
-<meta itemprop="description" content="Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 8 und 17 Jahren. Diese Seite ist für die CoderDojos Wien."
-/>
 <!-- Twitter Cards -->
 {% if page.title %}
-<meta name="twitter:title" content="{{ page.title }}" /> {% else %}
-<meta name="twitter:title" content="{{ site.title }}" /> {% endif %}
+    <meta name="twitter:title" content="{{ page.title }}" />
+{% else %}
+    <meta name="twitter:title" content="{{ site.title }}" />
+{% endif %}
 <meta name="twitter:url" content="{{ page_url }}" />
-
-<meta name="twitter:description" content="Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 8 und 17 Jahren. Diese Seite ist für die CoderDojos Wien."
-/>
+<meta name="twitter:description" content="{{ site.description }}" />
 <meta name="twitter:card" content="summary_large_image" />
+<!-- End of Twitter Cards -->
+
 <!-- SEO -->
 <!-- Misc. tags -->
 
-{% endcapture %}{{ header | strip_newlines }}
+{% endcapture %}
+{{ seo-tags | strip_newlines }}
+
 <!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.6.1 -->
