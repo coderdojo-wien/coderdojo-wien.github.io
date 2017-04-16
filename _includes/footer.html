@@ -34,6 +34,9 @@
           {% else %}
             {{ site.footer-copyright-text }} {{ site.footer-copyright-year }}
           {% endif %}
+          {% if site.footer-imprint-url != null %}
+            <a href="{{ site.footer-imprint-url }}">{{ site.footer-imprint-text }}</a>
+          {% endif %}
         </p>
         </div>
       </div>
