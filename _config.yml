@@ -1,7 +1,14 @@
-#######################################################
+#####################################
+########   Cookien Consent   ########
+#####################################
+
+cookie-consent-message: "Diese Website nutzt Cookies, um dich so richtig zu verwöhnen."
+cookie-consent-dismiss-button-text: "Alles klar!"
+cookie-consent-more-info-message: "Mehr erfahren"
+cookie-consent-more-info-url: "https://www.google.com/intl/de/policies/privacy/partners/"
+
 #######################################################
 ###############   HEADER INFORMATIONS   ###############
-#######################################################
 #######################################################
 
 # This is your site title
