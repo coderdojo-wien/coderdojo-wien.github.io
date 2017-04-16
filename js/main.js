@@ -168,7 +168,7 @@
       }
 
       // Portfolio Reveal Images
-      revealItem($portfolio_grid, $portfolio_grid_item);
+      // revealItem($portfolio_grid, $portfolio_grid_item);
 
     });
 
