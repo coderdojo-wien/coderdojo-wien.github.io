@@ -1,17 +1,6 @@
 <!-- Cookieconsent CDN -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 
-<!-- If CDN fails than use local Cookieconsent -->
-<script>
-    if (window.cookieconsent) {
-        document.write('<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />');
-    }
-    else {
-        document.write('<script src="{{ site.baseurl }}/js/cookieconsent.min.js"><\/script>');
-        document.write('<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/cookieconsent.min.css" />');
-    }
-</script>
-
 <!-- Configure Cookie Consent -->
 <script>
     window.addEventListener("load", function () {
@@ -34,5 +23,4 @@
             }
         })
     });
-
-</script
+</script>
