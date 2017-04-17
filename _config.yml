@@ -138,6 +138,7 @@ footer-imprint-url: impressum
 #####################################
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 sass:
   sass_dir: _scss
