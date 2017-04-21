@@ -84,13 +84,13 @@ map-lng: 16.3675638
 about-title: CoderDojo Wien
 about-description: "Das CoderDojo ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, in dem sie Technik und Programmieren lernen können. In regelmäßigen Treffen werden verschiedene Übungen gemacht.
 <h3>Für wen</h3>
-<p>Wenn du zwischen 8 und 17 Jahre alt bist, komm vorbei. Alles was du machen musst ist sich <a href=\"#sponsorship\">für einen Termin anzumelden.</a>
+<p>Wenn du zwischen 8 und 17 Jahre alt bist, komm vorbei. Alles was du machen musst, ist sich <a href=\"#sponsorship\">für einen Termin anzumelden.</a>
 Wenn du jünger als 13 Jahre bist, muss dich ein Erwachsener begleiten und ganze Zeit anwesend sein.</p>
 <h3>Was du mitnehmen solltest</h3>
 <p>Du brauchst einen Laptop, es ist aber egal ob Windows, MacOS oder Linux. Ein Tablet oder Smartphone reicht nicht aus, egal ob iPad oder Android.</p>
 <h3>Wie läuft ein CoderDojo ab</h3>
-<p>Dōjō [doːdʑoː] kommt aus japanischen und steht für ein Trainigsraum für verschiede Kampfkünste. Wir werden gemeinsam jedoch keine Kampfkünste sondern Programmieren tranieren. 
-Wir haben einige Beispiele vorbereitet, jedoch stehen deine Ideen im Mittelpunkt. Wenn du ein cooles Projekt hast, bringt es mit. Im CoderDojo 
+<p>Dōjō [doːdʑoː] kommt aus japanischen und steht für einen Trainingsraum für verschiedene Kampfkünste. Wir werden gemeinsam jedoch keine Kampfkünste sondern Programmieren tranieren. 
+Wir haben einige Beispiele vorbereitet, jedoch stehen deine Ideen im Mittelpunkt. Wenn du ein cooles Projekt hast, bring es mit. Im CoderDojo 
 hast du Hilfe von <a href=\"#team\">Mentoren</a>, die viel Erfahrung und Wissen haben. Ein Mentor begleitet dich bei den ersten Schritten aber auch wenn du 
 schon erfahrener bist und eigene Projekte umsetzen möchtest.</p>"
 
@@ -104,8 +104,8 @@ exercises-description:
 ############### Team ################
 #####################################
 team-title: Unser Team
-team-description: "Wir sind ehrenamtlich engagierte Fachexperten. Wir kommen um dich zu unterstzützen und in dir das Potenzial zu entfalten. 
-Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sonder Menschen die Spaß daran haben mit die Kindern zu arbeiten.
+team-description: "Wir sind ehrenamtlich engagierte Fachexperten. Wir kommen um dich zu unterstützen und in dir das Potenzial zu entfalten. 
+Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sondern Menschen die Spaß daran haben mit Kindern zu arbeiten.
 <h3>Mentor werden</h3>
 <p>Möchtest du selber ein Mentor werden? Fülle unsere <a href=\"https://de.surveymonkey.com/r/GBNGGFP\">Umfrage</a> aus oder <a href=\"#contact\">schreib uns.</a></p>"
 
