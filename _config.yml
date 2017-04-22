@@ -63,11 +63,11 @@ banner-link: '/#contact'
 ####################################
 ######  Global Social Links   ######
 ####################################
-youtube:
+youtube: 'https://www.youtube.com/channel/UCsNUvEMrAXmWUicpXJXHKQw'
 pinterest:
 facebook: 'https://www.facebook.com/coderdojowien'
 twitter: 'https://twitter.com/coderdojowien'
-google-plus:
+google-plus: 'https://plus.google.com/b/117361304524937577544/117361304524937577544/'
 vimeo:
 
 # Google Map JS api
