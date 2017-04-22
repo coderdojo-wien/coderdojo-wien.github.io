@@ -140,6 +140,7 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-assets
+  - jekyll-last-modified-at
 
 sass:
   sass_dir: _scss
