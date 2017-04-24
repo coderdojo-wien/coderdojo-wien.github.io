@@ -1,0 +1,26 @@
+<!-- Cookieconsent CDN -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+
+<!-- Configure Cookie Consent -->
+<script>
+    window.addEventListener("load", function () {
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#000000",
+                    "text": "#ffffff"
+                },
+                "button": {
+                    "background": "#dc0102"
+                }
+            },
+            "theme": "false",
+            "content": {
+                "message": "{{ site.cookie-consent-message }}",
+                "link": "{{ site.cookie-consent-more-info-message }}",
+                "href": "{{ site.cookie-consent-more-info-url }}",
+                "dismiss": "{{ site.cookie-consent-dismiss-button-text }}"
+            }
+        })
+    });
+</script>

@@ -1,7 +1,7 @@
 # Team Member
 - name: Anton Kalcik
   tagline: Co-Founder
-  avatar: anton_kalcik.png
+  avatar: anton_kalcik.jpg
   email: 'anton.kalcik@wien.coderdojo.net'
 
   # Social Links
@@ -17,7 +17,7 @@
 # Team Member
 - name: Daniel Wagner
   tagline: Co-Founder
-  avatar: daniel_wagner.png
+  avatar: daniel_wagner.jpg
   email: 'daniel.wagner@wien.coderdojo.net'
 
   # Social Links
@@ -28,4 +28,20 @@
   google-plus: 'https://plus.google.com/+DanielWagner79'
   linkedin: 'https://www.linkedin.com/in/daniel-wagner-b90b43138/'
   xing: 'https://www.xing.com/profile/Daniel_Wagner314'
+  vimeo:
+
+  # Team Member
+- name: Tatyana Sandanova
+  tagline: Mentor
+  avatar: tatyana_sandanova.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook: 
+  twitter: 
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/tatyanasandanova/'
+  xing: 'https://www.xing.com/profile/Tatyana_Sandanova'
   vimeo:

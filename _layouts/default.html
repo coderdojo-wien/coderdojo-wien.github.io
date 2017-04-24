@@ -1,22 +1,31 @@
 <!DOCTYPE html >
 <html lang="{{ site.lang }}">
 
-  {% include head.html %}
+	<head>
 
-  <body>
+		{% include head.html %}
 
-    <!-- Page Loader -->
-    <div id="page-loader" class="page-loader"><span class="load-icon"></span></div>
+		{% include head-scripts.html %}
+		
+		{% include analytics.html %}
 
-    {% include header.html %}
+	</head>
 
-    {{ content }}
+	<body>
 
-    {% include footer.html %}
+		<!-- Page Loader -->
+		<div id="page-loader" class="page-loader">
+			<span class="load-icon"></span>
+		</div>
 
-    {% include scripts.html %}
-    
-    {% include analytics.html %}
-  </body>
+		{% include header.html %}
+
+		{{ content }} 
+
+		{% include footer.html %}
+
+		{% include scripts.html %}
+
+	</body>
 
 </html>

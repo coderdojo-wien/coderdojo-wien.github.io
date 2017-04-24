@@ -1,17 +1,69 @@
 <!-- Site Head -->
-<head>
-  <meta charset="utf-8" />
-  <title>{{ page.title | strip_html }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="shortcut icon" href="{{ site.baseurl }}/images/logos/favicon.png" title="Favicon" />  
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/logos/apple-touch-icon.png">
-  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logos/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logos/favicon-16x16.png" sizes="16x16">
-  <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
-  <meta name="msapplication-config" content="{{ site.baseurl }}/browserconfig.xml" />
-  <meta name="theme-color" content="#ffffff">
-  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+<meta charset="utf-8" />
+<title>{{ page.title | strip_html }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="canonical" href="http://wien.coderdojo.net"/>
+<link rel="shortcut icon" href="{{ site.baseurl }}/images/logos/favicon.png" title="Favicon" />
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/logos/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logos/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logos/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+<meta name="msapplication-config" content="{{ site.baseurl }}/browserconfig.xml" />
+<meta name="msvalidate.01" content="28696CB3CE8AF17590A5D1CAC24A9B37" />
+<meta name="theme-color" content="#DC0102">
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 
-  <!-- Importing Styles -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
-</head>
+<!-- Importing Styles -->
+<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+{% capture seo-tags %}
+<meta name="description" content="{{ site.description }}" />
+<meta name="keywords" content="{{ site.keywords }}" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="7 days" />
+
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.6.1 -->
+
+<!-- Facebook Open Graph -->
+<meta property="og:locale" content="{{ site.lang | replace: '-','_'}} " />
+<meta property="og:site_name" content="{{ site.title }}" /> 
+{% if page.title %}
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" /> 
+{% else %}
+    <meta property="og:type" content="website" /> 
+{% endif %} 
+{% capture page_url %}
+{{ site.baseurl | append: site.url | append: page.url | replace:'/index.html','/' | strip }}
+{%endcapture %}
+<meta property="og:url" content="{{ page_url }}" />
+<meta property="og:description" content="{{ site.description }}" />
+<!-- End of Facebook Open Graph -->
+
+<!-- Google+ / Schema.org -->
+{% if page.title %}
+    <meta itemprop="name" content="{{ page.title }}" />
+{% else %}
+    <meta itemprop="name" content="{{ site.title }}" /> 
+{% endif %}
+<meta itemprop="description" content="{{ site.description }}" />
+<!-- End of Google+ / Schema.org -->
+
+<!-- Twitter Cards -->
+{% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}" />
+{% else %}
+    <meta name="twitter:title" content="{{ site.title }}" />
+{% endif %}
+<meta name="twitter:url" content="{{ page_url }}" />
+<meta name="twitter:description" content="{{ site.description }}" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@CoderdojoWien" />
+<!-- End of Twitter Cards -->
+
+<!-- SEO -->
+<!-- Misc. tags -->
+
+{% endcapture %}
+{{ seo-tags | strip_newlines }}
+
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.6.1 -->
