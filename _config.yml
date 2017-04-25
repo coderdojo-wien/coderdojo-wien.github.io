@@ -31,7 +31,7 @@ keywords: "Kinder Lernen Programmieren Technik Dojo Wien Mentoring CoderDojo"
 # Focus Buttons
 header-focus-button:
   title: Termine
-  url: '/#sponsorship'
+  url: '/#events'
 
 # Secondary Buttons
 header-secondary-button:
@@ -84,7 +84,7 @@ map-lng: 16.3675638
 about-title: CoderDojo Wien
 about-description: "Das CoderDojo ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, in dem sie Technik und Programmieren lernen können. In regelmäßigen Treffen werden verschiedene Übungen gemacht.
 <h3>Für wen</h3>
-<p>Wenn du zwischen 8 und 17 Jahre alt bist, komm vorbei. Alles was du machen musst, ist sich <a href=\"#sponsorship\">für einen Termin anzumelden.</a>
+<p>Wenn du zwischen 8 und 17 Jahre alt bist, komm vorbei. Alles was du machen musst, ist sich <a href=\"#events\">für einen Termin anzumelden.</a>
 Wenn du jünger als 13 Jahre bist, muss dich ein Erwachsener begleiten und ganze Zeit anwesend sein.</p>
 <h3>Was du mitnehmen solltest</h3>
 <p>Du brauchst einen Laptop, es ist aber egal ob Windows, MacOS oder Linux. Ein Tablet oder Smartphone reicht nicht aus, egal ob iPad oder Android.</p>
