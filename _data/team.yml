@@ -25,7 +25,7 @@
   pinterest:
   facebook: 'https://www.facebook.com/daniel.wagn3r'
   twitter: 'https://www.twitter.com/daniel_wagn3r'
-  google-plus: 'https://plus.google.com/+DanielWagner79'
+  google-plus:
   linkedin: 'https://www.linkedin.com/in/daniel-wagner-b90b43138/'
   xing: 'https://www.xing.com/profile/Daniel_Wagner314'
   vimeo:
@@ -50,6 +50,22 @@
 - name: Roman Oelssner
   tagline: Mentor
   avatar: roman_oelssner.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook: 
+  twitter: 
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/romanoelssner/'
+  xing: 'https://www.xing.com/profile/Roman_Oelssner'
+  vimeo:
+
+    # Team Member
+- name: Doris Kub
+  tagline: Mentorin
+  avatar: doris_kub.jpg
   email:
 
   # Social Links
