@@ -52,12 +52,18 @@
 
       <div class="heading-content text-center child-center-v">
 
+        {% if site.headter-tagline != null || site.header-title != null %}
         <!-- Heading Title -->
         <div class="row heading-title">
-          <h2>{{ site.headter-tagline }}</h2>
-          <hr class="small">
-          <h1 class="thin">{{ site.header-title }}</h1>
+          {% if site.headter-tagline != null %}
+            <h2>{{ site.headter-tagline }}</h2>
+          {% endif %}
+          {% if site.header-title != null %}
+            <hr class="small">
+            <h1 class="thin">{{ site.header-title }}</h1>
+          {% endif %}
         </div>
+        {% endif %}
 
         <!-- Header Buttons -->
         <div class="row buttons-header">
