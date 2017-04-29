@@ -61,3 +61,19 @@
   linkedin: 'https://www.linkedin.com/in/romanoelssner/'
   xing: 'https://www.xing.com/profile/Roman_Oelssner'
   vimeo:
+
+    # Team Member
+- name: Doris Kub
+  tagline: Mentorin
+  avatar: doris_kub.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook: 'https://www.facebook.com/doris.kub'
+  twitter: 
+  google-plus: 
+  linkedin:
+  xing: 'https://www.xing.com/profile/Doris_Kub'
+  vimeo:
