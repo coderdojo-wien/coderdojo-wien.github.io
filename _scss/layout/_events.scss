@@ -48,13 +48,13 @@ section.events-section {
         padding: 20px 0;
         font-weight: bold;
         border-bottom: none;
-        background-color: $light-gray;
+        background-color: $primary;
         overflow: hidden;
 
           .event-date {
             text-transform: uppercase;
-            color: $normal-gray;
-            font-size: 2.5rem;
+            color: $white;
+            font-size: 2.3rem;
           }
 
           hr.normal {
@@ -78,25 +78,80 @@ section.events-section {
 
           .event-time {
             font-size: 1.5rem;
-            color: $normal-gray;
+            color: $white;
           }
 
           p.event-place {
 
             a {
               font-size: 1.25rem;
-              color:  $normal-gray;
+              color:  $white;
               &:active,
               &:hover{
                 color: $secondary;
               }
             }
-
         }
       }
 
+      .event-other-people {
+        padding: 20px 0;
+        font-weight: bold;
+        border-bottom: none;
+        background-color: $light-gray;
+        overflow: hidden;
+        
+          .event-people-group-name {
+            text-transform: uppercase;
+            color: $normal-gray;
+            font-size: 2.3rem;
+          }
+
+          hr.normal {
+            width: 60px;
+            height: 2px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            background-color: $white;
+
+            &:after {
+              height: 2px;
+              background-color: $white;
+            }
+          }
+
+          hr.separator {
+            width: 60px;
+            height: 2px;
+            margin: 20px auto 40px;
+          }
+
+          .event-people-group-description {
+            font-size: 1.4rem;
+            color: $normal-gray;
+          }
+      }
+
+
       // Event Registration
       .event-registration {
+
+         .button{
+           background-color: $white;
+           border-color: $primary;
+           color: $primary;
+              &:active,
+              &:hover{
+                color: $white;
+                background-color: $secondary;
+              }
+         }
+
+        background-color: $primary;
+        padding-bottom: 20px;
+      }
+
+      .event-registration-other-people {
 
          .button{
            background-color: $white;

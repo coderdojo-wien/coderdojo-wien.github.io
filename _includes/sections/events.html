@@ -47,6 +47,43 @@
 
         {% endfor %}
 
+        <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2">
+          <div class="events-table">
+
+            <!-- Event Content -->
+            <div class="event-other-people">
+              <h3 class="event-people-group-name">{{ site.event-people-group-name-mentor }}</h3>
+              <hr class="normal">
+              <p class="event-people-group-description">{{ site.event-people-group-description-mentor }}</p>
+              <hr class="normal">
+            </div>
+
+            <!-- Event Registration -->
+            <div class="event-registration-other-people">
+              <a href="{{ site.event-registration-url-mentor }}" target="_blank" class="button">Anmelden</a>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2">
+          <div class="events-table">
+
+            <!-- Event Content -->
+            <div class="event-other-people">
+              <h3 class="event-people-group-name">{{ site.event-people-group-name-guest }}</h3>
+              <hr class="normal">
+              <p class="event-people-group-description"/p>{{ site.event-people-group-description-guest }}</p>
+              <hr class="normal">
+            </div>
+
+            <!-- Event Registration -->
+            <div class="event-registration-other-people">
+              <a href="{{ site.event-registration-url-guest }}" target="_blank" class="button">Anmelden</a>
+            </div>
+
+          </div>
+        </div> 
   </div>
 </section>
 

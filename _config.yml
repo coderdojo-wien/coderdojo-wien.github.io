@@ -117,6 +117,14 @@ Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sondern Mensche
 #####################################
 events-title: Termine
 events-description:
+event-people-group-name-mentor: Mentor
+event-people-group-description-mentor: Anmeldung als Mentor
+
+event-people-group-name-guest: Besucher
+event-people-group-description-guest:  Anmeldung als Besucher
+
+event-registration-url-mentor: https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-33165421669?discount=CODERDOJO-MENTOR
+event-registration-url-guest: https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-33165421669?discount=CODERDOJO-BESUCHER
 
 #####################################
 ############   Contact   ############
