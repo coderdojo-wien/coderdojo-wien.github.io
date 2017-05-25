@@ -1,11 +1,3 @@
-/**
- *
- *  Owl Carousel Style
- *
- *  @package gleesik_modules
- *
- **/
-
 /* display none until init */
 .owl-carousel {
   display: none;
@@ -63,5 +55,60 @@
     backface-visibility: hidden;
     transform: translate3d(0,0,0);
   }
+  
+  .owl-controls {
+      &.clickable .owl-buttons div:hover {
+        opacity: 1;
+        text-decoration: none;
+    }
+    
+    .owl-prev,
+    .owl-next {
+      position: absolute;
+      top: 40%;
+    }
+    
+    .owl-prev {
+      left: 0;
+      i {
+          font-size: 3.5rem;
+      }
+    }
 
+    .owl-next {
+      right: 0;
+      i {
+          font-size: 3.5rem;
+      }
+    }
+    
+    .owl-buttons div {
+      color: $primary;
+      display: inline-block;
+      zoom: 1;
+      margin: 5px;
+      padding: 5px 10px;
+      font-size: 0.85rem;
+    }
+
+    .owl-page {
+      display: inline-block;
+
+      span {
+        display: block;
+        width: 30px;
+        height: 5px;
+        margin: 20px 4px 10px 4px;
+        background: $simple-gray;
+      }
+
+      &.active,
+      &:hover {
+        span {
+          background: $primary;
+        }
+      }
+      
+    }
+  }
 }
