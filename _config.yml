@@ -137,7 +137,7 @@ footer-imprint-url: /impressum
 #####################################
 ############# Components ############
 #####################################
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-assets
