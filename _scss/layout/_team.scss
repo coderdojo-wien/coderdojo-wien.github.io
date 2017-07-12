@@ -27,7 +27,7 @@ section.team-section {
 
     // Member
     .team-member {
-      background: $white;
+      background: transparent;
       margin-bottom: 30px;
       transition: all $transition-links $transition-links-type;
 
@@ -36,8 +36,9 @@ section.team-section {
         position: relative;
         overflow: hidden;
 
-        .img {
+        img {
           margin: 0 auto;
+          clip-path: circle(50% at 50% 50%);
         }
 
         &:before,
@@ -56,38 +57,43 @@ section.team-section {
           transition: all $transition-links $transition-links-type;
         }
 
-        &:after {
-          content: "\e623";
-        	font-family: '7-stroke';
-          font-size: 4rem;
-          width: auto;
-          height: auto;
-          color: $white;
-          background: transparent;
-        }
       }
 
       .team-member-content {
         padding: 30px 30px 20px 30px;
 
         h3.name {
-          font-size: 1rem;
+          font-size: 1.1rem;
           line-height: 1.4;
-          color: $normal-gray;
+          color: $dark-gray;
           text-transform: uppercase;
           margin-bottom: 5px;
-        }
+          text-align: center;
 
+           @media (max-width: 430px) {
+            font-size: 0.8rem;
+          }
+        }
+        
         h4.tagline {
-          font-size: 0.875rem;
+          font-size: 1.2rem;
+          text-align: center;
+          
+           @media (max-width: 430px) {
+            font-size: 0.7rem;
+          }
         }
 
         .social-icons {
           display: block;
           width: 100%;
           text-align: center;
-          font-size: 1.4rem;
+          font-size: 1.2rem;
           margin-top: 30px;
+
+          @media (max-width: 430px) {
+            display: none !important;
+          }
 
           .icons {
             display: inline-block;
@@ -106,9 +112,13 @@ section.team-section {
             }
           }
         }
-      }
-      
+      }     
     }
 
+    .owl-pagination {
+        @media (max-width: 430px) {
+          display: none !important;
+        }
+    }
   }
 }
