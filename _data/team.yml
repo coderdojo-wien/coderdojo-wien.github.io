@@ -133,3 +133,20 @@
   linkedin: 'https://www.linkedin.com/in/thomasmutzl/'
   xing: 'https://www.xing.com/profile/Thomas_Mutz'
   vimeo:
+
+# Team Member
+- firstname: Otmar
+  lastname: Pilgerstorfer
+  tagline: Mentor
+  avatar: otmar_pilgerstorfer.jpg
+  email:
+
+# Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter: 
+  google-plus: 
+  linkedin:
+  xing: 'https://www.xing.com/profile/Otmar_Pilgerstorfer'
+  vimeo:
