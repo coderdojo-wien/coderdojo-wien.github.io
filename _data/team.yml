@@ -1,5 +1,6 @@
 # Team Member
-- name: Anton Kalcik
+- firstname: Anton
+  lastname: Kalcik
   tagline: Co-Founder
   avatar: anton_kalcik.jpg
   email: 'anton.kalcik@wien.coderdojo.net'
@@ -15,7 +16,8 @@
   vimeo:
 
 # Team Member
-- name: Daniel Wagner
+- firstname: Daniel
+  lastname: Wagner
   tagline: Co-Founder
   avatar: daniel_wagner.jpg
   email: 'daniel.wagner@wien.coderdojo.net'
@@ -31,7 +33,8 @@
   vimeo:
 
   # Team Member
-- name: Tatyana Sandanova
+- firstname: Tatyana
+  lastname: Sandanova
   tagline: Mentorin
   avatar: tatyana_sandanova.jpg
   email:
@@ -47,7 +50,8 @@
   vimeo:
 
     # Team Member
-- name: Roman Oelssner
+- firstname: Roman
+  lastname: Oelssner
   tagline: Mentor
   avatar: roman_oelssner.jpg
   email:
@@ -63,7 +67,8 @@
   vimeo:
 
     # Team Member
-- name: Doris Kub
+- firstname: Doris
+  lastname: Kub
   tagline: Mentorin
   avatar: doris_kub.jpg
   email:
@@ -76,4 +81,55 @@
   google-plus: 
   linkedin:
   xing: 'https://www.xing.com/profile/Doris_Kub'
+  vimeo:
+
+# Team Member
+- firstname: Rigerta
+  lastname: Demiri
+  tagline: Mentorin
+  avatar: rigerta_demiri.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter: 
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/rigertademiri/'
+  xing:
+  vimeo:
+
+# Team Member
+- firstname: Tarik
+  lastname: Kurtovic
+  tagline: Mentor
+  avatar: tarik_kurtovic.jpg
+  email:
+
+# Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter: 
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/tarik-kurtovic-17632a26/'
+  xing: 'https://www.xing.com/profile/Tarik_Kurtovic'
+  vimeo:
+
+# Team Member
+- firstname: Thomas
+  lastname: Mutzl
+  tagline: Mentor
+  avatar: thomas_mutzl.jpg
+  email:
+
+# Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter: 
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/thomasmutzl/'
+  xing: 'https://www.xing.com/profile/Thomas_Mutz'
   vimeo:
