@@ -150,3 +150,20 @@
   linkedin:
   xing: 'https://www.xing.com/profile/Otmar_Pilgerstorfer'
   vimeo:
+
+# Team Member
+- firstname: Roman
+  lastname: Korecky
+  tagline: Mentor
+  avatar: roman_korecky.jpg
+  email:
+
+# Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter: 
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/roman-korecky-53610620/'
+  xing: 'https://www.xing.com/profile/Roman_Korecky'
+  vimeo:
