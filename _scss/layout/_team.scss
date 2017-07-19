@@ -93,6 +93,10 @@ section.team-section {
       }     
     }
 
+    .owl-carousel {
+      margin-top: 80px;
+    }
+    
     .owl-pagination {
         @media (max-width: 430px) {
           display: none !important;
