@@ -261,36 +261,3 @@ blockquote {
 		opacity: 0;
 	}
 }
-
-// Go to top
-.go-to-top-button {
-  position: fixed;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  bottom: 20px;
-  right: 20px;
-  width: 50px;
-  height: 50px;
-  cursor: pointer;
-  border: 1px solid $primary;
-  background: rgba($light-gray, 0.2);
-  transform: translate3d(0, calc(130% + 50px), 0);
-  transition: all $transition-links $transition-links-type;
-  z-index: 9999;
-
-  // Arrow Icon
-  i {
-    font-size: 3.2rem;
-  }
-
-  &:hover {
-    color: $white;
-    background: $primary;
-  }
-
-  // Active Destroy
-  &.active {
-    transform: translate3d(0, 0, 0);
-  }
-}
