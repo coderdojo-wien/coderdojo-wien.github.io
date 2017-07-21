@@ -67,27 +67,6 @@
             $body.toggleClass('no-scroll');
         });
 
-        $window.scroll(function() {
-            var $scrollTop = $window.scrollTop();
-            var $windowHeight = $window.height();
-            var $go_top = $('.go-to-top-button');
-            if ($scrollTop > 600) {
-                $go_top.addClass('active');
-            } else {
-                $go_top.removeClass('active');
-            }
-
-            function revealItem($container, $item) {
-                if ($scrollTop > ($container.offset().top - $windowHeight / 1.3)) {
-                    $item.each(function(i) {
-                        setTimeout(function() {
-                            $item.eq(i).addClass("is-showing");
-                        }, 150 * (i + 1));
-                    });
-                }
-            }
-        });
-
         $("#team-members-carousel").owlCarousel({
 
             navigation : true, // Show next & prev buttons
