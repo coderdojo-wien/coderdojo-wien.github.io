@@ -83,17 +83,29 @@ map-lng: 16.3675638
 #############   About   #############
 #####################################
 about-title: CoderDojo Wien
-about-description: "Das CoderDojo ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, in dem sie Technik und Programmieren lernen können. In regelmäßigen Treffen werden verschiedene Übungen gemacht.
+about-description: "<p>
+Das CoderDojo ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, in dem sie Technik und Programmieren lernen können. In regelmäßigen Treffen werden verschiedene Übungen gemacht.
+</p>
+<h2>Warum</h2>
+<p>
+Wir glauben das unsere Kinder und Jugendliche der Schlüssel sind um die gesellschaftlichen Probleme der Zukunft zu lösen. Deswegen haben wir uns entschlossen den Kindern und Jugendlichen einem Raum zu geben in dem sie sich in einem sozialen Umfeld auf eine informelle, kreative Art und Weise weiterbilden können. Ein Raum in dem die Erforschung von Technologie Freude macht.
+</p>
 <h2>Für wen</h2>
-<p>Wenn du zwischen 8 und 17 Jahre alt bist, komm vorbei. Alles was du machen musst, ist sich <a href=\"#events\">für einen Termin anzumelden.</a>
-Wenn du jünger als 13 Jahre bist, muss dich ein Erwachsener begleiten und ganze Zeit anwesend sein.</p>
-<h2>Was du mitnehmen solltest</h2>
-<p>Du brauchst einen Laptop, es ist aber egal ob Windows, MacOS oder Linux. Ein Tablet oder Smartphone reicht nicht aus, egal ob iPad oder Android.</p>
+<p>
+Wenn du zwischen 8 und 17 Jahre alt bist, komm vorbei. Alles was du machen musst, ist sich <a href=\"#events\">für einen Termin anzumelden.</a>
+<b>Wenn du jünger als 13 Jahre bist, muss dich ein Erwachsener begleiten und ganze Zeit anwesend sein.</b>
+</p>
+<h2>Was kostet es</h2>
+<p>
+Unser CoderDojo ist für die Kinder <b>kostenlos</b>. CoderDojo Wien ist ein Teil der weltweiten <a target=\"_blank\" href=\"https://coderdojo.com/\">CoderDojo Bewegung</a> welche ausschauschließlich ehrenamtlich arbeitet.
+</p>
 <h2>Wie läuft ein CoderDojo ab</h2>
-<p>Dōjō [doːdʑoː] kommt aus japanischen und steht für einen Trainingsraum für verschiedene Kampfkünste. Wir werden gemeinsam jedoch keine Kampfkünste sondern Programmieren tranieren. 
+<p>
+Dōjō [doːdʑoː] kommt aus japanischen und steht für einen Trainingsraum für verschiedene Kampfkünste. Wir werden gemeinsam jedoch keine Kampfkünste sondern Programmieren trainieren. 
 Wir haben einige Beispiele vorbereitet, jedoch stehen deine Ideen im Mittelpunkt. Wenn du ein cooles Projekt hast, bring es mit. Im CoderDojo 
 hast du Hilfe von <a href=\"#team\">Mentoren</a>, die viel Erfahrung und Wissen haben. Ein Mentor begleitet dich bei den ersten Schritten aber auch wenn du 
-schon erfahrener bist und eigene Projekte umsetzen möchtest.</p>"
+schon erfahrener bist und eigene Projekte umsetzen möchtest.
+</p>"
 
 #####################################
 ############  Exercises  ############
@@ -105,10 +117,14 @@ exercises-description:
 ############### Team ################
 #####################################
 team-title: Unser Team
-team-description: "Wir sind ehrenamtlich engagierte Fachexperten. Wir kommen um dich zu unterstützen und in dir das Potenzial zu entfalten. 
+team-description: "<p>
+Wir sind ehrenamtliche engagierte Fachexperten. Wir kommen um dich zu unterstützen und in dir dein Potenzial zu entfalten. 
 Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sondern Menschen die Spaß daran haben mit Kindern zu arbeiten.
+</p>
 <h2>Mentor werden</h2>
-<p>Möchtest du selber ein Mentor werden? Fülle unsere <a href=\"https://de.surveymonkey.com/r/GBNGGFP\">Umfrage</a> aus oder <a href=\"#contact\">schreib uns.</a></p>"
+<p>
+Möchtest du selber ein Mentor werden? Füll einfach unseren <a href=\"https://de.surveymonkey.com/r/GBNGGFP\">Fragebogen</a> aus oder <a href=\"#contact\">schreib uns. Wir melden uns dann bei dir.</a>
+</p>"
 
 # Members in separate data file
 
@@ -116,13 +132,29 @@ Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sondern Mensche
 ############## Events ###############
 #####################################
 events-title: Termine
-events-description:
+events-description: "<p>
+<b>Für ein CoderDojo brauchst du grundsätzlich einen Laptop</b> ein Tablet oder Smartphone reicht nicht aus.
+</p>
+<h2>Was du vorbereitet kannst</h2>
+<p>
+<b>Es gibt ein paar Vorbereitungsschritte die du zu hause machen kannst um das Zeit bei CoderDojo zu sparen.</b> 
+Falls du hilfe brauchst frage deine Eltern, wir helfen dir in zweifellsfall gern auch vor ort. Wir verwenden verschiede Sprachen und Technologien um das Programmieren zu lernen. 
+Für die kleinsten und Anfänger nutzen wir vor allem <a target=\"_blank\" href=\"https://scratch.mit.edu/\">Scratch</a>.
+</p>
+<h3>Vorbereitung für Scratch</h3>
+<p>
+Installiere dir einen <a target=\"_blank\" href=\"https://scratch.mit.edu/download\">Scratch</a> Client.
+</p>
+<h3>Vorbereitung für C#</h3>
+<p>
+Für C# brauchst du entweder <a target=\"_blank\" href=\"https://www.visualstudio.com/downloads/\">Visual Studio Community 2017</a> oder <a target=\"_blank\" href=\"https://code.visualstudio.com/\">Visual Studio Code</a> zu installieren.
+</p>"
 
 #####################################
 ############   Contact   ############
 #####################################
 contact-title: Sag Hallo
-contact-description: Hast du Fragen oder Anregungen? Schreib uns hier oder sag einfach <a href="mailto:hallo@wien.coderdojo.net">Hallo</a>!
+contact-description: "<p>Hast du Fragen oder Anregungen? Schreib uns hier oder sag einfach <a href=\"mailto:hallo@wien.coderdojo.net\"><b>Hallo</b></a>!</p>"
 
 #####################################
 #############   Footer   ############
@@ -137,7 +169,7 @@ footer-imprint-url: /impressum
 #####################################
 ############# Components ############
 #####################################
-plugins:
+plugins_dir:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-assets
