@@ -93,8 +93,8 @@
   # Social Links
   youtube:
   pinterest:
-  facebook:
-  twitter: 
+  facebook: 'https://www.facebook.com/demiri.rigerta'
+  twitter: 'https://twitter.com/Rigerta21'
   google-plus: 
   linkedin: 'https://www.linkedin.com/in/rigertademiri/'
   xing:
@@ -166,4 +166,21 @@
   google-plus: 
   linkedin: 'https://www.linkedin.com/in/roman-korecky-53610620/'
   xing: 'https://www.xing.com/profile/Roman_Korecky'
+  vimeo:
+
+  # Team Member
+- firstname: Christian
+  lastname: Bachtrögl
+  tagline: Mentor
+  avatar: christian_bachtroegl.jpg
+  email:
+
+# Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter: 
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/christian-bachtr%C3%B6gl-16824051/'
+  xing: 'https://www.xing.com/profile/Christian_Bachtroegl'
   vimeo:
