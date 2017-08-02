@@ -34,22 +34,22 @@ events-list:
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696864309"
 
-- event-date: 13.10.2017
-  event-time: 17:00 - 19:00
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696865312"
+# - event-date: 13.10.2017
+#   event-time: 17:00 - 19:00
+#   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696865312"
 
-- event-date: 27.10.2017
-  event-time: 17:00 - 19:00
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696866315"
+# - event-date: 27.10.2017
+#   event-time: 17:00 - 19:00
+#   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696866315"
 
-- event-date: 10.11.2017
-  event-time: 17:00 - 19:00
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696867318"
+# - event-date: 10.11.2017
+#   event-time: 17:00 - 19:00
+#   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696867318"
 
-- event-date: 24.11.2017
-  event-time: 17:00 - 19:00
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696868321"
+# - event-date: 24.11.2017
+#   event-time: 17:00 - 19:00
+#   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696868321"
