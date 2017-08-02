@@ -1,3 +1,15 @@
+title: "Unser Team"
+
+description: "<p>
+Wir sind ehrenamtliche engagierte Fachexperten. Wir kommen um dich zu unterstützen und in dir dein Potenzial zu entfalten. 
+Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sondern Menschen die Spaß daran haben mit Kindern zu arbeiten.
+</p>
+<h2>Mentor werden</h2>
+<p>
+Möchtest du selber ein Mentor werden? Füll einfach unseren <a href=\"https://de.surveymonkey.com/r/GBNGGFP\">Fragebogen</a> aus oder <a href=\"#contact\">schreib uns. Wir melden uns dann bei dir.</a>
+</p>"
+
+team-members-list:
 # Team Member
 - firstname: Anton
   lastname: Kalcik

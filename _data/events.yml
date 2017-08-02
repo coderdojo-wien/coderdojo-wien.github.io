@@ -1,3 +1,24 @@
+title: "Termine"
+
+description: "<p>
+<b>Für ein CoderDojo brauchst du grundsätzlich einen Laptop</b> ein Tablet oder Smartphone reicht nicht aus.
+</p>
+<h2>Was du vorbereitet kannst</h2>
+<p>
+<b>Es gibt ein paar Vorbereitungsschritte die du zu hause machen kannst um das Zeit bei CoderDojo zu sparen.</b> 
+Falls du hilfe brauchst frage deine Eltern, wir helfen dir in zweifellsfall gern auch vor ort. Wir verwenden verschiede Sprachen und Technologien um das Programmieren zu lernen. 
+Für die kleinsten und Anfänger nutzen wir vor allem <a target=\"_blank\" href=\"https://scratch.mit.edu/\">Scratch</a>.
+</p>
+<h3>Vorbereitung für Scratch</h3>
+<p>
+Installiere dir einen <a target=\"_blank\" href=\"https://scratch.mit.edu/download\">Scratch</a> Client.
+</p>
+<h3>Vorbereitung für C#</h3>
+<p>
+Für C# brauchst du entweder <a target=\"_blank\" href=\"https://www.visualstudio.com/downloads/\">Visual Studio Community 2017</a> oder <a target=\"_blank\" href=\"https://code.visualstudio.com/\">Visual Studio Code</a> zu installieren.
+</p>"
+
+events-list:
 - event-date: 23.6.2017
   event-time: 17:00 - 19:00
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>

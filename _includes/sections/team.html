@@ -7,13 +7,13 @@
 
       <!-- Section Header -->
       <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-        <h1>{{ site.team-title }}</h1>
+        <h1>{{ site.data.team.title }}</h1>
         <hr class="normal">
       </header>
 
       <!-- Section Content -->
       <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-        {{ site.team-description }}
+        {{ site.data.team.description }}
       </div>
 
     </div>
@@ -24,7 +24,7 @@
       <!-- Team Members Carousel -->
       <div id="team-members-carousel" class="owl-carousel col-md-12 col-md-push-0 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 
-        {% for member in site.data.team %}
+        {% for member in site.data.team.team-members-list %}
 
         <!-- Member -->
         <div class="col-md-10 col-md-push-1 col-sm-8 col-sm-push-2 col-xs-12 col-xs-push-0">
