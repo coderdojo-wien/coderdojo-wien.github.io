@@ -10,18 +10,18 @@
         </div>
 
         <div class="footer-info-text">
-          {% if site.footer-description != null %}<p>{{ site.footer-description }}</p>{% endif %}
+          {% if site.data.footer.description != null %}<p>{{ site.data.footer.description }}</p>{% endif %}
         </div>
 
         <div class="social-icons">
           <ul class="icons">
-            {% if site.youtube != null %} <li><a href="{{ site.youtube }}" target="_blank"><i class="fi flaticon-youtube"></i></a></li> {% endif %}
-            {% if site.pinterest != null %} <li><a href="{{ site.pinterest }}" target="_blank"><i class="fi flaticon-pinterest"></i></a></li> {% endif %}
-            {% if site.facebook != null %} <li><a href="{{ site.facebook }}" target="_blank"><i class="fi flaticon-facebook"></i></a></li> {% endif %}
-            {% if site.twitter != null %} <li><a href="{{ site.twitter }}" target="_blank"><i class="fi flaticon-twitter"></i></a></li> {% endif %}
-            {% if site.google-plus != null %} <li><a href="{{ site.google-plus }}" target="_blank"><i class="fi flaticon-google-plus"></i></a></li> {% endif %}
-            {% if site.vimeo != null %} <li><a href="{{ site.vimeo }}" target="_blank"><i class="fi flaticon-vimeo"></i></a></li> {% endif %}
-            {% if site.linkedin != null %} <li><a href="{{ site.linkedin }}" target="_blank"><i class="fi flaticon-linkedin"></i></a></li> {% endif %}
+            {% if site.data.social-links.youtube != null %} <li><a href="{{ site.data.social-links.youtube }}" target="_blank"><i class="fi flaticon-youtube"></i></a></li> {% endif %}
+            {% if site.data.social-links.pinterest != null %} <li><a href="{{ site.data.social-links.pinterest }}" target="_blank"><i class="fi flaticon-pinterest"></i></a></li> {% endif %}
+            {% if site.data.social-links.facebook != null %} <li><a href="{{ site.data.social-links.facebook }}" target="_blank"><i class="fi flaticon-facebook"></i></a></li> {% endif %}
+            {% if site.data.social-links.twitter != null %} <li><a href="{{ site.data.social-links.twitter }}" target="_blank"><i class="fi flaticon-twitter"></i></a></li> {% endif %}
+            {% if site.data.social-links.google-plus != null %} <li><a href="{{ site.data.social-links.google-plus }}" target="_blank"><i class="fi flaticon-google-plus"></i></a></li> {% endif %}
+            {% if site.data.social-links.vimeo != null %} <li><a href="{{ site.data.social-links.vimeo }}" target="_blank"><i class="fi flaticon-vimeo"></i></a></li> {% endif %}
+            {% if site.data.social-links.linkedin != null %} <li><a href="{{ site.data.social-links.linkedin }}" target="_blank"><i class="fi flaticon-linkedin"></i></a></li> {% endif %}
           </ul>
         </div>
 
@@ -30,13 +30,13 @@
       <div class="col-md-8 col-md-push-2 footer-copyright">
         <div class="footer-text text-center">
         <p>
-          {% if site.footer-copyright-url != null %}
-            <a href="{{ site.footer-copyright-url }}">{{ site.footer-copyright-text }}</a> {{ site.footer-copyright-year }} Copyright
+          {% if site.data.footer.copyright-url != null %}
+            <a href="{{ site.data.footer.copyright-url }}">{{ site.data.footer.copyright-text }}</a> {{ site.data.footer.copyright-year }} Copyright
           {% else %}
-            {{ site.footer-copyright-text }} {{ site.footer-copyright-year }}
+            {{ site.data.footer.copyright-text }} {{ site.data.footer.copyright-year }}
           {% endif %}
-          {% if site.footer-imprint-url != null %}
-            <a href="{{ site.footer-imprint-url }}">{{ site.footer-imprint-text }}</a>
+          {% if site.data.footer.imprint-url != null %}
+            <a href="{{ site.data.footer.imprint-url }}">{{ site.data.footer.imprint-text }}</a>
           {% endif %}
         </p>
         </div>
