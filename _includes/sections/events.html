@@ -7,13 +7,13 @@
 
       <!-- Events Header -->
       <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-        <h1>{{ site.events-title }}</h1>
+        <h1>{{ site.data.events.title }}</h1>
         <hr class="normal">
       </header>
 
       <!-- Events Content -->
       <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-        {% if site.events-description != null %} {{ site.events-description }} {% endif %}
+        {% if site.data.events.description != null %} {{ site.data.events.description }} {% endif %}
       </div>
 
     </div>
@@ -22,7 +22,7 @@
     <div class="row events-tables-container">
       <div class="events-tables-wrapper clearfix">
 
-        {% for event in site.data.events %}
+        {% for event in site.data.events.events-list %}
 
         <!-- Events Table -->
         <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2">
