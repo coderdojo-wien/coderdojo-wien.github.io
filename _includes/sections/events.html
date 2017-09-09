@@ -25,19 +25,19 @@
         {% for event in site.data.events.events-list %}
 
         <!-- Events Table -->
-        <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2">
+        <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2" itemscope itemtype="http://schema.org/Event">
           <div class="events-table">
 
             <!-- Event Content -->
             <div class="event-content">
               <span>Wann</span>
-              <p class="event-date">{{ event.event-date }}</p>
+              <p class="event-date" itemprop="startDate">{{ event.event-date }}</p>
               <hr class="normal">
               <span>Uhrzeit</span>
               <p class="event-time">{{ event.event-time }}</p>
               <hr class="normal">
               <span>Wo</span>
-              <p class="event-place">{{ event.event-place }}</p>
+              <p class="event-place" itemprop="location">{{ event.event-place }}</p>
             </div>
 
             <!-- Event Registration -->
