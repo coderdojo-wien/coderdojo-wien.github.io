@@ -31,13 +31,19 @@
             <!-- Event Content -->
             <div class="event-content">
               <span>Wann</span>
-              <p class="event-date" itemprop="startDate">{{ event.event-date }}</p>
+              <p class="event-date">{{ event.event-date }}</p>
+              <meta itemprop="name" content="CoderDojo Wien @ VERBUND" />
+              <meta itemprop="startDate" content="{{event.event-startdate}}" />
+              <meta itemprop="endDate" content="{{event.event-enddate}}" />
+              <meta itemprop="typicalAgeRange" content="7-17" />
+              <meta itemprop="duration" content="PT2H" />
+              <meta itemprop="description" content="{{site.description}}" />
               <hr class="normal">
               <span>Uhrzeit</span>
               <p class="event-time">{{ event.event-time }}</p>
               <hr class="normal">
               <span>Wo</span>
-              <p class="event-place" itemprop="location">{{ event.event-place }}</p>
+              <p class="event-place">{{ event.event-place }}</p>
             </div>
 
             <!-- Event Registration -->
