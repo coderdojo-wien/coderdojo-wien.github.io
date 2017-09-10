@@ -43,6 +43,7 @@
                 <!--group containing the image with clipping applied-->
                 <g clip-path="url(#clip)">
                   <image overflow="visible" width="200" height="200" x:link:alt ="Image of {{member.name}}" xlink:href="{{ site.baseurl }}/images/avatars/{{ member.avatar }}"></image>
+                  <meta itemprop="image" content="{{ site.baseurl }}/images/avatars/{{ member.avatar }}"" />
                 </g>
               </svg>
             </div>
