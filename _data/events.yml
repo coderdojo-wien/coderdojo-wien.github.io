@@ -24,6 +24,7 @@ events-list:
   event-startdate: 2017-09-15T15:00:00Z
   event-enddate: 2017-09-15T17:00:00Z
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696863306"
 
 - event-date: 29.9.2017
@@ -31,6 +32,7 @@ events-list:
   event-startdate: 2017-09-29T15:00:00Z
   event-enddate: 2017-09-29T17:00:00Z
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696864309"
 
 - event-date: 13.10.2017
@@ -38,6 +40,7 @@ events-list:
   event-startdate: 2017-10-13T15:00:00Z
   event-enddate: 2017-10-13T17:00:00Z
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696865312"
 
 # - event-date: 27.10.2017

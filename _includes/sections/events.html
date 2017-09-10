@@ -38,6 +38,16 @@
               <meta itemprop="typicalAgeRange" content="7-17" />
               <meta itemprop="duration" content="PT2H" />
               <meta itemprop="description" content="{{site.description}}" />
+              <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+                <meta itemprop="name" content="{{ event.event-placename }}" />
+                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                  <meta itemprop="streetAddress" content="Am Hof 6a" />
+                  <meta itemprop="addressLocality" content="Wien" />
+                  <meta itemprop="postalCode" content="1010" />
+                  <meta itemprop="addressCountry" conent="AT" />
+
+                </div>
+              </div>
               <hr class="normal">
               <span>Uhrzeit</span>
               <p class="event-time">{{ event.event-time }}</p>
