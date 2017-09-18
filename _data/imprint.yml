@@ -1,10 +1,35 @@
-title: Impressum und Datenschutz
+title: Impressum, Offenlegung und Datenschutz
 
-owner-content: "<h3>Inhaber</h3><p>Anton Kalcik, MSc.<br/>
+owner-content: "<h3>Vereinsname</h3>
+<div class=\"row text-center\">
+digital.austria
+</div>
+
+<h3>Vereinssitz</h3>
+<div class=\"row text-center\">
+Strasshof an der Nordbahn</br>
+</div>
+
+<h3>Zustellanschrift</h3>
+<div class=\"row text-center\">
 Grenzstraße 153/2/11<br/>
 2231 Strasshof an der Nordbahn
-<p>Dipl.-Ing. Mag. Daniel Wagner
-<br/>Bahnweg 3 Haus 1<br/>3425 Langenlebarn</p>"
+</div>
+
+<h3>Email</h3>
+<div class=\"row text-center\">
+<a href=\"mailto:hallo@wien.coderdojo.net\">hallo@wien.coderdojo.net</a>
+</div>
+
+<h3>ZVR-Nummer</h3>
+<div class=\"row text-center\">
+1014456765
+</div>
+
+<h3>Vereinsregisterbehörde</h3>
+<div class=\"row text-center\">
+Bezirkshauptmannschaft Gänserndorf
+</div>"
 
 dataprotection-content: "<h3>Datenschutz</h3><p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (\"Google\"). Google Analytics verwendet sog. \"Cookies\", Textdateien, die auf Ihrem Computer
 gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website
