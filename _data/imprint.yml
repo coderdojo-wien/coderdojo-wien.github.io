@@ -1,35 +1,12 @@
-title: Impressum, Offenlegung und Datenschutz
+title: Impressum und Datenschutz
 
-owner-content: "<h3>Vereinsname</h3>
-<div class=\"row text-center\">
-digital.austria
-</div>
-
-<h3>Vereinssitz</h3>
-<div class=\"row text-center\">
-Strasshof an der Nordbahn</br>
-</div>
-
-<h3>Zustellanschrift</h3>
-<div class=\"row text-center\">
+owner-content: "<h3>Inhaber</h3><p>
+<img src=\"/images/digital.austria-logo.svg\" width=\"300\" alt=\"digital.austria logo\" style=\"margin:0\"></p>
+<p>digital.austria – Verein zur Förderung der Informationstechnologie<br/>
 Grenzstraße 153/2/11<br/>
-2231 Strasshof an der Nordbahn
-</div>
-
-<h3>Email</h3>
-<div class=\"row text-center\">
-<a href=\"mailto:hallo@wien.coderdojo.net\">hallo@wien.coderdojo.net</a>
-</div>
-
-<h3>ZVR-Nummer</h3>
-<div class=\"row text-center\">
-1014456765
-</div>
-
-<h3>Vereinsregisterbehörde</h3>
-<div class=\"row text-center\">
-Bezirkshauptmannschaft Gänserndorf
-</div>"
+2231 Strasshof and der Nordbahn</p>
+<p>ZVR-Nummer: 1014456765</p>
+<p><a href=\"mailto:hallo@wien.coderdojo.net\">hallo@wien.coderdojo.net</a></p>"
 
 dataprotection-content: "<h3>Datenschutz</h3><p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (\"Google\"). Google Analytics verwendet sog. \"Cookies\", Textdateien, die auf Ihrem Computer
 gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website
