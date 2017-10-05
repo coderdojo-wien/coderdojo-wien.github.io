@@ -1,59 +1,86 @@
-#
-# Exercises Grid
-#
-exercises-categories: [Scratch, CodingGame, C-Sharp, Java, Html, JavaScript]
-exercises:
+exercises-title: "Übungsbeispiele"
+exercises-description:
 
-# Exercises Item
-- title: S<span class="thin">era</span> Style
-  categories: [Scratch, C-Sharp]
-  image: img-01.jpg
-  url: '#'
+technologies:
 
-# Exercises Item
-- title: S<span class="thin">era</span> Style
-  categories: [C-Sharp, CodingGame, Scratch]
-  image: img-02.jpg
-  url: '#'
+  - id: "csharp"
+    title: "C#"
+    description: 
+    exercises: 
+      - name: "Erste Schritte - Übung 1 - Hello World"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Hello_World/Readme.md"
+      - name: "Erste Schritte - Übung 2 - Datentypen und Variablen"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Datentypen_Variablen/Readme.md"
+      - name: "Erste Schritte - Übung 3 - Arrays, Lists und Dictionaries"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Array_Lists_Dictionaries/Readme.md"
+      - name: "Erste Schritte - Übung 4 - Schleifen"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md"
+      - name: "Erste Schritte - Übung 5 - Bedingte Anweisungen und Verzweigungen"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Bedingte_Anweisungen_und_Verzweigungen/Readme.md"
+      - name: "Erste Schritte - Übung 6 - Klassen"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md"
 
-# Exercises Item
-- title: S<span class="thin">era</span> Style
-  categories: [C-Sharp, CodingGame, JavaScript]
-  image: img-03.jpg
-  url: '#'
+  - id: "microbit"
+    title: "micro:bit"
+    description: 
+    exercises: 
+      - name: "Hello World"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Hello_World/Readme.md"
 
-# Exercises Item
-- title: S<span class="thin">era</span> Style
-  categories: [Scratch, Html, JavaScript]
-  image: img-04.jpg
-  url: '#'
-
-# Exercises Item
-- title: S<span class="thin">era</span> Style
-  categories: [Java, CodingGame]
-  image: img-05.jpg
-  url: '#'
-
-# Exercises Item
-- title: S<span class="thin">era</span> Style
-  categories: [Java, Html]
-  image: img-06.jpg
-  url: '#'
-
-# Exercises Item
-- title: S<span class="thin">era</span> Style
-  categories: [Scratch, C-Sharp]
-  image: img-07.jpg
-  url: '#'
-
-# Exercises Item
-- title: S<span class="thin">era</span> Style
-  categories: [Scratch , Html]
-  image: img-08.jpg
-  url: '#'
-
-# Exercises Item
-- title: S<span class="thin">era</span> Style
-  categories: [JavaScript, CodingGame]
-  image: img-09.jpg
-  url: '#'
+  - id: "html"
+    title: "html"
+    description: 
+    exercises: 
+      - name: "Hello World"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Hello_World/Readme.md"        
+      
+  - id: "scratch"
+    title: "Scratch"
+    description: 
+    exercises: 
+      - name: "Fledermaus"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/scratch/Fledermaus/Readme.md"
+      - name: "Erste Schritte - Lass Scratchy, die Katze, herumlaufen"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-erste-schritte.html"
+      - name: "Erzähle eine kurze Geschichte mit Scratch"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-geschichte-katze-und-ente.html"
+      - name: "Male Formen mit verschieden vielen Ecken wie Dreiecke, Vierecke oder Siebenecke"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-n-ecke-malen.html"
+      - name: "Paddle Game - Lass den Ball nicht auf den Boden fallen"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-paddle-game.html"
+      - name: "Space Shooter - Zerstöre die Meteoriten bevor sie dein Raumschiff zerstören"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-space-shooter.html"
+      - name: "Zahlen raten - Wie viele Tipps brauchst du?"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-zahlenraten.html"
+      - name: "Fang mich - Kannst du dem Haifisch entkommen?"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-fang-mich.html"
+      - name: "Breakout - Pulverisiere bunte Mauersteine"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-breakout.html"
+      - name: "Snake - Lass die Schlange die Äpfel aufsammeln"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-snake.html"
+      - name: "Memory - Finde die Paare"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-memory.html"
+      - name: "Die Zauberlehrlinge - Dieses Spiel kannst du gemeinsam mit einem Freund oder einer Freundin spielen"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-zauberlehrlinge.html"
+      - name: "Sterne fangen - Springe hoch, um möglichst viele Sterne zu fangen"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-zauberlehrlinge.html"
+      - name: "Dragons Realm - Verteidige dein Reich mit Feuerbällen"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-zauberlehrlinge.html"
+      - name: "Steinschleuder - Füttere den Affen mit Bananen"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-slingshot.html"
+      - name: "Weihnachtsspiel - Wie viele Geschenke schaffst du in 60 Sekunden?"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-weihnachten.html"
+      - name: "Sierpinski Dreieck - Male ein Fraktal"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-sierpinski-dreieck.html"
+      - name: "Pac Man - Friss dich durch’s Labyrinth"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-pac-man.html"
+      - name: "The Game of Life - Erwecke Zellen zum Leben"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-the-game-of-life.html"
+      - name: "Minesweeper - Finde die Bomben"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-minesweeper.html"
+      - name: "Weihnachtsspiel 2016 - Dekoriere den Weihnachtsbaum"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-weihnachten-2016.html"
+      - name: "Finde den Weg aus dem Labyrinth (Scratch/JavaScript)"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-labyrinth.html"
+      - name: "Chess - Programmiere einen Computerspieler für Schach)"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-chess.html"                                                                
