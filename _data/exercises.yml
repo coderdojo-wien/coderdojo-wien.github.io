@@ -1,10 +1,11 @@
-exercises-title: "Übungsbeispiele"
-exercises-description:
+exercises-title: "Übungen"
+exercises-description: "Hier findest du alle unsere Programmierbeispiele die wir für CoderDojo entworfen haben. "
 
 technologies:
 
   - id: "csharp"
     title: "C#"
+    sort-title: "C#"
     description: 
     exercises: 
       - name: "Erste Schritte - Übung 1 - Hello World"
@@ -22,20 +23,51 @@ technologies:
 
   - id: "microbit"
     title: "micro:bit"
+    sort-title: "Micro:bit"
     description: 
     exercises: 
       - name: "Hello World"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Hello_World/Readme.md"
 
-  - id: "html"
-    title: "html"
+  - id: "web"
+    title: "Web"
+    sort-title: "Web"
     description: 
     exercises: 
-      - name: "Hello World"
-        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Hello_World/Readme.md"        
+      - name: "Baue deine erste Webseite"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/html-meine-erste-webseite.html"
+      - name: "Erste Schritte mit CSS"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/erste-schritte-mit-css.html"
+      - name: "Programmiere ein einfaches “Zahlen raten” Spiel mit JavaScript"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/javascript-zahlen-raten.html"
+      - name: "Erste Schritte mit SVG"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/erste-schritte-mit-svg.html"
+      - name: "Einen Node.js Webserver programmieren"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/nodejs-webserver.html"
+      - name: "Programmiere einen Chat mit Node.js und Socket.io"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/nodejs-socketio-chat.html"
+      - name: "Ein Space Shooter mit TypeScript und Phaser.io"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/space-shooter.html"
+      - name: "Deine eigene Verschlüsselung mit JavaScript"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/caesar-verschluesseln.html"
+      - name: "Präsentationen mit HTML statt PowerPoint"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/html-prasentationen.html"
+      - name: "Fraktalbaum mit SVG"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/svg-fraktalbaum.html"
+      - name: "Hangman mit JavaScript und SVG"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/hangman.html"
+      - name: "Finde den Weg aus dem Labyrinth (Scratch/JavaScript)"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/labyrinth-mit-svg.html"
+      - name: "Schreibtrainer mit SVG"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/svg-schreibtrainer.html"
+      - name: "Erste Schritte mit Hugo"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/erste-schritte-mit-hugo.html"
+      - name: "Snake mit Node.js"
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/web/snake-mit-nodejs.html"                
       
   - id: "scratch"
     title: "Scratch"
+    sort-title: "Scratch"    
     description: 
     exercises: 
       - name: "Fledermaus"
@@ -82,5 +114,5 @@ technologies:
         url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-weihnachten-2016.html"
       - name: "Finde den Weg aus dem Labyrinth (Scratch/JavaScript)"
         url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-labyrinth.html"
-      - name: "Chess - Programmiere einen Computerspieler für Schach)"
+      - name: "Chess - Programmiere einen Computerspieler für Schach"
         url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-chess.html"                                                                

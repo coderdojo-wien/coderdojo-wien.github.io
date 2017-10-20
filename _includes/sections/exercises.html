@@ -1,9 +1,10 @@
 <!-- Exercise Section -->
-<section class="site-section exercises-section" id="exercises">
+<section class="site-section exercises-section">
+
   <div class="container">
 
     <!-- Section Heading -->
-    <div class="row">
+    <div class="row"> 
 
       <!-- Section Header -->
       <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
@@ -14,53 +15,59 @@
       <!-- Section Content -->
       <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
         {% if site.data.exercises.exercises-description != null %} {{ site.data.exercises.exercises-description }} {% endif %}
-
-        {% for technology in site.data.exercises.technologies %}
-            <a href="{{ site.baseurl }}/exercises/#{{ technology.id }}" class="button-cta button-focus">{{ technology.title }}</a>
-        {% endfor %}
       </div>
        
     </div>
 
-  </div>
-</section>
-
-{% for technology in site.data.exercises.technologies %}
-
-{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-{% if thecycle == 'odd' %}
-  {% assign section-focus-class = 'section-focus' %}
-{% else %}
-  {% assign section-focus-class = null %}
-{% endif %}
-
-<section class="site-section about-section next-section-indicator {{section-focus-class}}" id="{{ technology.id }}">
-  <div class="container">
-
-    <!-- Section Heading -->
-    <div class="row">
-
-      <!-- Section Header -->
-      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-        <h2>{{ technology.title }}</h2>
-        <hr class="normal">
-      </header>
-
-      <!-- Section Content -->
-      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-        {{ technology.description }}
-        {% if technology.exercises %}
-          <ul>
-            {% for exercise in technology.exercises %}
-              <li><a target="_blank" href="{{ exercise.url }}" >{{ exercise.name }}</a></li>
-            {% endfor %}
-          </ul>
-        {% endif %}
-      </div>
-
+    <!-- Menu -->
+    <div class="row text-center exercises-menu">
+      {% assign technologies = site.data.exercises.technologies | sort: 'sort-title' %}
+      {% for technology in technologies %}
+        <a href="{{ site.baseurl }}/exercises/#{{ technology.id }}" class="button-cta button-focus col-lg-2 col-lg-push-2 col-md-2 col-md-push-2 col-xs-8 col-xs-push-2">{{ technology.title }}</a>
+      {% endfor %}
     </div>
 
   </div>
-</section>
 
-{% endfor %}
+  {% for technology in technologies %}
+  
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+      {% assign section-focus-class = 'section-focus' %}
+    {% else %}
+      {% assign section-focus-class = null %}
+    {% endif %}
+    
+    <section class="site-section about-section next-section-indicator exercise-section {{section-focus-class}}" id="{{ technology.id }}">
+      <div class="container">
+    
+        <!-- Section Heading -->
+        <div class="row">
+    
+          <!-- Section Header -->
+          <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+            <h2>{{ technology.title }}</h2>
+            <hr class="normal">
+          </header>
+    
+          <!-- Section Content -->
+          <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+            {{ technology.description }}
+            {% assign exercises = technology.exercises | sort: 'name' %}
+            {% if exercises %}
+              <ul>
+                {% for exercise in exercises %}
+                  <li><a target="_blank" href="{{ exercise.url }}" >{{ exercise.name }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+    
+        </div>
+    
+      </div>
+    </section>
+  
+  {% endfor %}
+
+</section>
