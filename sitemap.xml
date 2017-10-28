@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://wien.coderdojo.net/</loc>
-    <lastmod>2017-09-26</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2017-10-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://wien.coderdojo.net/impressum/</loc>
     <lastmod>2017-09-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
   </url>
+  <url>
+    <loc>https://wien.coderdojo.net/exercises/</loc>
+    <lastmod>2017-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>  
 </urlset>
