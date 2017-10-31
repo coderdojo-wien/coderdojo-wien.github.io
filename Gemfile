@@ -19,7 +19,7 @@ gem "jekyll", "~> 3.6.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-    gem "jekyll-assets", "~> 2.4.0"
+#    gem "jekyll-assets", "~> 2.4.0"
     gem "jekyll-feed", "~> 0.9.2"
     gem "jekyll-last-modified-at", "~> 1.0.1"
     gem 'jekyll-redirect-from', "~> 0.12.1"
