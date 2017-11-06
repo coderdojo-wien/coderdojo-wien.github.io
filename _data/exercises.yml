@@ -12,12 +12,12 @@ technologies:
         url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Hello_World/Readme.md"
       - name: "Erste Schritte - Übung 2 - Datentypen und Variablen"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Datentypen_Variablen/Readme.md"
-      - name: "Erste Schritte - Übung 3 - Arrays, Lists und Dictionaries"
+      - name: "Erste Schritte - Übung 3 - Bedingte Anweisungen und Verzweigungen"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Bedingte_Anweisungen_und_Verzweigungen/Readme.md"        
+      - name: "Erste Schritte - Übung 4 - Arrays, Lists und Dictionaries"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Array_Lists_Dictionaries/Readme.md"
-      - name: "Erste Schritte - Übung 4 - Schleifen"
+      - name: "Erste Schritte - Übung 5 - Schleifen"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md"
-      - name: "Erste Schritte - Übung 5 - Bedingte Anweisungen und Verzweigungen"
-        url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Bedingte_Anweisungen_und_Verzweigungen/Readme.md"
       - name: "Erste Schritte - Übung 6 - Klassen"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md"
 
@@ -28,6 +28,8 @@ technologies:
     exercises: 
       - name: "Hello World"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Hello_World/Readme.md"
+      - name: "Spielwürfel"
+        url: "https://github.com/coderdojo-wien/exercises/tree/dev/microbit/Spielwuerfel"
 
   - id: "web"
     title: "Web"
