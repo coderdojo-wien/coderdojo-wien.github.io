@@ -196,3 +196,20 @@ team-members-list:
   linkedin: 'https://www.linkedin.com/in/christian-bachtr%C3%B6gl-16824051/'
   xing: 'https://www.xing.com/profile/Christian_Bachtroegl'
   vimeo:
+
+# Team Member
+- firstname: Michael
+  lastname: Kruisz
+  tagline: Mentor
+  avatar: michael_kruisz.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook: 'https://www.facebook.com/michael.kruisz'
+  twitter: 'https://twitter.com/krawuzikapuzi_'
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/michael-kruisz'
+  xing: 'https://www.xing.com/profile/Michael_Kruisz'
+  vimeo:
