@@ -4,7 +4,7 @@
         var $window = $(window);
         setTimeout(function() {
             $('.page-loader').addClass('load-complete');
-        }, 1500);
+        }, 500);
 
         'use strict';
 
