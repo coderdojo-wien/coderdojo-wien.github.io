@@ -35,13 +35,13 @@ events-list:
 #   event-placename: VERBUND
 #   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696867318"
 
-- event-date: 24.11.2017
-  event-time: 17:00 - 19:00
-  event-startdate: 2017-11-24T15:00:00Z
-  event-enddate: 2017-11-24T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696868321"
+# - event-date: 24.11.2017
+#   event-time: 17:00 - 19:00
+#   event-startdate: 2017-11-24T15:00:00Z
+#   event-enddate: 2017-11-24T17:00:00Z
+#   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+#   event-placename: VERBUND
+#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696868321"
 
 - event-date: 15.12.2017
   event-time: 17:00 - 19:00
@@ -59,13 +59,13 @@ events-list:
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-39454492449"
 
-# - event-date: 26.1.2018
-#   event-time: 17:00 - 19:00
-#   event-startdate: 2018-01-26T15:00:00Z
-#   event-enddate: 2018-01-26T17:00:00Z
-#   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-#   event-placename: VERBUND
-#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-39328074329"
+- event-date: 26.1.2018
+  event-time: 17:00 - 19:00
+  event-startdate: 2018-01-26T15:00:00Z
+  event-enddate: 2018-01-26T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-39328074329"
 
 # - event-date: 9.2.2018
 #   event-time: 17:00 - 19:00
