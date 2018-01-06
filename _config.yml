@@ -63,9 +63,7 @@ map-lng: 16.3675638
 ############# Components ############
 #####################################
 plugins_dir:
-  # - jekyll-assets
   - jekyll-feed
-  - jekyll-last-modified-at
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
