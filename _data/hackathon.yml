@@ -1,0 +1,62 @@
+title: "Was kann ich hacken?"
+description: "[Description TBD]"
+
+timeline-title: "Tagesprogramm"
+timeline: "
+<h2>Hackathon bei Microsoft Österreich</h2>
+<table>
+  <tbody>
+    <tr>
+      <td>08:00 - 09:00</td> <td>Caffe Hallo</td>
+    </tr>
+    <tr>  
+      <td>09:00 - 09:30</td> <td>Learning-Hub Tour</td>
+    </tr>
+    <tr>
+      <td>09:30 - 12:00</td> <td>Hackathon</td>
+    </tr>
+    <tr>
+      <td>12:00 - 13:00</td> <td>Mittagessen</td>
+    </tr>
+    <tr>
+      <td>13:00 - 16:00</td> <td>Hackathon</td>
+    </tr>
+    <tr>
+      <td>16:00 - 16:30</td> <td>Verlosung</td>
+    </tr>
+  </tbody>  
+</table>
+<h2>CoderDojo Wien bei Microsoft Österreich</h2>
+<table>
+  <tbody>
+    <tr>
+      <td>17:00 - 17:30</td> <td>Learning-Hub Tour</td>
+    </tr>
+      <td>17:30 - 19:30</td> <td>CoderDojo Wien</td>
+  </tbody>  
+</table>"
+
+registration-title: "Anmeldung"
+registration-description:
+
+event-map-text: CoderDojo Wien bei Microsoft
+event-map-text-location: Wien, Österreich
+event-map-lng: 16.3344095
+event-map-lat: 48.170816
+
+events-list:
+- event-date: 16.2.2018
+  event-time: 08:00 - 16:30
+  event-startdate: 2018-2-16T08:00:00Z
+  event-enddate: 2018-2-16T16:30:00Z
+  event-place: <a href="#event-place-map">Microsoft, Am Euro Platz 3, 1120 Wien</a>
+  event-placename: Microsoft
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-hackathon-at-microsoft-tickets-41918976788"
+
+- event-date: 16.2.2018
+  event-time: 17:00 - 19:30
+  event-startdate: 2018-2-16T17:00:00Z
+  event-enddate: 2018-2-16T19:30:00Z
+  event-place: <a href="#event-place-map">Microsoft, Am Euro Platz 3, 1120 Wien</a>
+  event-placename: Microsoft
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-microsoft-tickets-41919099154"  

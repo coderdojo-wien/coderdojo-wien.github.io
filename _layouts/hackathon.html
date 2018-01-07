@@ -1,0 +1,31 @@
+<!DOCTYPE html >
+<html lang="{{ site.lang }}">
+
+	<head>
+
+		{% include head.html %}
+
+		{% include head-scripts.html %}
+		
+		{% include analytics.html %}
+
+	</head>
+
+	<body>
+
+		<!-- Page Loader -->
+		<div id="page-loader" class="page-loader">
+			<span class="load-icon"></span>
+		</div>
+
+		{% include header-hackathon.html %}
+
+		{{ content }} 
+
+		{% include footer.html %}
+
+		{% include body-scripts.html %}
+
+	</body>
+
+</html>

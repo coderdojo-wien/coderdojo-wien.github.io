@@ -1,0 +1,18 @@
+div.hackathon {
+	img{
+		min-height: 100% !important;
+		max-height: 100% !important;
+	}
+}
+
+div.hackathon-timeline {
+	table {
+		width: 50%;
+		margin: 0 auto;
+
+		tbody tr td {
+			text-align: left;
+			padding-top: 0.5em;
+		}
+	}
+}
