@@ -1,5 +1,21 @@
-title: "Was kann ich hacken?"
-description: "[Description TBD]"
+title: "Coder Dojo Wien Hackathon 2018"
+description: "Du kannst programmieren und magst dabei auch etwas gutes tun? Dann mach mit bei CoderDojo Wien Hackathon. In Microsoft Austria Headquarter, einem der modersten und innovativsten Büros Wiens, kannst du den ganzen Tag tüfteln was das Zeug hält.
+
+<h2>Was kann ich hacken?</h2>
+Alles was du magst. Wir wollen gemeinsam mit dir Übungsbeispiele für unsere Kinder, die zwischen 8-17 Jahre alt sind, entwickeln. Blicke kurz <a href='/exercises' target='_blank'>hier</a> und sehe dir an wie ein Übungsbeispiel aussehen kann. Damit du nicht alleine fühlst nehmen wir unsere <a href='https://www.microbit.org/guide/' target='_blank'>micro:bits</a> mit. Sonst machen wir noch Scratch, C# und alles was du magst. Die Technologie spielt keine Rolle und du bist frei.
+
+<h2>Wie läuft es ab?</h2>
+Nach einer Tour durch den Microsoft Learning Hub und einem kurzen Briefing von der CoderDojo Crew geht’s in Team ans Eigengemachte und der Kreativität darf freien Lauf gelassen werden. Am Ende kannst du noch coole Preise wie Rasberry Pi oder ein Ticket für die <a href='https://www.wearedevelopers.com/' target='_blank'>WeAreDevelopers</a> Konferenz in Wien im Wert von 299 Euro.
+
+<h2>Ist das alles?</h2>
+Nein. Anschließend nach dem Hackathon wird es mit einen CoderDojo Wien weitergehen. Treff unsere Kinder und probiere mit ihnen deine Beispiele aus die beim Hackathon entstanden sind."
+
+sponsor-title: "Wir danken"
+sponsors-list:
+- link: "<a href='https://www.microsoft.com/de-at' target='_blank'><img src='/images/microsoft-logo.png'/></a>"
+- link: "<a href='https://www.verbund.com' target='_blank'><img src='/images/verbund-logo.png'/></a>"
+- link: "<a href='https://www.wearedevelopers.com' target='_blank'><img src='/images/wearedevelopers-logo.png'/></a>"
+- link: "<a href='https://www.lieberlieber.com' target='_blank'><img src='/images/lieberlieber-logo.png'/></a>"
 
 timeline-title: "Tagesprogramm"
 timeline: "
@@ -30,9 +46,8 @@ timeline: "
 <table>
   <tbody>
     <tr>
-      <td>17:00 - 17:30</td> <td>Learning-Hub Tour</td>
+      <td>17:00 - 19:00</td> <td>CoderDojo Wien</td>
     </tr>
-      <td>17:30 - 19:30</td> <td>CoderDojo Wien</td>
   </tbody>  
 </table>"
 
@@ -54,9 +69,9 @@ events-list:
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-hackathon-at-microsoft-tickets-41918976788"
 
 - event-date: 16.2.2018
-  event-time: 17:00 - 19:30
+  event-time: 17:00 - 19:00
   event-startdate: 2018-2-16T17:00:00Z
-  event-enddate: 2018-2-16T19:30:00Z
+  event-enddate: 2018-2-16T19:00:00Z
   event-place: <a href="#event-place-map">Microsoft, Am Euro Platz 3, 1120 Wien</a>
   event-placename: Microsoft
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-microsoft-tickets-41919099154"  

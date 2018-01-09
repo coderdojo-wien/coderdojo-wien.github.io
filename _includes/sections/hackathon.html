@@ -1,4 +1,4 @@
-<section class="site-section next-section-indicator">
+<section class="site-section">
   <div class="container">
 
     <!-- Section Heading -->
@@ -15,6 +15,35 @@
         {{ site.data.hackathon.description }}
       </div>
 
+    </div>
+
+  </div>
+</section>
+
+<section class="site-section next-section-indicator sponsors-section">
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="row">
+
+      <!-- Section Header -->
+      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+        <h2>{{ site.data.hackathon.sponsor-title }}</h2>
+        <hr class="normal">
+      </header>
+    
+    </div>
+
+      <!-- Section Content -->
+      <div class="row">
+          <div class="clearfix">
+              {% for sponsor in site.data.hackathon.sponsors-list %}
+                <div class="col-md-3 col-md-push-0 col-sm-8 col-sm-push-2 col-xs-8 col-xs-push-2">
+                        {{ sponsor.link }}
+                </div>
+              {% endfor %}
+          </div>
+      </div>
     </div>
 
   </div>
@@ -113,7 +142,7 @@
     </div>
   </section>
   
-  <section class="event-location site-section next-section-indicator" id="event-place-map">
+  <section class="event-location site-section" id="event-place-map">
   
     <!-- Google Map Embed -->
     <div>
