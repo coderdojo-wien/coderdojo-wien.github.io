@@ -43,13 +43,13 @@ events-list:
 #   event-placename: VERBUND
 #   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-36696868321"
 
-- event-date: 15.12.2017
-  event-time: 17:00 - 19:00
-  event-startdate: 2017-12-15T15:00:00Z
-  event-enddate: 2017-12-15T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-39328072323"
+# - event-date: 15.12.2017
+#   event-time: 17:00 - 19:00
+#   event-startdate: 2017-12-15T15:00:00Z
+#   event-enddate: 2017-12-15T17:00:00Z
+#   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+#   event-placename: VERBUND
+#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-39328072323"
 
 - event-date: 12.1.2018
   event-time: 17:00 - 19:00
@@ -74,6 +74,14 @@ events-list:
 #   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
 #   event-placename: VERBUND
 #   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-39328075332"
+
+- event-date: 16.2.2018
+  event-time: 17:00 - 19:00
+  event-startdate: 2018-2-16T17:00:00Z
+  event-enddate: 2018-2-16T19:00:00Z
+  event-place: <a href="hackathon/#event-place-map">Microsoft, Am Euro Pl. 3, 1120 Wien</a>
+  event-placename: Microsoft
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-microsoft-tickets-41919099154"  
 
 # - event-date: 23.2.2018
 #   event-time: 17:00 - 19:00
