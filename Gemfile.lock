@@ -111,6 +111,9 @@ GEM
     jekyll-github-metadata (2.9.3)
       jekyll (~> 3.1)
       octokit (~> 4.0, != 4.4.0)
+    jekyll-last-modified-at (1.0.1)
+      jekyll (~> 3.3)
+      posix-spawn (~> 0.3.9)
     jekyll-mentions (1.2.0)
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
@@ -202,6 +205,7 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
+    posix-spawn (0.3.13)
     public_suffix (2.0.5)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
@@ -233,10 +237,11 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed (~> 0.9)
-  jekyll-redirect-from (~> 0.12)
-  jekyll-seo-tag (~> 2.3)
-  jekyll-sitemap (~> 1.1)
+  jekyll-feed (~> 0.9.2)
+  jekyll-last-modified-at (~> 1.0.1)
+  jekyll-redirect-from (~> 0.12.1)
+  jekyll-seo-tag (~> 2.3.0)
+  jekyll-sitemap (~> 1.1.1)
   tzinfo-data
 
 BUNDLED WITH
