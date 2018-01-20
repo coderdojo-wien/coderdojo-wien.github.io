@@ -1,2 +1,3 @@
 User-Agent: *
 Allow: *
+Host: https://wien.coderdojo.net
