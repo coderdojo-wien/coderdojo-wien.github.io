@@ -25,7 +25,7 @@ events-list:
   event-enddate: 2018-02-02T17:00:00Z
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-42380415965"
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-42414494896"
 
 - event-date: 9.2.2018
   event-time: 17:00 - 19:00
@@ -65,4 +65,4 @@ events-list:
 #   event-enddate: 2018-03-23T17:00:00Z
 #   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
 #   event-placename: VERBUND
-#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-42380460097"
+#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-verbund-tickets-42414495899x"
