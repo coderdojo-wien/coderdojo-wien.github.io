@@ -213,3 +213,20 @@ team-members-list:
   linkedin: 'https://www.linkedin.com/in/michael-kruisz'
   xing: 'https://www.xing.com/profile/Michael_Kruisz'
   vimeo:
+
+# Team Member
+- firstname: Gregor
+  lastname: Beyerle
+  tagline: Mentor
+  avatar: gregor_beyerle.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook: 
+  twitter: 'https://twitter.com/GBeyerle'
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/gregor-beyerle'
+  xing:
+  vimeo:
