@@ -54,8 +54,8 @@ team-members-list:
   # Social Links
   youtube:
   pinterest:
-  facebook: 
-  twitter: 
+  facebook:
+  twitter:
   google-plus: 
   linkedin: 'https://www.linkedin.com/in/tatyanasandanova/'
   xing: 'https://www.xing.com/profile/Tatyana_Sandanova'
@@ -71,9 +71,9 @@ team-members-list:
   # Social Links
   youtube:
   pinterest:
-  facebook: 
+  facebook:
   twitter: 
-  google-plus: 
+  google-plus:
   linkedin: 'https://www.linkedin.com/in/romanoelssner/'
   xing: 'https://www.xing.com/profile/Roman_Oelssner'
   vimeo:
@@ -89,8 +89,8 @@ team-members-list:
   youtube:
   pinterest:
   facebook: 'https://www.facebook.com/doris.kub'
-  twitter: 
-  google-plus: 
+  twitter:
+  google-plus:
   linkedin:
   xing: 'https://www.xing.com/profile/Doris_Kub'
   vimeo:
@@ -123,8 +123,8 @@ team-members-list:
   youtube:
   pinterest:
   facebook:
-  twitter: 
-  google-plus: 
+  twitter:
+  google-plus:
   linkedin: 'https://www.linkedin.com/in/tarik-kurtovic-17632a26/'
   xing: 'https://www.xing.com/profile/Tarik_Kurtovic'
   vimeo:
@@ -140,8 +140,8 @@ team-members-list:
   youtube:
   pinterest:
   facebook:
-  twitter: 
-  google-plus: 
+  twitter:
+  google-plus:
   linkedin: 'https://www.linkedin.com/in/thomasmutzl/'
   xing: 'https://www.xing.com/profile/Thomas_Mutz'
   vimeo:
@@ -157,27 +157,10 @@ team-members-list:
   youtube:
   pinterest:
   facebook:
-  twitter: 
-  google-plus: 
+  twitter:
+  google-plus:
   linkedin:
   xing: 'https://www.xing.com/profile/Otmar_Pilgerstorfer'
-  vimeo:
-
-# Team Member
-- firstname: Roman
-  lastname: Korecky
-  tagline: Mentor
-  avatar: roman_korecky.jpg
-  email:
-
-# Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter: 
-  google-plus: 
-  linkedin: 'https://www.linkedin.com/in/roman-korecky-53610620/'
-  xing: 'https://www.xing.com/profile/Roman_Korecky'
   vimeo:
 
   # Team Member
@@ -191,8 +174,8 @@ team-members-list:
   youtube:
   pinterest:
   facebook:
-  twitter: 
-  google-plus: 
+  twitter:
+  google-plus:
   linkedin: 'https://www.linkedin.com/in/christian-bachtr%C3%B6gl-16824051/'
   xing: 'https://www.xing.com/profile/Christian_Bachtroegl'
   vimeo:
@@ -209,7 +192,7 @@ team-members-list:
   pinterest:
   facebook: 'https://www.facebook.com/michael.kruisz'
   twitter: 'https://twitter.com/krawuzikapuzi_'
-  google-plus: 
+  google-plus:
   linkedin: 'https://www.linkedin.com/in/michael-kruisz'
   xing: 'https://www.xing.com/profile/Michael_Kruisz'
   vimeo:
@@ -224,9 +207,43 @@ team-members-list:
   # Social Links
   youtube:
   pinterest:
-  facebook: 
+  facebook:
   twitter: 'https://twitter.com/GBeyerle'
-  google-plus: 
+  google-plus:
   linkedin: 'https://www.linkedin.com/in/gregor-beyerle'
   xing:
+  vimeo:
+
+  # Team Member
+- firstname: Peter
+  lastname: Friedl
+  tagline: Mentor
+  avatar: peter_friedl.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/peter-friedl-9457a44/'
+  xing: 'https://www.xing.com/profile/Peter_Friedl'
+  vimeo:
+
+  # Team Member
+- firstname: Christian
+  lastname: Vorhemus
+  tagline: Mentor
+  avatar: christian_vorhemus.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/christian-vorhemus-11582812b/'
+  xing: 'https://www.xing.com/profile/Christian_Vorhemus2/cv'
   vimeo:
