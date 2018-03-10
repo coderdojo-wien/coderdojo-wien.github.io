@@ -20,6 +20,8 @@ technologies:
         url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md"
       - name: "Erste Schritte - Übung 6 - Klassen"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md"
+      - name: "Summe von Zahlen"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/csharp/ZahlenSumme/Readme.md"
 
   - id: "microbit"
     title: "micro:bit"
@@ -29,7 +31,25 @@ technologies:
       - name: "Hello World"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Hello_World/Readme.md"
       - name: "Spielwürfel"
-        url: "https://github.com/coderdojo-wien/exercises/tree/dev/microbit/Spielwuerfel"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Spielwuerfel/Readme.md"
+      - name: "Beschleunigung"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Beschleunigung/Readme.md"
+      - name: "Ventilator"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Fan_Controller/Readme.md"
+      - name: "HotWire - Der heisse Draht"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/HotWire/Readme.md"
+      - name: "Missile Shooter"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/MissileShooter/Readme.md"
+      - name: "Schere, Stein, Papier"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/RockPaperScissors/Readme.md"
+
+  - id: "nodejs"
+    title: "node.js"
+    sort-title: "Node.js"
+    description:
+    exercises:
+      - name: "Selfie-Bot"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/nodejs/Selfie_Bot/Readme.md"
 
   - id: "web"
     title: "Web"
