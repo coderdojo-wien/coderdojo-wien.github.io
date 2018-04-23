@@ -19,30 +19,6 @@ Für C# brauchst du entweder <a target=\"_blank\" href=\"https://www.visualstudi
 </p>"
 
 events-list:
-# - event-date: 23.3.2018
-#   event-time: 17:00 - 19:00
-#   event-startdate: 2018-03-23T15:00:00Z
-#   event-enddate: 2018-03-23T17:00:00Z
-#   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-#   event-placename: VERBUND
-#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-42414495899"
-
-- event-date: 6.4.2018
-  event-time: 17:00 - 19:00
-  event-startdate: 2018-04-06T15:00:00Z
-  event-enddate: 2018-04-06T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055332686"
-
-- event-date: 20.4.2018
-  event-time: 17:00 - 19:00
-  event-startdate: 2018-04-20T15:00:00Z
-  event-enddate: 2018-04-20T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055342716"
-
 - event-date: 4.5.2018
   event-time: 17:00 - 19:00
   event-startdate: 2018-05-04T15:00:00Z
@@ -51,11 +27,18 @@ events-list:
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055343719"
 
-# - event-date: 8.6.2018
-#   event-time: 17:00 - 19:00
-#   event-startdate: 2018-06-08T15:00:00Z
-#   event-enddate: 2018-06-08T17:00:00Z
-#   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-#   event-placename: VERBUND
-#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055344722"
+- event-date: 8.6.2018
+  event-time: 17:00 - 19:00
+  event-startdate: 2018-06-08T15:00:00Z
+  event-enddate: 2018-06-08T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055344722"
 
+- event-date: 20.6.2018
+  event-time: 17:00 - 19:00
+  event-startdate: 2018-06-20T15:00:00Z
+  event-enddate: 2018-06-20T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055345725"
