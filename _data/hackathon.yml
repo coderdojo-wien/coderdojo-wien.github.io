@@ -1,78 +1,80 @@
-title: "Coder Dojo Wien Hackathon 2018"
-description: "Du kannst programmieren und magst dabei auch etwas gutes tun? Dann mach mit bei CoderDojo Wien Hackathon. In Microsoft Austria Headquarter, einem der modersten und innovativsten Büros Wiens, kannst du den ganzen Tag tüfteln was das Zeug hält.
+title: "CoderDojo Wien Hackathon at WeAreDevelopers"
+description: "Yes, you've made it to WeAreDevelopers! Now it's your time to prove you are able to take the toughest challenge a developer can face. Show that you're not only an expert but a master who can teach!
 
-<h2>Was kann ich hacken?</h2>
-Alles was du magst. Wir wollen gemeinsam mit dir Übungsbeispiele für unsere Kinder, die zwischen 8-17 Jahre alt sind, entwickeln. Blicke kurz <a href='/exercises' target='_blank'>hier</a> und sehe dir an wie ein Übungsbeispiel aussehen kann. Damit du nicht alleine fühlst nehmen wir unsere <a href='https://www.microbit.org/guide/' target='_blank'>micro:bits</a> mit. Sonst machen wir noch Scratch, C# und alles was du magst. Die Technologie spielt keine Rolle und du bist frei.
+<h2>What the hack</h2>
+We free to let your creativity flow. Just keep in mind that your exercise should be solvable by a kid at the age from 7 to 17. Take a brief look <a href='/exercises' target='_blank'>here</a> and see who an exercise can look like. We'll have a bunch of <a href='https://www.microbit.org/guide/' target='_blank'>micro:bits</a> with us, if you would like to develop with them. Other platforms we've got exercises already are Scratch, C# and JavaScript but feel free to choose something different as long as it's available for free.
 
-<h2>Wie läuft es ab?</h2>
-Nach einer Tour durch den Microsoft Learning Hub und einem kurzen Briefing von der CoderDojo Crew geht’s in Team ans Eigengemachte und der Kreativität darf freien Lauf gelassen werden. Am Ende kannst du noch coole Preise wie Rasberry Pi oder ein Ticket für die <a href='https://www.wearedevelopers.com/' target='_blank'>WeAreDevelopers</a> Konferenz in Wien im Wert von 299 Euro.
+<h2>Sumission Guidelines</h2>
+Submit your examples as pull-request to our exercises repository at <a href='https://github.com/coderdojo-wien/exercises'> target='_blank'>https://github.com/coderdojo-wien/exercises</>.
 
-<h2>Ist das alles?</h2>
-Nein. Anschließend nach dem Hackathon wird es mit einen CoderDojo Wien weitergehen. Treff unsere Kinder und probiere mit ihnen deine Beispiele aus die beim Hackathon entstanden sind."
+An exercise should be self-contained, ie contain a description of the task and an exemplary solution (both as README in GitHub Markdown format, language English or German). Full source has to be attached, too. See our <a href='https://github.com/coderdojo-wien/exercises/tree/dev/nodejs/Selfie_Bot'>Selfie-Bot</a> as reference.
 
-sponsor-title: "Wir danken"
+The exercice can be developed using the platform of your choice, aslong as the tools and runtime are available for free.
+
+By submitting a pull-request to acknowledge that your submitted code is subject to the <a href='https://www.gnu.org/licenses/gpl-3.0.txt'>GNU GPL v3</a>.
+
+<h2>Finish</h2>
+On Wednesday and Thurstday our jury will choose two extraordinary submissions which will be rewarded with a brand new BBC micro:bit, which were generously sponsed by The Micro:bit Foundation."
+
+sponsor-title: "Thanks"
 sponsors-list:
-- link: "<a href='https://www.microsoft.com/de-at' target='_blank'><img src='/images/Microsoft-logo.png' alt='Microsoft Österreich'/></a>"
-- link: "<a href='https://www.verbund.com' target='_blank'><img src='/images/verbund-logo.png'/ alt='Verbund'></a>"
 - link: "<a href='https://www.wearedevelopers.com' target='_blank'><img src='/images/wearedevelopers-logo.png'/ alt='WeAreDevelopers'></a>"
-- link: "<a href='https://www.lieberlieber.com' target='_blank'><img src='/images/LieberLieber-logo.png' alt='LieberLieber'/></a>"
-- link: "<a href='http://www.voesi.or.at' target='_blank'><img src='/images/voesi-logo.png' alt='VÖSI'/></a>"
+- link: "<a href='https://microbit.org/' target='_blank'><img src='/images/microbit-logo.png'/ alt='Micro:bit Educational Foundation'></a>"
+- link: "<a href='https://www.microsoft.com/de-at' target='_blank'><img src='/images/Microsoft-logo.png' alt='Microsoft Österreich'/></a>"
 
-timeline-title: "Tagesprogramm"
+timeline-title: "Program"
 timeline: "
-<h2>Hackathon bei Microsoft Österreich</h2>
+<h2>CoderDojo Wien Hackathon at WeAreDevelopers</h2>
 <table>
   <tbody>
     <tr>
-      <td>08:00 - 09:00</td> <td>Caffe Hallo</td>
-    </tr>
-    <tr>  
-      <td>09:00 - 09:30</td> <td>Learning-Hub Tour</td>
+      <td>May 16th, 09:00 - 16:30</td> <td>Hackathon</td>
     </tr>
     <tr>
-      <td>09:30 - 12:00</td> <td>Hackathon</td>
-    </tr>
-    <tr>
-      <td>12:00 - 13:00</td> <td>Mittagessen</td>
-    </tr>
-    <tr>
-      <td>13:00 - 16:00</td> <td>Hackathon</td>
-    </tr>
-    <tr>
-      <td>16:00 - 16:30</td> <td>Verlosung</td>
+      <td>May 17th, 09:00 - 16:30</td> <td>Hackathon</td>
     </tr>
   </tbody>  
 </table>
-<h2>CoderDojo Wien bei Microsoft Österreich</h2>
+<h2>CoderDojo Wien at WeAreDevelopers</h2>
 <table>
   <tbody>
     <tr>
-      <td>17:00 - 19:00</td> <td>CoderDojo Wien</td>
+      <td>May 18th, 09:00 - 16:30</td> <td>CoderDojo</td>
     </tr>
   </tbody>  
 </table>"
 
-registration-title: "Anmeldung"
+registration-title: "Follow"
 registration-description:
 
-event-map-text: CoderDojo Wien bei Microsoft
+event-map-text: CoderDojo Wien at WeAreDevelopers
 event-map-text-location: Wien, Österreich
-event-map-lng: 16.3344095
-event-map-lat: 48.170816
+event-map-lng: 16.4115363
+event-map-lat: 48.2349166
 
 events-list:
-- event-date: 16.2.2018
-  event-time: 08:00 - 16:30
-  event-startdate: 2018-2-16T08:00:00Z
-  event-enddate: 2018-2-16T16:30:00Z
-  event-place: <a href="#event-place-map">Microsoft, Am Euro Platz 3, 1120 Wien</a>
-  event-placename: Microsoft
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-hackathon-at-microsoft-tickets-41918976788"
+- event-date: 16.5.2018
+  event-time: 09:00 - 16:30
+  event-startdate: 2018-05-16T09:00:00Z
+  event-enddate: 2018-05-16T16:30:00Z
+  event-place: <a href="#event-place-map">Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Wien</a>
+  event-placename: WeAreDevelopers
+  event-registration-url: ""
 
-- event-date: 16.2.2018
-  event-time: 17:00 - 19:00
-  event-startdate: 2018-2-16T17:00:00Z
-  event-enddate: 2018-2-16T19:00:00Z
-  event-place: <a href="#event-place-map">Microsoft, Am Euro Platz 3, 1120 Wien</a>
-  event-placename: Microsoft
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-microsoft-tickets-41919099154"  
+events-list:
+- event-date: 17.5.2018
+  event-time: 09:00 - 16:30
+  event-startdate: 2018-05-17T09:00:00Z
+  event-enddate: 2018-05-17T16:30:00Z
+  event-place: <a href="#event-place-map">Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Wien</a>
+  event-placename: WeAreDevelopers
+  event-registration-url: ""
+
+events-list:
+- event-date: 18.5.2018
+  event-time: 09:00 - 16:30
+  event-startdate: 2018-05-18T09:00:00Z
+  event-enddate: 2018-05-18T16:30:00Z
+  event-place: <a href="#event-place-map">Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Wien</a>
+  event-placename: WeAreDevelopers
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-wearedevelopers-ticket-verlosung-tickets-45753498947"
