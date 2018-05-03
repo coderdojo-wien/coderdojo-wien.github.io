@@ -1,20 +1,34 @@
 title: "CoderDojo Wien Hackathon at WeAreDevelopers"
-description: "Yes, you've made it to WeAreDevelopers! Now it's your time to prove you are able to take the toughest challenge a developer can face. Show that you're not only an expert but a master who can teach!
+description: "<p>Yes, you've made it to WeAreDevelopers! Now it's your time to prove you are able to take the toughest challenge a developer can face. Show that you're not only an expert but a master who can teach!</p>
 
 <h2>What the hack</h2>
+<p>
 We free to let your creativity flow. Just keep in mind that your exercise should be solvable by a kid at the age from 7 to 17. Take a brief look <a href='/exercises' target='_blank'>here</a> and see who an exercise can look like. We'll have a bunch of <a href='https://www.microbit.org/guide/' target='_blank'>micro:bits</a> with us, if you would like to develop with them. Other platforms we've got exercises already are Scratch, C# and JavaScript but feel free to choose something different as long as it's available for free.
+</p>
 
 <h2>Sumission Guidelines</h2>
-Submit your examples as pull-request to our exercises repository at <a href='https://github.com/coderdojo-wien/exercises'> target='_blank'>https://github.com/coderdojo-wien/exercises</>.
+<p>
+Submit your examples as pull-request to our exercises repository at <a href='https://github.com/coderdojo-wien/exercises'>https://github.com/coderdojo-wien/exercises</a>.
+</p>
 
-An exercise should be self-contained, ie contain a description of the task and an exemplary solution (both as README in GitHub Markdown format, language English or German). Full source has to be attached, too. See our <a href='https://github.com/coderdojo-wien/exercises/tree/dev/nodejs/Selfie_Bot'>Selfie-Bot</a> as reference.
+<p>
+An exercise should be self-contained, ie contain a description of the task and an exemplary solution (both as README in GitHub Markdown format, language English or German). Full source has to be attached, too. See our <a href='https://github.com/coderdojo-wien/exercises/tree/dev/nodejs/Selfie_Bot' target='_blank'>Selfie-Bot</a> as reference.
 
 The exercice can be developed using the platform of your choice, aslong as the tools and runtime are available for free.
 
 By submitting a pull-request to acknowledge that your submitted code is subject to the <a href='https://www.gnu.org/licenses/gpl-3.0.txt'>GNU GPL v3</a>.
+</p>
 
 <h2>Finish</h2>
-On Wednesday and Thurstday our jury will choose two extraordinary submissions which will be rewarded with a brand new BBC micro:bit, which were generously sponsed by The Micro:bit Foundation."
+<p>
+On Wednesday and Thursday our jury will choose two extraordinary submissions which will be rewarded with a brand new BBC micro:bit, which were generously sponsed by The Micro:bit Foundation.
+</p>
+
+
+<h2>Pratice</h2>
+<p>
+Throught WeAreDevelopers it's also possible to pratice your coding skills, wether you're an experienced developer or one of our young coders. Finally we're dedicating entirely to a full day <a href='https://coderdojo.com/' target='_blank'>CoderDojo</a> with some very special guests.
+</p>"
 
 sponsor-title: "Thanks"
 sponsors-list:
@@ -44,31 +58,13 @@ timeline: "
   </tbody>  
 </table>"
 
-registration-title: "Follow"
-registration-description:
+registration-title: "Enter our Ticket Raffle"
+registration-description: "bla"
 
 event-map-text: CoderDojo Wien at WeAreDevelopers
 event-map-text-location: Wien, Österreich
 event-map-lng: 16.4115363
 event-map-lat: 48.2349166
-
-events-list:
-- event-date: 16.5.2018
-  event-time: 09:00 - 16:30
-  event-startdate: 2018-05-16T09:00:00Z
-  event-enddate: 2018-05-16T16:30:00Z
-  event-place: <a href="#event-place-map">Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Wien</a>
-  event-placename: WeAreDevelopers
-  event-registration-url: ""
-
-events-list:
-- event-date: 17.5.2018
-  event-time: 09:00 - 16:30
-  event-startdate: 2018-05-17T09:00:00Z
-  event-enddate: 2018-05-17T16:30:00Z
-  event-place: <a href="#event-place-map">Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Wien</a>
-  event-placename: WeAreDevelopers
-  event-registration-url: ""
 
 events-list:
 - event-date: 18.5.2018
