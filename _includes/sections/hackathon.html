@@ -20,7 +20,29 @@
   </div>
 </section>
 
-<section class="site-section next-section-indicator sponsors-section">
+<section class="site-section next-section-indicator section-focus">
+    <div class="container">
+  
+      <!-- Section Heading -->
+      <div class="row">
+  
+        <!-- Section Header -->
+        <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+          <h2>{{ site.data.hackathon.timeline-title }}</h2>
+          <hr class="normal">
+        </header>
+  
+        <!-- Section Content -->
+        <div class="col-md-8 col-md-push-2 col-sm-12 section-content hackathon-timeline">
+          {{ site.data.hackathon.timeline }}
+        </div>
+          
+      </div>
+  
+    </div>
+  </section>
+  
+  <section class="site-section next-section-indicator sponsors-section">
   <div class="container">
 
     <!-- Section Heading -->
@@ -33,145 +55,22 @@
       </header>
     
     </div>
-
-      <!-- Section Content -->
-      <div class="row">
-          <div class="clearfix">
-              {% for sponsor in site.data.hackathon.sponsors-list %}
-                <div class="col-md-2 col-md-push-1 col-sm-8 col-sm-push-2 col-xs-8 col-xs-push-2">
-                        {{ sponsor.link }}
-                </div>
-              {% endfor %}
-          </div>
-      </div>
-    </div>
-
-  </div>
-</section>
-
-<section class="site-section next-section-indicator section-focus">
-  <div class="container">
-
-    <!-- Section Heading -->
+    
+    <!-- Section Content -->
     <div class="row">
-
-      <!-- Section Header -->
-      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-        <h2>{{ site.data.hackathon.timeline-title }}</h2>
-        <hr class="normal">
-      </header>
-
-      <!-- Section Content -->
-      <div class="col-md-8 col-md-push-2 col-sm-12 section-content hackathon-timeline">
-        {{ site.data.hackathon.timeline }}
+      <div class="clearfix">
+        
+        {% for sponsor in site.data.hackathon.sponsors-list %}
+        
+        <div class="col-md-4 col-md-push-4 col-sm-4 col-sm-push-1 col-xs-8 col-xs-push-2">
+          {{ sponsor.link }}
+        </div>
+        
+        {% endfor %}
+      
       </div>
-
+    
     </div>
 
   </div>
 </section>
-
-<section class="site-section events-section">
-    <div class="container">
-  
-      <!-- Section Heading -->
-      <div class="row">
-  
-        <!-- Events Header -->
-        <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-          <h1>{{ site.data.hackathon.registration-title }}</h1>
-          <hr class="normal">
-        </header>
-  
-        {% if site.data.events.registration-description != null %}
-        <!-- Events Content -->
-          <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-            {{ site.data.events.registration-description }}
-          </div>
-        {% endif %}
-  
-      </div>
-  
-      <!-- Events Tables Container -->
-      <div class="row events-tables-container">
-        <div class="events-tables-wrapper clearfix">
-      
-          {% for event in site.data.hackathon.events-list %}
-
-            <!-- Events Table -->
-            <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2" itemscope itemtype="http://schema.org/Event">
-              <div class="events-table">
-    
-                <!-- Event Content -->
-                <div class="event-content">
-                  <span>Wann</span>
-                  <p class="event-date">{{ event.event-date }}</p>
-                  <meta itemprop="name" content="{{event.event-name}}" />
-                  <meta itemprop="startDate" content="{{event.event-startdate}}" />
-                  <meta itemprop="endDate" content="{{event.event-enddate}}" />
-                  <meta itemprop="typicalAgeRange" content="7-17" />
-                  <meta itemprop="duration" content="PT2H" />
-                  <meta itemprop="description" content="{{site.description}}" />
-                  <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-                    <meta itemprop="name" content="{{ event.event-placename }}" />
-                    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                      <meta itemprop="streetAddress" content="Am Euro Platz 3" />
-                      <meta itemprop="addressLocality" content="Wien" />
-                      <meta itemprop="postalCode" content="1012" />
-                      <meta itemprop="addressCountry" conent="AT" />
-                    </div>
-                  </div>
-                  <hr class="normal">
-                  <span>Uhrzeit</span>
-                  <p class="event-time">{{ event.event-time }}</p>
-                  <hr class="normal">
-                  <span>Wo</span>
-                  <p class="event-place">{{ event.event-place }}</p>
-                </div>
-    
-                <!-- Event Registration -->
-                <div class="event-registration">
-                  <a href="{{ event.event-registration-url }}" target="_blank" class="button">Anmelden</a>
-                </div>
-    
-              </div>
-            </div>
-
-        {% endfor %}            
-  
-    </div>
-  </section>
-  
-  <section class="event-location site-section" id="event-place-map">
-  
-    <!-- Google Map Embed -->
-    <div>
-        <div style="overflow:hidden;height:490px;width:100%;">
-            <div id="gmap_canvas" style="height:490px;width:100%;"></div>
-        </div>
-        <script type="text/javascript">
-            function initMap () {
-                var myOptions = {
-                    zoom: 16,
-                    scrollwheel: false,
-                    center: new google.maps.LatLng( {{ site.data.hackathon.event-map-lat }}, {{ site.data.hackathon.event-map-lng }} ),
-                    mapTypeId: google.maps.MapTypeId.ROADMAP
-                };
-                map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);
-                marker = new google.maps.Marker({
-                    map: map,
-                    position: new google.maps.LatLng( {{ site.data.hackathon.event-map-lat }}, {{ site.data.hackathon.event-map-lng }} )
-                });
-                infowindow = new google.maps.InfoWindow({
-                    content: "<span><strong>{{ site.data.hackathon.event-map-text }}</strong><br>{{ site.data.hackathon.event-map-text-location }}<br><span>"
-                });
-                google.maps.event.addListener(marker, "click", function() {
-                    infowindow.open(map, marker);
-                });
-                infowindow.open(map, marker);
-            };
-        </script>
-      <script src="https://maps.googleapis.com/maps/api/js?key={{ site.key-api }}&callback=initMap" async defer ></script>
-    </div>
-  
-  </section>
