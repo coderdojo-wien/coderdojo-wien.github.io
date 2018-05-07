@@ -12,7 +12,7 @@ Submit your examples as pull-request to our exercises repository at <a href='htt
 </p>
 
 <p>
-An exercise should be self-contained, ie contain a description of the task and an exemplary solution (both as README in GitHub Markdown format, language preferable in German, but English is fine). Full source has to be attached, too. E.g. look at <a href='https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md' target='_blank'>C# - Schleifen / Loops</a>,  <a href='https://github.com/coderdojo-wien/exercises/tree/master/scratch/Fledermaus/Readme.md' target='_blank'>Scratch - Fledermaus / Bat escape</a> or <a href='https://github.com/coderdojo-wien/exercises/tree/master/microbit/HotWire/Readme.md' target='_blank'>micro:bit - Hot Wire</a>as reference.
+An exercise should be self-contained, ie contain a description of the task and an exemplary solution (both as README in GitHub Markdown format, language preferable in German, but English is fine). Full source has to be attached. Look at <a href='https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md' target='_blank'>C# - Schleifen / Loops</a>,  <a href='https://github.com/coderdojo-wien/exercises/tree/master/scratch/Fledermaus/Readme.md' target='_blank'>Scratch - Fledermaus / Bat escape</a> or <a href='https://github.com/coderdojo-wien/exercises/tree/master/microbit/HotWire/Readme.md' target='_blank'>micro:bit - Hot Wire</a> for a reference.
 </p>
 
 <p>
