@@ -12,16 +12,20 @@ Submit your examples as pull-request to our exercises repository at <a href='htt
 </p>
 
 <p>
-An exercise should be self-contained, ie contain a description of the task and an exemplary solution (both as README in GitHub Markdown format, language English or German). Full source has to be attached, too. See our <a href='https://github.com/coderdojo-wien/exercises/tree/dev/nodejs/Selfie_Bot' target='_blank'>Selfie-Bot</a> as reference.
+An exercise should be self-contained, ie contain a description of the task and an exemplary solution (both as README in GitHub Markdown format, language preferable in German, but English is fine). Full source has to be attached, too. E.g. look at <a href='https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md' target='_blank'>C# - Schleifen / Loops</a>,  <a href='https://github.com/coderdojo-wien/exercises/tree/master/scratch/Fledermaus/Readme.md' target='_blank'>Scratch - Fledermaus / Bat escape</a> or <a href='https://github.com/coderdojo-wien/exercises/tree/master/microbit/HotWire/Readme.md' target='_blank'>micro:bit - Hot Wire</a>as reference.
+</p>
 
-The exercice can be developed using the platform of your choice, aslong as the tools and runtime are available for free.
+<p>
+You can develop your exercise for the platform of your choice. How ever, the required development tools and runtime should be available for free. Preferable your example can be used on most modern PC platforms such as Linux, MacOS and Windows. Keep in mind that the audience of your example isn't an IT professional, but a kid ;-)
+</p>
 
-By submitting a pull-request to acknowledge that your submitted code is subject to the <a href='https://www.gnu.org/licenses/gpl-3.0.txt'>GNU GPL v3</a>.
+<p>
+By submitting a pull-request to acknowledge that your submitted code is subject to the <a href='https://github.com/coderdojo-wien/exercises/blob/dev/LICENSE'>GNU GPL v3</a>.
 </p>
 
 <h2>Finish</h2>
 <p>
-On Wednesday and Thursday our jury will choose two extraordinary submissions which will be rewarded with a brand new BBC micro:bit, which were generously sponsed by The Micro:bit Foundation.
+At the end of each day our jury will choose two extraordinary submissions which will be rewarded with a brand new BBC micro:bit, which were generously sponsed by The Micro:bit Foundation.
 </p>
 
 
@@ -30,7 +34,7 @@ On Wednesday and Thursday our jury will choose two extraordinary submissions whi
 Throught WeAreDevelopers it's also possible to pratice your coding skills, wether you're an experienced developer or one of our young coders. Finally we're dedicating entirely to a full day <a href='https://coderdojo.com/' target='_blank'>CoderDojo</a> with some very special guests.
 </p>"
 
-sponsor-title: "Thanks"
+sponsor-title: "Kudos to our supporters"
 sponsors-list:
 - link: "<a href='https://www.wearedevelopers.com' target='_blank'><img src='/images/wearedevelopers-logo.png'/ alt='WeAreDevelopers'></a>"
 - link: "<a href='https://microbit.org/' target='_blank'><img src='/images/microbit-logo.png'/ alt='Micro:bit Educational Foundation'></a>"
@@ -38,28 +42,36 @@ sponsors-list:
 
 timeline-title: "Program"
 timeline: "
-<h2>CoderDojo Wien Hackathon at WeAreDevelopers</h2>
+<h2>Wednesday, May 16th 2018</h2>
 <table>
   <tbody>
     <tr>
-      <td>May 16th, 09:00 - 16:30</td> <td>Hackathon</td>
-    </tr>
-    <tr>
-      <td>May 17th, 09:00 - 16:30</td> <td>Hackathon</td>
+      <td>09:00 - 17:00</td> <td>Hackathon</td>
     </tr>
   </tbody>  
 </table>
-<h2>CoderDojo Wien at WeAreDevelopers</h2>
+<h2>Thursday, May 17th 2018</h2>
 <table>
   <tbody>
     <tr>
-      <td>May 18th, 09:00 - 16:30</td> <td>CoderDojo</td>
+      <td>09:00 - 17:00</td> <td>Hackathon</td>
+    </tr>
+  </tbody>  
+</table>
+<h2>Friday, May 18th 2018</h2>
+<table>
+  <tbody>
+    <tr>
+      <td>09:00 - 16:00</td> <td>Hackathon</td>
+    </tr>
+    <tr>
+      <td>14:30 - 16:30</td> <td>CoderDojo Wien</td>
     </tr>
   </tbody>  
 </table>"
 
-registration-title: "Enter our Ticket Raffle"
-registration-description: "bla"
+registration-title: "Venue"
+registration-description: "<p>Für die Coder die uns regelmäßig besuchen gibt CoderDojo"
 
 event-map-text: CoderDojo Wien at WeAreDevelopers
 event-map-text-location: Wien, Österreich
