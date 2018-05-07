@@ -55,78 +55,22 @@
       </header>
     
     </div>
-
-      <!-- Section Content -->
-      <div class="row">
-          <div class="center-block">
-              {% for sponsor in site.data.hackathon.sponsors-list %}
-                <!-- <div class="col-md-2 col-md-push-1 col-sm-8 col-sm-push-2 col-xs-8 col-xs-push-2"> -->
-                <div class="container-fluid">
-                        {{ sponsor.link }}
-                </div>
-              {% endfor %}
-          </div>
-      </div>
+    
+    <!-- Section Content -->
+    <div class="row">
+      <!-- <div class="clearfix"> -->
+        
+        {% for sponsor in site.data.hackathon.sponsors-list %}
+        
+        <div class="col-md-3 col-md-push-1 col-sm-8 col-sm-push-2 col-xs-8 col-xs-push-2">
+          {{ sponsor.link }}
+        </div>
+        
+        {% endfor %}
+      
+      <!-- </div> -->
+    
     </div>
 
   </div>
 </section>
-
-<section class="site-section events-section">
-    <div class="container">
-  
-      <!-- Section Heading -->
-      <div class="row">
-  
-        <!-- Events Header -->
-        <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-          <h1>{{ site.data.hackathon.registration-title }}</h1>
-          <hr class="normal">
-        </header>
-  
-        {% if site.data.events.registration-description != null %}
-        <!-- Events Content -->
-          <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-            {{ site.data.events.registration-description }}
-          </div>
-        {% endif %}
-  
-      </div>
-  
-        
-    </div>
-  </section>
-  
-  <section class="event-location site-section" id="event-place-map">
-  
-    <!-- Google Map Embed -->
-    <div>
-        <div style="overflow:hidden;height:490px;width:100%;">
-            <div id="gmap_canvas" style="height:490px;width:100%;"></div>
-        </div>
-        <script type="text/javascript">
-            function initMap () {
-                var myOptions = {
-                    zoom: 16,
-                    scrollwheel: false,
-                    center: new google.maps.LatLng( {{ site.data.hackathon.event-map-lat }}, {{ site.data.hackathon.event-map-lng }} ),
-                    mapTypeId: google.maps.MapTypeId.ROADMAP
-                };
-                map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);
-                marker = new google.maps.Marker({
-                    map: map,
-                    position: new google.maps.LatLng( {{ site.data.hackathon.event-map-lat }}, {{ site.data.hackathon.event-map-lng }} )
-                });
-                infowindow = new google.maps.InfoWindow({
-                    content: "<span><strong>{{ site.data.hackathon.event-map-text }}</strong><br>{{ site.data.hackathon.event-map-text-location }}<br><span>"
-                });
-                google.maps.event.addListener(marker, "click", function() {
-                    infowindow.open(map, marker);
-                });
-                infowindow.open(map, marker);
-            };
-        </script>
-      <script src="https://maps.googleapis.com/maps/api/js?key={{ site.key-api }}&callback=initMap" async defer ></script>
-    </div>
-  
-  </section>
