@@ -20,8 +20,8 @@ Für C# brauchst du entweder <a target=\"_blank\" href=\"https://www.visualstudi
 
 events-list:
 - event-date: 18.5.2018
-  event-time: 14:30 - 16:30
-  event-startdate: 2018-05-18T12:30:00Z
+  event-time: 9:30 - 16:30
+  event-startdate: 2018-05-18T7:30:00Z
   event-enddate: 2018-05-18T14:30:00Z
   event-place: <a href="hackathon/#event-place-map">WeAreDevelopers, Austria Center Vienna</a>
   event-placename: WeAreDevelopers
