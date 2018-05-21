@@ -16,17 +16,13 @@ Installiere dir einen <a target=\"_blank\" href=\"https://scratch.mit.edu/downlo
 <h3>Vorbereitung für C#</h3>
 <p>
 Für C# brauchst du entweder <a target=\"_blank\" href=\"https://www.visualstudio.com/downloads/\">Visual Studio Community 2017</a> oder <a target=\"_blank\" href=\"https://code.visualstudio.com/\">Visual Studio Code</a> zu installieren.
-</p>"
+</p>
+<p>
+Unsere CoderDojo's im Juli und August finden im Rahmen des <a href='http://ferienspiel.at' target='_blank'>wienXtra-ferienspiels</a> statt.
+</p>
+"
 
 events-list:
-- event-date: 18.5.2018
-  event-time: 9:30 - 16:30
-  event-startdate: 2018-05-18T7:30:00Z
-  event-enddate: 2018-05-18T14:30:00Z
-  event-place: <a href="hackathon/#event-place-map">WeAreDevelopers, Austria Center Vienna</a>
-  event-placename: WeAreDevelopers
-  event-registration-url: "https://www.eventbrite.de/e/bewerbung-fur-coderdojo-wien-at-wearedevelopers-tickets-45895982118"
-
 - event-date: 8.6.2018
   event-time: 17:00 - 19:00
   event-startdate: 2018-06-08T15:00:00Z
@@ -42,4 +38,12 @@ events-list:
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055345725"
+
+- event-date: 6.7.2018
+  event-time: 17:00 - 19:00
+  event-startdate: 2018-07-06T15:00:00Z
+  event-enddate: 2018-07-06T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44235445408"
 
