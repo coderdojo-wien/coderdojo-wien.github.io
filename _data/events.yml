@@ -23,14 +23,6 @@ Unsere CoderDojo's im Juli und August finden im Rahmen des <a href='http://ferie
 "
 
 events-list:
-- event-date: 20.7.2018
-  event-time: 17:00 - 19:00
-  event-startdate: 2018-07-20T15:00:00Z
-  event-enddate: 2018-07-20T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055346728"
-
 - event-date: 3.8.2018
   event-time: 17:00 - 19:00
   event-startdate: 2018-08-03T15:00:00Z
@@ -47,3 +39,10 @@ events-list:
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055348734"
 
+- event-date: 31.8.2018
+  event-time: 17:00 - 19:00
+  event-startdate: 2018-08-31T15:00:00Z
+  event-enddate: 2018-08-31T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-44055349737"
