@@ -137,4 +137,12 @@ technologies:
       - name: "Finde den Weg aus dem Labyrinth (Scratch/JavaScript)"
         url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-labyrinth.html"
       - name: "Chess - Programmiere einen Computerspieler für Schach"
-        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-chess.html"                                                                
+        url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-chess.html"
+
+  - id: "various"
+    title: "Weitere"
+    sort-title: "Weitere"    
+    description: 
+    exercises: 
+      - name: "Einführung Codingame"
+        url: "https://github.com/coderdojo-wien/exercises/tree/dev/various/CodinGame/Readme.md"
