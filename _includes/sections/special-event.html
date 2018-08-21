@@ -6,13 +6,13 @@
 
       <!-- Section Header -->
       <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-        <h2>{{ site.data.hackathon.title }}</h2>
+        <h2>{{ site.data.special-event.title }}</h2>
         <hr class="normal">
       </header>
 
       <!-- Section Content -->
       <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-        {{ site.data.hackathon.description }}
+        {{ site.data.special-event.description }}
       </div>
 
     </div>
@@ -28,13 +28,13 @@
   
         <!-- Section Header -->
         <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-          <h2>{{ site.data.hackathon.timeline-title }}</h2>
+          <h2>{{ site.data.special-event.timeline-title }}</h2>
           <hr class="normal">
         </header>
   
         <!-- Section Content -->
-        <div class="col-md-8 col-md-push-2 col-sm-12 section-content hackathon-timeline">
-          {{ site.data.hackathon.timeline }}
+        <div class="col-md-8 col-md-push-2 col-sm-12 section-content special-event-timeline">
+          {{ site.data.special-event.timeline }}
         </div>
           
       </div>
@@ -42,7 +42,7 @@
     </div>
   </section>
   
-  <section class="site-section next-section-indicator sponsors-section">
+  <section class="site-section next-section-indicator special-event-sponsors-section">
   <div class="container">
 
     <!-- Section Heading -->
@@ -50,7 +50,7 @@
 
       <!-- Section Header -->
       <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-        <h2>{{ site.data.hackathon.sponsor-title }}</h2>
+        <h2>{{ site.data.special-event.sponsor-title }}</h2>
         <hr class="normal">
       </header>
     
@@ -60,7 +60,7 @@
     <div class="row">
       <div class="clearfix">
         
-        {% for sponsor in site.data.hackathon.sponsors-list %}
+        {% for sponsor in site.data.special-event.sponsors-list %}
         
         <div class="col-md-4 col-md-push-4 col-sm-4 col-sm-push-1 col-xs-8 col-xs-push-2">
           {{ sponsor.link }}
