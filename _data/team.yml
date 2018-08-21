@@ -281,3 +281,20 @@ team-members-list:
   linkedin:
   xing: 'https://www.xing.com/profile/Markus_Hiersche3/cv'
   vimeo:
+
+# Team Member
+- firstname: Malika
+  lastname: Mataeva
+  tagline: Mentorin
+  avatar: malika_mataeva.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin:
+  xing: 'https://www.linkedin.com/in/malika-mataeva-812913167/'
+  vimeo:
