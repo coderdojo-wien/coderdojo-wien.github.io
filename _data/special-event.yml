@@ -36,9 +36,9 @@ Throught WeAreDevelopers it's also possible to pratice your coding skills, wethe
 
 sponsor-title: "Kudos to our supporters"
 sponsors-list:
-- link: "<a href='https://microbit.org/' target='_blank'><img src='/images/microbit-logo.png'/ alt='Micro:bit Educational Foundation'></a>"
-- link: "<a href='https://www.wearedevelopers.com' target='_blank'><img src='/images/wearedevelopers-logo.png'/ alt='WeAreDevelopers'></a>"
-- link: "<a href='https://www.microsoft.com/de-at' target='_blank'><img src='/images/Microsoft-logo.png' alt='Microsoft Österreich'/></a>"
+- link: "<a href='https://microbit.org/' target='_blank'><img src='/images/special-event/microbit-logo.png'/ alt='Micro:bit Educational Foundation'></a>"
+- link: "<a href='https://www.wearedevelopers.com' target='_blank'><img src='/images/special-event/wearedevelopers-logo.png'/ alt='WeAreDevelopers'></a>"
+- link: "<a href='https://www.microsoft.com/de-at' target='_blank'><img src='/images/special-event/Microsoft-logo.png' alt='Microsoft Österreich'/></a>"
 
 timeline-title: "Program"
 timeline: "
