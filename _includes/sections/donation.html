@@ -1,0 +1,28 @@
+<!-- Exercise Section -->
+<section class="site-section donation-section">
+
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="row">
+
+      <!-- Section Header -->
+      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+        <h1>{{ site.data.donation.donation-title }}</h1>
+        <hr class="normal">
+      </header>
+
+      <!-- Section Content -->
+      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+        {% if site.data.donation.donation-description != null %} {{ site.data.donation.donation-description }} {% endif %}
+      </div>
+
+    </div>
+
+  </div>
+
+  <div id="donationform-default">
+    <script src="https://www.helpmundo.de/helptools/donations/14771/0/init.js?type=int&newLocal=de" type="text/javascript"></script>
+  </div>
+
+</section>

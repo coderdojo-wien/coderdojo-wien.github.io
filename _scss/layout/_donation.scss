@@ -1,0 +1,22 @@
+section.donation-section {
+ 
+    section.donation-section {
+        header.section-header {
+                h1, h2, h3, h4, h5, h6 {
+                text-transform: none;
+                }
+        }
+        .section-content {
+            text-align: left;
+
+            li {
+                margin-bottom: 10px;
+            }
+
+            li:last-child
+            {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
