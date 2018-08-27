@@ -79,23 +79,6 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Doris
-  lastname: Kub
-  tagline: Mentorin
-  avatar: doris_kub.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook: 'https://www.facebook.com/doris.kub'
-  twitter:
-  google-plus:
-  linkedin:
-  xing: 'https://www.xing.com/profile/Doris_Kub'
-  vimeo:
-
-# Team Member
 - firstname: Rigerta
   lastname: Demiri
   tagline: Mentorin
@@ -110,23 +93,6 @@ team-members-list:
   google-plus: 
   linkedin: 'https://www.linkedin.com/in/rigertademiri/'
   xing:
-  vimeo:
-
-# Team Member
-- firstname: Tarik
-  lastname: Kurtovic
-  tagline: Mentor
-  avatar: tarik_kurtovic.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/tarik-kurtovic-17632a26/'
-  xing: 'https://www.xing.com/profile/Tarik_Kurtovic'
   vimeo:
 
 # Team Member
@@ -297,4 +263,55 @@ team-members-list:
   google-plus:
   linkedin:
   xing: 'https://www.linkedin.com/in/malika-mataeva-812913167/'
+  vimeo:
+  
+# Team Member
+- firstname: Thomas
+  lastname: Ederer
+  tagline: Mentor
+  avatar: thomas_ederer.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin:
+  xing: 'https://www.xing.com/profile/Thomas_Ederer3/'
+  vimeo:
+  
+# Team Member
+- firstname: Tarik
+  lastname: Kurtovic
+  tagline: Mentor
+  avatar: tarik_kurtovic.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/tarik-kurtovic-17632a26/'
+  xing: 'https://www.xing.com/profile/Tarik_Kurtovic'
+  vimeo:
+  
+# Team Member
+- firstname: Doris
+  lastname: Kub
+  tagline: Mentorin
+  avatar: doris_kub.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook: 'https://www.facebook.com/doris.kub'
+  twitter:
+  google-plus:
+  linkedin:
+  xing: 'https://www.xing.com/profile/Doris_Kub'
   vimeo:
