@@ -283,6 +283,23 @@ team-members-list:
   vimeo:
   
 # Team Member
+- firstname: Nicolas
+  lastname: Dular
+  tagline: Mentor
+  avatar: nicolas_dular.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook: 
+  twitter: 'https://twitter.com/nicolasdular'
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/nicolas-dular-548528167/'
+  xing: ''
+  vimeo:
+
+# Team Member
 - firstname: Tarik
   lastname: Kurtovic
   tagline: Mentor
