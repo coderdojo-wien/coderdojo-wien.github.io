@@ -20,21 +20,13 @@ Für C# brauchst du entweder <a target=\"_blank\" href=\"https://www.visualstudi
 "
 
 events-list:
-- event-date: 14.9.2018
-  event-time: 17:00 - 19:00
-  event-startdate: 2018-09-14T15:00:00Z
-  event-enddate: 2018-09-14T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-49243736341"
-
 - event-date: 28.9.2018
   event-time: 17:00 - 19:00
   event-startdate: 2018-09-28T15:00:00Z
   event-enddate: 2018-09-28T17:00:00Z
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-tickets-49243895818"
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-49243895818"
 
 - event-date: 12.10.2018
   event-time: 17:00 - 19:00
@@ -43,3 +35,12 @@ events-list:
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-49243983079"
+
+- event-date: 19.10.2018
+  event-time: 17:00 - 19:00
+  event-startdate: 2018-10-19T15:00:00Z
+  event-enddate: 2018-10-19T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-49243986088"
+
