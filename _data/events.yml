@@ -1,13 +1,13 @@
 title: "Termine"
 
 description: "<p>
-<b>Für ein CoderDojo brauchst du grundsätzlich einen Laptop</b> ein Tablet oder Smartphone reicht nicht aus.
+<b>Für ein CoderDojo brauchst du grundsätzlich einen Laptop</b>. Ein Tablet oder Smartphone reichen nicht aus.
 </p>
-<h2>Was du vorbereitet kannst</h2>
+<h2>Was du vorbereiten kannst</h2>
 <p>
-<b>Es gibt ein paar Vorbereitungsschritte die du zu hause machen kannst um das Zeit bei CoderDojo zu sparen.</b> 
-Falls du hilfe brauchst frage deine Eltern, wir helfen dir in zweifellsfall gern auch vor ort. Wir verwenden verschiede Sprachen und Technologien um das Programmieren zu lernen. 
-Für die kleinsten und Anfänger nutzen wir vor allem <a target=\"_blank\" href=\"https://scratch.mit.edu/\">Scratch</a>.
+<b>Es gibt ein paar Vorbereitungsschritte, welche du zu Hause machen kannst, um die Zeit beim CoderDojo zu sparen.</b> 
+Falls du Hilfe, brauchst frage deine Eltern; wir helfen dir im Zweifellsfall gern auch vor Ort. Wir verwenden verschiede Sprachen und Technologien um das Programmieren zu lernen. 
+Für die Kleinsten und für Anfänger nutzen wir vor allem <a target=\"_blank\" href=\"https://scratch.mit.edu/\">Scratch</a>.
 </p>
 <h3>Vorbereitung für Scratch</h3>
 <p>
@@ -20,14 +20,6 @@ Für C# brauchst du entweder <a target=\"_blank\" href=\"https://www.visualstudi
 "
 
 events-list:
-- event-date: 28.9.2018
-  event-time: 17:00 - 19:00
-  event-startdate: 2018-09-28T15:00:00Z
-  event-enddate: 2018-09-28T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-49243895818"
-
 - event-date: 12.10.2018
   event-time: 17:00 - 19:00
   event-startdate: 2018-10-12T15:00:00Z
@@ -43,4 +35,12 @@ events-list:
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-49243986088"
+
+- event-date: 9.11.2018
+  event-time: 17:00 - 19:00
+  event-startdate: 2018-11-09T15:00:00Z
+  event-enddate: 2018-11-09T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-50287617618"
 
