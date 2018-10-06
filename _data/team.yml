@@ -1,8 +1,8 @@
 title: "Unser Team"
 
 description: "<p>
-Wir sind ehrenamtliche engagierte Fachexperten. Wir kommen um dich zu unterstützen und in dir dein Potenzial zu entfalten. 
-Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sondern Menschen die Spaß daran haben mit Kindern zu arbeiten.
+Wir sind ehrenamtliche, engagierte Fachexperten. Wir kommen, um dich zu unterstützen und in dir dein Potenzial zu entfalten. 
+Aber wir lernen und hören auch gerne zu. Wir sind keine Lehrer, sondern Menschen, die Spaß daran haben mit Kindern zu arbeiten.
 </p>
 <h2>Mentor werden</h2>
 <p>
@@ -45,10 +45,10 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Tatyana
-  lastname: Sandanova
-  tagline: Mentorin
-  avatar: tatyana_sandanova.jpg
+- firstname: Otmar
+  lastname: Pilgerstorfer
+  tagline: Mentor
+  avatar: otmar_pilgerstorfer.jpg
   email:
 
   # Social Links
@@ -56,26 +56,26 @@ team-members-list:
   pinterest:
   facebook:
   twitter:
-  google-plus: 
-  linkedin: 'https://www.linkedin.com/in/tatyanasandanova/'
-  xing: 'https://www.xing.com/profile/Tatyana_Sandanova'
+  google-plus:
+  linkedin:
+  xing: 'https://www.xing.com/profile/Otmar_Pilgerstorfer'
   vimeo:
 
 # Team Member
-- firstname: Roman
-  lastname: Oelssner
+- firstname: Markus
+  lastname: Hiersche
   tagline: Mentor
-  avatar: roman_oelssner.jpg
+  avatar: markus_hiersche.jpg
   email:
 
   # Social Links
   youtube:
   pinterest:
   facebook:
-  twitter: 
+  twitter:
   google-plus:
-  linkedin: 'https://www.linkedin.com/in/romanoelssner/'
-  xing: 'https://www.xing.com/profile/Roman_Oelssner'
+  linkedin:
+  xing: 'https://www.xing.com/profile/Markus_Hiersche3/cv'
   vimeo:
 
 # Team Member
@@ -96,40 +96,6 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Thomas
-  lastname: Mutzl
-  tagline: Mentor
-  avatar: thomas_mutzl.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/thomasmutzl/'
-  xing: 'https://www.xing.com/profile/Thomas_Mutz'
-  vimeo:
-
-# Team Member
-- firstname: Otmar
-  lastname: Pilgerstorfer
-  tagline: Mentor
-  avatar: otmar_pilgerstorfer.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin:
-  xing: 'https://www.xing.com/profile/Otmar_Pilgerstorfer'
-  vimeo:
-
-  # Team Member
 - firstname: Christian
   lastname: Bachtrögl
   tagline: Mentor
@@ -147,39 +113,39 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Michael
-  lastname: Kruisz
+- firstname: Nicolas
+  lastname: Dular
   tagline: Mentor
-  avatar: michael_kruisz.jpg
+  avatar: nicolas_dular.jpg
   email:
 
   # Social Links
   youtube:
   pinterest:
-  facebook: 'https://www.facebook.com/michael.kruisz'
-  twitter: 'https://twitter.com/krawuzikapuzi_'
+  facebook: 
+  twitter: 'https://twitter.com/nicolasdular'
   google-plus:
-  linkedin: 'https://www.linkedin.com/in/michael-kruisz'
-  xing: 'https://www.xing.com/profile/Michael_Kruisz'
+  linkedin: 'https://www.linkedin.com/in/nicolas-dular-548528167/'
+  xing:
   vimeo:
 
 # Team Member
-- firstname: Gregor
-  lastname: Beyerle
+- firstname: Thomas
+  lastname: Ederer
   tagline: Mentor
-  avatar: gregor_beyerle.jpg
+  avatar: thomas_ederer.jpg
   email:
 
   # Social Links
   youtube:
   pinterest:
   facebook:
-  twitter: 'https://twitter.com/GBeyerle'
+  twitter:
   google-plus:
-  linkedin: 'https://www.linkedin.com/in/gregor-beyerle'
-  xing:
+  linkedin:
+  xing: 'https://www.xing.com/profile/Thomas_Ederer3/'
   vimeo:
-
+  
 # Team Member
 - firstname: Peter
   lastname: Friedl
@@ -195,6 +161,40 @@ team-members-list:
   google-plus:
   linkedin: 'https://www.linkedin.com/in/peter-friedl-9457a44/'
   xing: 'https://www.xing.com/profile/Peter_Friedl'
+  vimeo:
+
+# Team Member
+- firstname: Malika
+  lastname: Mataeva
+  tagline: Mentorin
+  avatar: malika_mataeva.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin:
+  xing: 'https://www.linkedin.com/in/malika-mataeva-812913167/'
+  vimeo:
+  
+# Team Member
+- firstname: Thomas
+  lastname: Mutzl
+  tagline: Mentor
+  avatar: thomas_mutzl.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/thomasmutzl/'
+  xing: 'https://www.xing.com/profile/Thomas_Mutz'
   vimeo:
 
 # Team Member
@@ -232,27 +232,10 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Markus
-  lastname: Hiersche
-  tagline: Mentor
-  avatar: markus_hiersche.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin:
-  xing: 'https://www.xing.com/profile/Markus_Hiersche3/cv'
-  vimeo:
-
-# Team Member
-- firstname: Malika
-  lastname: Mataeva
+- firstname: Tatyana
+  lastname: Sandanova
   tagline: Mentorin
-  avatar: malika_mataeva.jpg
+  avatar: tatyana_sandanova.jpg
   email:
 
   # Social Links
@@ -260,42 +243,59 @@ team-members-list:
   pinterest:
   facebook:
   twitter:
-  google-plus:
-  linkedin:
-  xing: 'https://www.linkedin.com/in/malika-mataeva-812913167/'
+  google-plus: 
+  linkedin: 'https://www.linkedin.com/in/tatyanasandanova/'
+  xing: 'https://www.xing.com/profile/Tatyana_Sandanova'
   vimeo:
-  
+
 # Team Member
-- firstname: Thomas
-  lastname: Ederer
+- firstname: Roman
+  lastname: Oelssner
   tagline: Mentor
-  avatar: thomas_ederer.jpg
+  avatar: roman_oelssner.jpg
   email:
 
   # Social Links
   youtube:
   pinterest:
   facebook:
-  twitter:
+  twitter: 
   google-plus:
-  linkedin:
-  xing: 'https://www.xing.com/profile/Thomas_Ederer3/'
+  linkedin: 'https://www.linkedin.com/in/romanoelssner/'
+  xing: 'https://www.xing.com/profile/Roman_Oelssner'
   vimeo:
-  
+
 # Team Member
-- firstname: Nicolas
-  lastname: Dular
+- firstname: Michael
+  lastname: Kruisz
   tagline: Mentor
-  avatar: nicolas_dular.jpg
+  avatar: michael_kruisz.jpg
   email:
 
   # Social Links
   youtube:
   pinterest:
-  facebook: 
-  twitter: 'https://twitter.com/nicolasdular'
+  facebook: 'https://www.facebook.com/michael.kruisz'
+  twitter: 'https://twitter.com/krawuzikapuzi_'
   google-plus:
-  linkedin: 'https://www.linkedin.com/in/nicolas-dular-548528167/'
+  linkedin: 'https://www.linkedin.com/in/michael-kruisz'
+  xing: 'https://www.xing.com/profile/Michael_Kruisz'
+  vimeo:
+
+# Team Member
+- firstname: Gregor
+  lastname: Beyerle
+  tagline: Mentor
+  avatar: gregor_beyerle.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter: 'https://twitter.com/GBeyerle'
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/gregor-beyerle'
   xing:
   vimeo:
 
