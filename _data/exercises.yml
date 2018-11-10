@@ -42,6 +42,8 @@ technologies:
         url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/MissileShooter/Readme.md"
       - name: "Schere, Stein, Papier"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/RockPaperScissors/Readme.md"
+      - name: "Guess What"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/microbit/Guess_What/Readme.md"
 
   - id: "nodejs"
     title: "node.js"
@@ -138,6 +140,10 @@ technologies:
         url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-labyrinth.html"
       - name: "Chess - Programmiere einen Computerspieler für Schach"
         url: "https://coderdojo-linz.github.io/trainingsanleitungen/scratch/scratch-chess.html"
+      - name: "Packman Light (Scratch 2.x)"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/scratch/Pacman_Light/v2.x/Readme.md"
+      - name: "Packman Light (Scratch 3.x)"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/scratch/Pacman_Light/v3.x/Readme.md"
 
   - id: "various"
     title: "Weitere"
@@ -145,4 +151,4 @@ technologies:
     description: 
     exercises: 
       - name: "Einführung Codingame"
-        url: "https://github.com/coderdojo-wien/exercises/tree/dev/various/CodinGame/Readme.md"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/various/CodinGame/Readme.md"
