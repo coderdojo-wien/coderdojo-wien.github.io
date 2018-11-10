@@ -79,23 +79,6 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Rigerta
-  lastname: Demiri
-  tagline: Mentorin
-  avatar: rigerta_demiri.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter: 'https://twitter.com/rigerta_sql'
-  google-plus: 
-  linkedin: 'https://www.linkedin.com/in/rigertademiri/'
-  xing:
-  vimeo:
-
-# Team Member
 - firstname: Christian
   lastname: Bachtrögl
   tagline: Mentor
@@ -232,57 +215,6 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Tatyana
-  lastname: Sandanova
-  tagline: Mentorin
-  avatar: tatyana_sandanova.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus: 
-  linkedin: 'https://www.linkedin.com/in/tatyanasandanova/'
-  xing: 'https://www.xing.com/profile/Tatyana_Sandanova'
-  vimeo:
-
-# Team Member
-- firstname: Roman
-  lastname: Oelssner
-  tagline: Mentor
-  avatar: roman_oelssner.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter: 
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/romanoelssner/'
-  xing: 'https://www.xing.com/profile/Roman_Oelssner'
-  vimeo:
-
-# Team Member
-- firstname: Michael
-  lastname: Kruisz
-  tagline: Mentor
-  avatar: michael_kruisz.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook: 'https://www.facebook.com/michael.kruisz'
-  twitter: 'https://twitter.com/krawuzikapuzi_'
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/michael-kruisz'
-  xing: 'https://www.xing.com/profile/Michael_Kruisz'
-  vimeo:
-
-# Team Member
 - firstname: Gregor
   lastname: Beyerle
   tagline: Mentor
@@ -297,38 +229,4 @@ team-members-list:
   google-plus:
   linkedin: 'https://www.linkedin.com/in/gregor-beyerle'
   xing:
-  vimeo:
-
-# Team Member
-- firstname: Tarik
-  lastname: Kurtovic
-  tagline: Mentor
-  avatar: tarik_kurtovic.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/tarik-kurtovic-17632a26/'
-  xing: 'https://www.xing.com/profile/Tarik_Kurtovic'
-  vimeo:
-  
-# Team Member
-- firstname: Doris
-  lastname: Kub
-  tagline: Mentorin
-  avatar: doris_kub.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook: 'https://www.facebook.com/doris.kub'
-  twitter:
-  google-plus:
-  linkedin:
-  xing: 'https://www.xing.com/profile/Doris_Kub'
   vimeo:
