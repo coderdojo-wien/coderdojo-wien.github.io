@@ -230,3 +230,20 @@ team-members-list:
   linkedin: 'https://www.linkedin.com/in/gregor-beyerle'
   xing:
   vimeo:
+
+  # Team Member
+- firstname: Katharina
+  lastname: Unlayao
+  tagline: Mentorîn
+  avatar: katharina_unlayao.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/katharina-unlayao-787063155'
+  xing:
+  vimeo:
