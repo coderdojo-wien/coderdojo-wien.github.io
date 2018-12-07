@@ -20,14 +20,6 @@ Für C# brauchst du entweder <a target=\"_blank\" href=\"https://www.visualstudi
 "
 
 events-list:
-- event-date: 23.11.2018
-  event-time: 17:00 - 19:00
-  event-startdate: 2018-11-23T15:00:00Z
-  event-enddate: 2018-11-23T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-50288417009"
-
 - event-date: 07.12.2018
   event-time: 17:00 - 19:00
   event-startdate: 2018-12-07T15:00:00Z
@@ -43,4 +35,12 @@ events-list:
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-52431778862"
+
+- event-date: 25.01.2019
+  event-time: 17:00 - 19:00
+  event-startdate: 2019-01-25T15:00:00Z
+  event-enddate: 2019-01-25T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-52431875150"
 
