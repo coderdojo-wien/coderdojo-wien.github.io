@@ -144,6 +144,8 @@ technologies:
         url: "https://github.com/coderdojo-wien/exercises/tree/master/scratch/Pacman_Light/v2.x/Readme.md"
       - name: "Packman Light (Scratch 3.x)"
         url: "https://github.com/coderdojo-wien/exercises/tree/master/scratch/Pacman_Light/v3.x/Readme.md"
+      - name: "Pong"
+        url: "https://github.com/coderdojo-wien/exercises/tree/master/scratch/Pong/Readme.md"        
 
   - id: "various"
     title: "Weitere"
