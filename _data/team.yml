@@ -198,6 +198,40 @@ team-members-list:
   vimeo:
 
 # Team Member
+- firstname: Katharina
+  lastname: Unlayao
+  tagline: Mentorîn
+  avatar: katharina_unlayao.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/katharina-unlayao-787063155'
+  xing:
+  vimeo:
+
+# Team Member
+- firstname: Johannes
+  lastname: Pöschl
+  tagline: Mentor
+  avatar: johannes_poeschl.jpg
+  email:
+
+  # Social Links
+  youtube: 'https://www.youtube.com/channel/UCyhGjudctxDZcKLozEzUqxg/'
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin:
+  xing: 'https://www.xing.com/profile/Johannes_Poeschl2'
+  vimeo:
+  
+# Team Member
 - firstname: Nikola
   lastname: Ilo
   tagline: Mentor
@@ -228,22 +262,5 @@ team-members-list:
   twitter: 'https://twitter.com/GBeyerle'
   google-plus:
   linkedin: 'https://www.linkedin.com/in/gregor-beyerle'
-  xing:
-  vimeo:
-
-  # Team Member
-- firstname: Katharina
-  lastname: Unlayao
-  tagline: Mentorîn
-  avatar: katharina_unlayao.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/katharina-unlayao-787063155'
   xing:
   vimeo:
