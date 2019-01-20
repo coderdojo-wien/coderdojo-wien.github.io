@@ -1,21 +1,7 @@
 title: "Termine"
 
 description: "<p>
-<b>Für ein CoderDojo brauchst du grundsätzlich einen Laptop</b>. Ein Tablet oder Smartphone reichen nicht aus.
-</p>
-<h2>Was du vorbereiten kannst</h2>
-<p>
-<b>Es gibt ein paar Vorbereitungsschritte, welche du zu Hause machen kannst, um die Zeit beim CoderDojo zu sparen.</b> 
-Falls du Hilfe, brauchst frage deine Eltern; wir helfen dir im Zweifellsfall gern auch vor Ort. Wir verwenden verschiede Sprachen und Technologien um das Programmieren zu lernen. 
-Für die Kleinsten und für Anfänger nutzen wir vor allem <a target=\"_blank\" href=\"https://scratch.mit.edu/\">Scratch</a>.
-</p>
-<h3>Vorbereitung für Scratch</h3>
-<p>
-Installiere dir einen <a target=\"_blank\" href=\"https://scratch.mit.edu/download\">Scratch</a>-Client.
-</p>
-<h3>Vorbereitung für C#</h3>
-<p>
-Für C# brauchst du entweder <a target=\"_blank\" href=\"https://www.visualstudio.com/downloads/\">Visual Studio Community 2017</a> oder <a target=\"_blank\" href=\"https://code.visualstudio.com/\">Visual Studio Code</a> zu installieren.
+Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei für Scratch kannst du auch ein Tablet verweden.
 </p>
 "
 
