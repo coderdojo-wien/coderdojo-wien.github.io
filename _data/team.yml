@@ -264,3 +264,37 @@ team-members-list:
   linkedin: 'https://www.linkedin.com/in/gregor-beyerle'
   xing:
   vimeo:
+
+# Team Member
+- firstname: Olexsandr
+  lastname: Shabelnyk
+  tagline: Mentor
+  avatar: oleksandr_shabelnyk.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/oleksandr-shabelnyk-1a568667'
+  xing:
+  vimeo:
+
+# Team Member
+- firstname: Rigerta
+  lastname: Demiri
+  tagline: Mentorin
+  avatar: rigerta_demiri.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin:
+  xing:
+  vimeo:
