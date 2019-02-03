@@ -49,7 +49,7 @@ email: hallo@wien.coderdojo.net
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: '/#contact'
+banner-link: '/donation'
 
 # Google Map JS api
 # This is my api for this template
