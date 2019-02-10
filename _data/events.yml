@@ -6,22 +6,6 @@ Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei für Scratch k
 "
 
 events-list:
-- event-date: 25.01.2019
-  event-time: 17:00 - 19:00
-  event-startdate: 2019-01-25T15:00:00Z
-  event-enddate: 2019-01-25T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-52431875150"
-
-- event-date: 08.02.2018
-  event-time: 17:00 - 19:00
-  event-startdate: 2019-02-08T15:00:00Z
-  event-enddate: 2018-02-08T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-54493362113"
-
 - event-date: 22.02.2019
   event-time: 17:00 - 19:00
   event-startdate: 2019-02-22T15:00:00Z
@@ -30,3 +14,18 @@ events-list:
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-54493377158"
   
+- event-date: 08.03.2019
+  event-time: 17:00 - 19:00
+  event-startdate: 2019-03-08T15:00:00Z
+  event-enddate: 2019-03-08T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-55042277935"
+
+- event-date: 22.03.2018
+  event-time: 17:00 - 19:00
+  event-startdate: 2019-03-22T15:00:00Z
+  event-enddate: 2018-03-22T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-56276334030"
