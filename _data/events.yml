@@ -6,14 +6,6 @@ Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei für Scratch k
 "
 
 events-list:
-- event-date: 22.02.2019
-  event-time: 17:00 - 19:00
-  event-startdate: 2019-02-22T15:00:00Z
-  event-enddate: 2019-02-22T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-54493377158"
-  
 - event-date: 08.03.2019
   event-time: 17:00 - 19:00
   event-startdate: 2019-03-08T15:00:00Z
@@ -29,3 +21,11 @@ events-list:
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-56276334030"
+
+- event-date: 05.42.2019
+  event-time: 17:00 - 19:00
+  event-startdate: 2019-04-05T15:00:00Z
+  event-enddate: 2019-04-05T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-56276413267"
