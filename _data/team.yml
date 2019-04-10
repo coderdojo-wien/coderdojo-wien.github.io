@@ -298,3 +298,20 @@ team-members-list:
   linkedin:
   xing:
   vimeo:
+
+  # Team Member
+- firstname: Lotte
+  lastname: Ederer
+  tagline: Mentorin
+  avatar: lotte_ederer.jpg
+  email:
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin:
+  xing:
+  vimeo:
