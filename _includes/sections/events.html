@@ -59,8 +59,11 @@
             <!-- Event Registration -->
             <div class="event-registration">
               <a href="{{ event.event-registration-url }}" target="_blank" class="button">Anmelden</a>
+              {% if event.event-notebook-code != null %}<a href="{{ event.event-registration-url }}?discount={{ event.event-notebook-code }}" target="_blank" class="button">Anmeldung + Notebook</a>{% endif %}
             </div>
 
+            <div class="event-registration">
+            </div>
           </div>
         </div>
 
