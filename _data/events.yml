@@ -1,9 +1,8 @@
 title: "Termine"
 
-description: "<p>
-Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei für Scratch kannst du auch ein Tablet verweden.
-</p>
-"
+description: "Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei für Scratch kannst du auch ein Tablet verweden."
+
+note: "* Bitte beachte, dass wir nicht jedem einen Computer zur Verfügung stellen können. Eine Reservierung erlischt 15 min nach Beginn des CoderDojos."
 
 events-list:
 - event-date: 26.04.2019
