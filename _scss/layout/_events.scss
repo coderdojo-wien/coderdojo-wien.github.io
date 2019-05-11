@@ -2,7 +2,7 @@ section.events-section {
 
   // Pricing Tables Container
   .events-tables-container {
-    margin-top: 80px;
+    margin-top: 100px;
 
     // Wrapper
     .events-tables-wrapper {
@@ -12,7 +12,7 @@ section.events-section {
       justify-content: center;
       position: relative;
       width: 100%;
-      height: 400px;
+      margin-bottom: 0.5em;
 
       // Responsive Media
       @media (max-width: 991px) and (min-width: 400px) {
@@ -106,8 +106,11 @@ section.events-section {
       .event-registration {
 
          .button{
+           font-weight: 300;
            background-color: $white;
            border-color: $primary;
+           margin-bottom: 20px;
+           max-width: 80%;
            color: $primary;
               &:active,
               &:hover{
@@ -117,7 +120,7 @@ section.events-section {
          }
 
         background-color: $light-gray;
-        padding-bottom: 20px;
+        padding-bottom: 1em;
       }
       
     }

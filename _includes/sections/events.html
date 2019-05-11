@@ -13,7 +13,7 @@
 
       <!-- Events Content -->
       <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-        {% if site.data.events.description != null %} {{ site.data.events.description }} {% endif %}
+        {% if site.data.events.description != null %} <p>{{ site.data.events.description }}</p> {% endif %}
       </div>
 
     </div>
@@ -21,11 +21,9 @@
     <!-- Events Tables Container -->
     <div class="row events-tables-container">
       <div class="events-tables-wrapper clearfix">
-
         {% for event in site.data.events.events-list %}
-
         <!-- Events Table -->
-        <div class="col-md-3 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2" itemscope itemtype="http://schema.org/Event">
+        <div class="col-md-4 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2" itemscope itemtype="http://schema.org/Event">
           <div class="events-table">
 
             <!-- Event Content -->
@@ -58,16 +56,30 @@
 
             <!-- Event Registration -->
             <div class="event-registration">
-              <a href="{{ event.event-registration-url }}" target="_blank" class="button">Anmelden</a>
-              {% if event.event-notebook-code != null %}<a href="{{ event.event-registration-url }}?discount={{ event.event-notebook-code }}" target="_blank" class="button">Anmeldung + Notebook</a>{% endif %}
-            </div>
-
-            <div class="event-registration">
+              <a href="{{ event.event-registration-url }}" target="_blank" class="button"><b>Anmeldung</b> <br/> <i>ohne</i> Notebook reservierung</a>
+              {% if event.event-notebook-code != null %}
+              <a href="{{ event.event-registration-url }}?discount={{ event.event-notebook-code }}" target="_blank" class="button"><b>Anmeldung</b> <br/>mit Notebook reservierung*</a>
+              {% endif %}
             </div>
           </div>
         </div>
-
         {% endfor %}
+      </div>
+    </div>
+
+    {% if site.data.events.note != null %}
+    <!-- Section Note -->
+    <div class="row">
+  
+        <!-- Section Note Content -->
+        <div class="col-md-12 col-md-push-0 col-sm-12 section-content">
+          <p>
+           <i>{{ site.data.events.note }}</i>
+          </p>
+        </div>
+  
+    </div>
+    {% endif %}
 
   </div>
 </section>
