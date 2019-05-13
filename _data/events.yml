@@ -5,24 +5,6 @@ description: "Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei 
 note: "* Bitte beachte, dass wir nicht jedem einen Computer zur Verfügung stellen können. Eine Reservierung erlischt 15 min nach Beginn des CoderDojos."
 
 events-list:
-- event-date: 26.04.2019
-  event-time: 17:00 - 19:00
-  event-startdate: 2019-04-26T15:00:00Z
-  event-enddate: 2019-04-26T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-56276463417"
-  event-notebook-code: "CODERDOJO-NOTEBOOK"
-
-- event-date: 10.05.2019
-  event-time: 17:00 - 19:00
-  event-startdate: 2019-05-10T15:00:00Z
-  event-enddate: 2018-05-10T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-59489025276"
-  event-notebook-code: "CODERDOJO-NOTEBOOK"
-
 - event-date: 24.05.2019
   event-time: 17:00 - 19:00
   event-startdate: 2019-05-24T15:00:00Z
@@ -30,4 +12,22 @@ events-list:
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-59489225876"
+  event-notebook-code: "CODERDOJO-NOTEBOOK"
+  
+- event-date: 07.06.2019
+  event-time: 17:00 - 19:00
+  event-startdate: 2019-06-07T15:00:00Z
+  event-enddate: 2019-06-07T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-59659783017"
+  event-notebook-code: "CODERDOJO-NOTEBOOK"
+
+- event-date: 14.06.2019
+  event-time: 17:00 - 19:00
+  event-startdate: 2019-06-14T15:00:00Z
+  event-enddate: 2018-06-14T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-61776822138"
   event-notebook-code: "CODERDOJO-NOTEBOOK"
