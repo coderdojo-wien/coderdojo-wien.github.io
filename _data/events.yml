@@ -5,15 +5,6 @@ description: "Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei 
 note: "* Bitte beachte, dass wir nicht jedem einen Computer zur Verfügung stellen können. Eine Reservierung erlischt 15 min nach Beginn des CoderDojos."
 
 events-list:
-- event-date: 30.08.2019
-  event-time: 17:00 - 19:00
-  event-startdate: 2019-08-30T15:00:00Z
-  event-enddate: 2019-08-30T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-66048712477"
-  event-notebook-code: "CODERDOJO-NOTEBOOK"
-
 - event-date: 13.09.2019
   event-time: 17:00 - 19:00
   event-startdate: 2019-09-13T15:00:00Z
@@ -30,5 +21,14 @@ events-list:
   event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-69413187713"
+  event-notebook-code: "CODERDOJO-NOTEBOOK"
+
+- event-date: 11.10.2019
+  event-time: 17:00 - 19:00
+  event-startdate: 2019-10-11T15:00:00Z
+  event-enddate: 2019-10-11T17:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-71343581573"
   event-notebook-code: "CODERDOJO-NOTEBOOK"
 
