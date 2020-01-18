@@ -4,6 +4,7 @@ description: "Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei 
 
 note: "* Bitte beachte, dass wir nicht jedem einen Computer zur Verfügung stellen können. Eine Reservierung erlischt 15 min nach Beginn des CoderDojos."
 
+events-list:
 - event-date: 31.01.2020
   event-time: 17:00 - 19:00
   event-startdate: 2020-01-31T15:00:00Z
