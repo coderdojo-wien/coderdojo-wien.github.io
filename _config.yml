@@ -9,7 +9,7 @@ lang: "de-AT"
 # Header Title
 header-title:
 # Header Tagline
-headter-tagline:
+header-tagline:
 # Description
 description: "Das CoderDojo ist ein Club für Kinder und Jugendliche zwischen 8 und 17 Jahren, in dem sie Technik und Programmieren lernen können."
 # Keywords
@@ -75,3 +75,10 @@ sass:
 
 # Information for compile
 exclude: [".gitignore", "node_modules", "docker-compose.yml", "Gemfile", "Gemfile.lock", "gulpfile.js", "package.json", "README.md"]
+
+#####################################
+############## Features #############
+#####################################
+
+show-special-event-site: false
+show-team-pictures: true

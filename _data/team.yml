@@ -47,7 +47,7 @@ team-members-list:
 # Team Member
 - firstname: Otmar
   lastname: Pilgerstorfer
-  tagline: Mentor
+  tagline: Schriftführer
   avatar: otmar_pilgerstorfer.jpg
   email:
 
@@ -62,145 +62,9 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Markus
-  lastname: Hiersche
-  tagline: Mentor
-  avatar: markus_hiersche.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin:
-  xing: 'https://www.xing.com/profile/Markus_Hiersche3/cv'
-  vimeo:
-
-# Team Member
-- firstname: Christian
-  lastname: Bachtrögl
-  tagline: Mentor
-  avatar: christian_bachtroegl.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/christian-bachtr%C3%B6gl-16824051/'
-  xing: 'https://www.xing.com/profile/Christian_Bachtroegl'
-  vimeo:
-
-# Team Member
-- firstname: Nicolas
-  lastname: Dular
-  tagline: Mentor
-  avatar: nicolas_dular.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook: 
-  twitter: 'https://twitter.com/nicolasdular'
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/nicolas-dular-548528167/'
-  xing:
-  vimeo:
-
-# Team Member
-- firstname: Thomas
-  lastname: Ederer
-  tagline: Mentor
-  avatar: thomas_ederer.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin:
-  xing: 'https://www.xing.com/profile/Thomas_Ederer3/'
-  vimeo:
-  
-# Team Member
-- firstname: Peter
-  lastname: Friedl
-  tagline: Mentor
-  avatar: peter_friedl.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/peter-friedl-9457a44/'
-  xing: 'https://www.xing.com/profile/Peter_Friedl'
-  vimeo:
-
-# Team Member
-- firstname: Malika
-  lastname: Mataeva
-  tagline: Mentorin
-  avatar: malika_mataeva.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin:
-  xing: 'https://www.linkedin.com/in/malika-mataeva-812913167/'
-  vimeo:
-  
-# Team Member
-- firstname: Thomas
-  lastname: Mutzl
-  tagline: Mentor
-  avatar: thomas_mutzl.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/thomasmutzl/'
-  xing: 'https://www.xing.com/profile/Thomas_Mutz'
-  vimeo:
-
-# Team Member
-- firstname: Christian
-  lastname: Vorhemus
-  tagline: Mentor
-  avatar: christian_vorhemus.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/christian-vorhemus-11582812b/'
-  xing: 'https://www.xing.com/profile/Christian_Vorhemus2/cv'
-  vimeo:
-
-# Team Member
 - firstname: Katharina
   lastname: Unlayao
-  tagline: Mentorîn
+  tagline: Kassiererin
   avatar: katharina_unlayao.jpg
   email:
 
@@ -215,27 +79,10 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Johannes
-  lastname: Pöschl
-  tagline: Mentor
-  avatar: johannes_poeschl.jpg
-  email:
-
-  # Social Links
-  youtube: 'https://www.youtube.com/channel/UCyhGjudctxDZcKLozEzUqxg/'
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin:
-  xing: 'https://www.xing.com/profile/Johannes_Poeschl2'
-  vimeo:
-  
-# Team Member
-- firstname: Nikola
-  lastname: Ilo
-  tagline: Mentor
-  avatar: nikola_ilo.jpg
+- firstname: Karl
+  lastname: Sträßler
+  tagline: Backoffice
+  avatar: karl-straessler.jpg
   email:
 
   # Social Links
@@ -244,74 +91,6 @@ team-members-list:
   facebook:
   twitter:
   google-plus:
-  linkedin: 'https://www.linkedin.com/in/nikolailo'
-  xing: 'https://www.xing.com/profile/Nikola_Ilo/cv'
-  vimeo:
-
-# Team Member
-- firstname: Gregor
-  lastname: Beyerle
-  tagline: Mentor
-  avatar: gregor_beyerle.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter: 'https://twitter.com/GBeyerle'
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/gregor-beyerle'
-  xing:
-  vimeo:
-
-# Team Member
-- firstname: Olexsandr
-  lastname: Shabelnyk
-  tagline: Mentor
-  avatar: oleksandr_shabelnyk.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/oleksandr-shabelnyk-1a568667'
-  xing:
-  vimeo:
-
-# Team Member
-- firstname: Rigerta
-  lastname: Demiri
-  tagline: Mentorin
-  avatar: rigerta_demiri.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin:
-  xing:
-  vimeo:
-
-  # Team Member
-- firstname: Lotte
-  lastname: Ederer
-  tagline: Mentorin
-  avatar: lotte_ederer.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin:
+  linkedin: 'https://www.linkedin.com/in/karl-str%C3%A4ssler-98457710/'
   xing:
   vimeo:
