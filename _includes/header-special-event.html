@@ -41,7 +41,9 @@
             <li><a href="/#contact">Kontakt</a></li>
             <li><a href="/exercises">Übungen</a></li>
             <li class="current-menu-item"><a href="/donation">Spenden</a></li>
-            <li class="current-menu-item"><a href="/[special-event-name]">[special-event-name]</a></li>
+            {% if site.show-special-event-site %}
+              <li class="current-menu-item"><a href="/special-event">[special-event]</a></li>
+            {% endif %}
           </ul>
         </nav>
 
@@ -54,11 +56,11 @@
 
       <div class="heading-content text-center child-center-v">
 
-        {% if site.headter-tagline != null || site.header-title != null %}
+        {% if site.header-tagline != null || site.header-title != null %}
         <!-- Heading Title -->
         <div class="row heading-title">
-          {% if site.headter-tagline != null %}
-            <h2>{{ site.headter-tagline }}</h2>
+          {% if site.header-tagline != null %}
+            <h2>{{ site.header-tagline }}</h2>
           {% endif %}
           {% if site.header-title != null %}
             <hr class="small">
