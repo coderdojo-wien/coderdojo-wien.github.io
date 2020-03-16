@@ -9,7 +9,7 @@ events-list:
   event-time: 17:00 - 19:00
   event-startdate: 2020-04-03T15:00:00Z
   event-enddate: 2020-04-03T17:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-plac-ename: VERBUND
+  event-place:
+  event-plac-ename: tba
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-97434943539"
   event-notebook-code: "CODERDOJO-NOTEBOOK"
