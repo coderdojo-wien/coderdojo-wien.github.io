@@ -5,11 +5,11 @@ description: "Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei 
 note: "* Bitte beachte, dass wir nicht jedem einen Computer zur Verfügung stellen können. Eine Reservierung erlischt 15 min nach Beginn des CoderDojos."
 
 events-list:
-- event-date: 03.04.2020
+- event-date: 24.04.2020
   event-time: 17:00 - 19:00
-  event-startdate: 2020-04-03T15:00:00Z
-  event-enddate: 2020-04-03T17:00:00Z
+  event-startdate: 2020-04-24T15:00:00Z
+  event-enddate: 2020-04-24T17:00:00Z
   event-place:
-  event-plac-ename: tba
+  event-plac-ename: Wird rechtzeitig bekanntgegeben
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-97434943539"
   event-notebook-code: "CODERDOJO-NOTEBOOK"
