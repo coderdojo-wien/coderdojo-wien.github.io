@@ -19,11 +19,11 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-    gem "jekyll-feed", "~> 0.11.0"
-    gem "jekyll-last-modified-at", "~> 1.2.0"
-    gem "jekyll-redirect-from", "~> 0.14.0"
-    gem "jekyll-seo-tag", "~> 2.5.0"
-    gem "jekyll-sitemap", "~> 1.2.0"
+    gem "jekyll-feed", "~> 0.13.0"
+    gem "jekyll-last-modified-at", "~> 1.2.1"
+    gem "jekyll-redirect-from", "~> 0.15.0"
+    gem "jekyll-seo-tag", "~> 2.6.1"
+    gem "jekyll-sitemap", "~> 1.4.0"
 end
 
 gem "wdm","~> 0.1.1" if Gem.win_platform?
