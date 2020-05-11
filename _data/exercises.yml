@@ -1,5 +1,11 @@
 exercises-title: "Übungen"
-exercises-description: "Hier findest du alle unsere Programmierbeispiele die wir für CoderDojo entworfen haben. "
+exercises-description: "
+<p>
+  Hier findest du alle unsere Programmierbeispiele die wir für CoderDojo entworfen haben. Die Übungen helfen bei drei Sachen: ein Einstieg ermöglichen und damit Interesse zu wecken, Wissensaufbau und Kreativität fördern. 
+</p> 
+<p>
+  Möchtest du selber eine Übung erstellen? Gerne! Die Technologie oder Sprache ist nicht so wichtig jedoch denke an das Zielpublikum: Kinder und Jugendliche. Einfach einen Pull Request in unsere <a href=\"https://github.com/coderdojo-wien/exercises\">GitHub</a> erstellen.
+</p>"
 
 technologies:
 
