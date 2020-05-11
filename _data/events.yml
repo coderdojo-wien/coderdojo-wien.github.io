@@ -1,15 +1,13 @@
 title: "Termine"
 
-description: "Für ein CoderDojo brauchst du grundsätzlich einen Laptop, wobei für Scratch kannst du auch ein Tablet verweden."
-
-note: "* Bitte beachte, dass wir nicht jedem einen Computer zur Verfügung stellen können. Eine Reservierung erlischt 15 min nach Beginn des CoderDojos."
+description: "Die Voraussetzungen für unsere online Dojo Workshops findest du alle in unserem aktuellen Newsletter: https://mailchi.mp/069a7f77bf64/online-dojo-newsletter-1555298"
 
 events-list:
 - event-date: 15.05.2020
   event-time: 13:45 - 18:00
   event-startdate: 2020-05-15T11:45:00Z
-  event-enddate: 2020-05-22T16:00:00Z
+  event-enddate: 2020-05-15T16:00:00Z
   event-place: online Dojo
-  event-plac-ename: Wird noch rechtzeitig bekanntgegeben. Registrierung/Tickets ist nicht erforderlich
+  event-plac-ename: Registrierung/Tickets ist nicht erforderlich
   event-registration-url: "https://mailchi.mp/069a7f77bf64/online-dojo-newsletter-1555298"
   event-notebook-code: "CODERDOJO-NOTEBOOK"
