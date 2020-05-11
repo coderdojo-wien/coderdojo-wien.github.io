@@ -1,13 +1,13 @@
 title: "Termine"
 
-description: "Alle Voraussetzungen für unsere online Dojo Workshops findest du in unserem aktuellen Newsletter: https://mailchi.mp/069a7f77bf64/online-dojo-newsletter-1555298"
+description: "Alle Voraussetzungen für unsere online Dojo Workshops findest du in unserem Newsletter: https://mailchi.mp/069a7f77bf64/online-dojo-newsletter-1555298"
 
 events-list:
 - event-date: 15.05.2020
   event-time: 13:45 - 18:00
   event-startdate: 2020-05-15T11:45:00Z
   event-enddate: 2020-05-15T16:00:00Z
-  event-place: online Dojo
+  event-place: <a href="#main-event-place-map">online Dojo
   event-place-name: Registrierung/Tickets ist nicht erforderlich
   event-registration-url: "https://mailchi.mp/069a7f77bf64/online-dojo-newsletter-1555298"
   
