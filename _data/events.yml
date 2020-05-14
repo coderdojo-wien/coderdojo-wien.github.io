@@ -8,8 +8,8 @@ events-list:
   event-startdate: 2020-05-15T11:45:00Z
   event-enddate: 2020-05-15T16:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Registrierung/Tickets ist nicht erfor
-  event-registration-url: "https://mailchi.mp/069a7f77bf64/online-dojo-newsletter-1555298"
+  event-placename: Registrierung/Tickets ist nicht erforderlich
+  event-registration-url: "https://mailchi.mp/651bcc545b21/online-dojo-newsletter-1556438"
   
 - event-date: 22.05.2020
   event-time: 13:45 - 18:00
@@ -17,4 +17,4 @@ events-list:
   event-enddate: 2020-05-22T16:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Registrierung/Tickets ist nicht erforderlich
-  event-registration-url: "https://mailchi.mp/069a7f77bf64/online-dojo-newsletter-1555298"
+  event-registration-url: "https://mailchi.mp/651bcc545b21/online-dojo-newsletter-1556438"
