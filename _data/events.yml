@@ -3,14 +3,6 @@ title: "Termine"
 description: "Alle Voraussetzungen für unsere online Dojo Workshops findest du in unserem Newsletter, der jeweils am <a> Tag vor dem online-Dojo zu Mittag veröffentlicht </a> wird. Eine Anmeldung für die online-Dojos ist nicht erforderlich. Wenn du am Laufenden bleiben möchtest, dann melde dich zu unserem Newsletter an (siehe weiter unten)."
 
 events-list:
-- event-date: 19.06.2020
-  event-time: 14:45 - 19:00
-  event-startdate: 2020-06-19T12:45:00Z
-  event-enddate: 2020-06-19T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Registrierung/Tickets ist nicht erforderlich
-  event-registration-url: "https://mailchi.mp/fe28e3d6c822/online-dojo-newsletter-1564134"
-  
 - event-date: 26.06.2020
   event-time: 14:45 - 19:00
   event-startdate: 2020-06-26T12:45:00Z
@@ -27,3 +19,11 @@ events-list:
   event-placename: Registrierung/Tickets ist nicht erforderlich
   event-registration-url: ""
   
+- event-date: 10.07.2020
+  event-time: 14:45 - 19:00
+  event-startdate: 2020-07-10T12:45:00Z
+  event-enddate: 2020-07-10T17:00:00Z
+  event-place: <a href="#main-event-place-map">online Dojo</a>
+  event-placename: Registrierung/Tickets ist nicht erforderlich
+  event-registration-url: ""
+ 
