@@ -9,7 +9,7 @@ events-list:
   event-enddate: 2020-07-10T16:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Registrierung/Tickets ist nicht erforderlich
-  event-registration-url: ""
+  event-registration-url: "https://mailchi.mp/93c17cd81635/online-dojo-newsletter-1693978"
   
 - event-date: 17.07.2020
   event-time: 13:45 - 18:00
