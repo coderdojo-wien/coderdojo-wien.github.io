@@ -4,14 +4,6 @@ description: "Alle Voraussetzungen für unsere online Dojo Workshops findest du 
 
 events-list:
 
-- event-date: 07.08.2020
-  event-time: 13:45 - 18:00
-  event-startdate: 2020-08-07T11:45:00Z
-  event-enddate: 2020-08-07T16:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Registrierung/Tickets ist nicht erforderlich
-  event-registration-url: "https://mailchi.mp/8852a09bbe15/online-dojo-newsletter-1696750"
-  
 - event-date: 14.08.2020
   event-time: 13:45 - 18:00
   event-startdate: 2020-08-14T11:45:00Z
@@ -27,4 +19,11 @@ events-list:
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Registrierung/Tickets ist nicht erforderlich
   event-registration-url: ""
- 
+  
+- event-date: 28.08.2020
+  event-time: 13:45 - 18:00
+  event-startdate: 2020-08-28T11:45:00Z
+  event-enddate: 2020-08-28T16:00:00Z
+  event-place: <a href="#main-event-place-map">online Dojo</a>
+  event-placename: Registrierung/Tickets ist nicht erforderlich
+  event-registration-url: ""
