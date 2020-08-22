@@ -4,14 +4,6 @@ description: "Alle Voraussetzungen für unsere online Dojo Workshops findest du 
 
 events-list:
 
-- event-date: 21.08.2020
-  event-time: 13:00 - 18:00
-  event-startdate: 2020-08-21T11:00:00Z
-  event-enddate: 2020-08-21T16:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Registrierung/Tickets ist nicht erforderlich
-  event-registration-url: "https://mailchi.mp/0a23fd0e9cb3/online-dojo-newsletter-1698006"
-  
 - event-date: 28.08.2020
   event-time: 13:45 - 18:00
   event-startdate: 2020-08-28T11:45:00Z
