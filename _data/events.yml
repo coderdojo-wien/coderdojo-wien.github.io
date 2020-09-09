@@ -4,10 +4,10 @@ description: "Alle Voraussetzungen für unsere online Dojo Workshops findest du 
 
 events-list:
 
-- event-date: 04.09.2020
-  event-time: 13:45 - 18:00
+- event-date: 
+  event-time: 
   event-startdate: 2020-09-04T11:45:00Z
   event-enddate: 2020-09-04T16:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Registrierung/Tickets ist nicht erforderlich
-  event-registration-url: "https://mailchi.mp/85003651753b/online-dojo-newsletter-1699458"
+  event-placename: Diesen Freitag finden hauptsächlich wegen dem CoderDojo Engagement bei der Ars Electronica keine Workshop statt 
+  event-registration-url: "https://ars.electronica.art/keplersgardens/"
