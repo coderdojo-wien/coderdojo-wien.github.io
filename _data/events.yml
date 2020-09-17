@@ -1,13 +1,21 @@
 title: "Termine"
 
-description: "Diesen Freitag finden hauptsächlich wegen dem CoderDojo Engagement bei der Ars Electronica keine Workshops statt"
+description: "Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. Das genaue Workshopprogramm und die Teilnahmelinks finden sie in unserem aktuellen Newsletter und auf unserer Hompepage https://wien.coderdojo.net."
 
 events-list:
 
-- event-date: 
-  event-time: 
-  event-startdate: 2020-09-04T11:45:00Z
-  event-enddate: 2020-09-04T16:00:00Z
+- event-date: 18.09.2020
+  event-time: 14:00 - 18:00
+  event-startdate: 2020-09-18T12:00:00Z
+  event-enddate: 2020-09-18T16:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Diesen Freitag finden hauptsächlich wegen dem CoderDojo Engagement bei der Ars Electronica keine Workshops statt 
-  event-registration-url: "https://ars.electronica.art/keplersgardens/"
+  event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
+  event-registration-url: "https://mailchi.mp/4b8c73c48248/online-dojo-newsletter-1700806"
+
+- event-date: 25.09.2020
+  event-time: 15:00 - 18:00
+  event-startdate: 2020-09-25T13:00:00Z
+  event-enddate: 2020-09-25T17:00:00Z
+  event-place: <a href="#main-event-place-map">online Dojo</a>
+  event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
+  event-registration-url: ""
