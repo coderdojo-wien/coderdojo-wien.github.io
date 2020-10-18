@@ -4,14 +4,6 @@ description: "Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erf
 
 events-list:
 
-- event-date: 16.10.2020
-  event-time: 15:00 - 19:00
-  event-startdate: 2020-10-16T13:00:00Z
-  event-enddate: 2020-10-16T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
-  event-registration-url: "https://mailchi.mp/5b75f87d8f2a/online-dojo-newsletter-1703685"
-
 - event-date: 23.10.2020
   event-time: 15:00 - 19:00
   event-startdate: 2020-10-23T13:00:00Z
