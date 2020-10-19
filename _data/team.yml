@@ -11,26 +11,9 @@ Möchtest du selber ein Mentor werden? Füll einfach unseren <a target=\"_blank\
 
 team-members-list:
 # Team Member
-- firstname: Anton
-  lastname: Kalcik
-  tagline: Co-Founder
-  avatar: anton_kalcik.jpg
-  email: 'anton.kalcik@wien.coderdojo.net'
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook: 'http://facebook/kalcik.net'
-  twitter: 'http://www.twitter.com/akalcik'
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/akalcik'
-  xing: 'https://www.xing.com/profile/Anton_Kalcik'
-  vimeo:
-
-# Team Member
 - firstname: Daniel
   lastname: Wagner
-  tagline: Co-Founder
+  tagline: Founder
   avatar: daniel_wagner.jpg
   email: 'daniel.wagner@wien.coderdojo.net'
 
@@ -81,14 +64,14 @@ team-members-list:
 # Team Member
 - firstname: Karl
   lastname: Sträßler
-  tagline: Backoffice
+  tagline: Obmann-Stellvertreter
   avatar: karl-straessler.jpg
   email:
 
   # Social Links
   youtube:
   pinterest:
-  facebook:
+  facebook: 'https://www.facebook.com/profile.php?id=100016186269369'
   twitter:
   google-plus:
   linkedin: 'https://www.linkedin.com/in/karl-str%C3%A4ssler-98457710/'
