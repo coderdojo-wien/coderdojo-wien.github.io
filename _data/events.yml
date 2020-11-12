@@ -10,7 +10,7 @@ events-list:
   event-enddate: 2020-11-13T17:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
-  event-registration-url: ""
+  event-registration-url: "https://mailchi.mp/119515d79f49/online-dojo-newsletter-1706353"
 
 - event-date: 20.11.2020
   event-time: 15:00 - 19:00
