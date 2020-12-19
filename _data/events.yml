@@ -4,14 +4,6 @@ description: "Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erf
 
 events-list:
 
-- event-date: 18.12.2020
-  event-time: 15:00 - 19:00
-  event-startdate: 2020-12-18T13:00:00Z
-  event-enddate: 2020-12-18T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
-  event-registration-url: "https://mailchi.mp/cfcc5a865def/online-dojo-newsletter-1710521"
-  
 - event-date: 08.01.2021
   event-time: 15:00 - 19:00
   event-startdate: 2021-01-08T13:00:00Z
@@ -19,3 +11,20 @@ events-list:
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
   event-registration-url: ""
+  
+- event-date: 15.01.2021
+  event-time: 15:00 - 19:00
+  event-startdate: 2021-01-15T13:00:00
+  event-enddate: 2021-01-15T17:00:00Z
+  event-place: <a href="#main-event-place-map">online Dojo</a>
+  event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
+  event-registration-url: ""
+  
+- event-date:22.01.2021
+  event-time: 15:00 - 19:00
+  event-startdate: 2021-01-22T13:00:00Z
+  event-enddate: 2021-01-22T17:00:00Z
+  event-place: <a href="#main-event-place-map">online Dojo</a>
+  event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
+  event-registration-url: ""
+  
