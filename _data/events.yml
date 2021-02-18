@@ -10,7 +10,7 @@ events-list:
   event-enddate: 2021-02-19T17:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
-  event-registration-url: ""
+  event-registration-url: "https://mailchi.mp/6b3ef9605ec6/online-dojo-newsletter-1718300"
 
 - event-date: 26.02.2021
   event-time: 15:00 - 19:00
@@ -18,7 +18,7 @@ events-list:
   event-enddate: 2021-02-26T17:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
-  event-registration-url: "https://mailchi.mp/6b3ef9605ec6/online-dojo-newsletter-1718300"
+  event-registration-url: ""
   
 - event-date: 05.03.2021
   event-time: 15:00 - 19:00
