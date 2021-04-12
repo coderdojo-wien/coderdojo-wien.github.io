@@ -4,14 +4,6 @@ description: "Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erf
 
 events-list:
 
-- event-date: 09.04.2021
-  event-time: 15:00 - 19:00
-  event-startdate: 2021-04-09T13:00:00
-  event-enddate: 2021-04-09T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
-  event-registration-url: "https://mailchi.mp/796f56508e8c/online-dojo-newsletter-1762128"
-
 - event-date: 16.04.2021
   event-time: 15:00 - 19:00
   event-startdate: 2021-04-16T13:00:00
@@ -24,6 +16,14 @@ events-list:
   event-time: 15:00 - 19:00
   event-startdate: 2021-04-23T13:00:00
   event-enddate: 2021-04-123T17:00:00Z
+  event-place: <a href="#main-event-place-map">online Dojo</a>
+  event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
+  event-registration-url: ""
+  
+- event-date: 30.04.2021
+  event-time: 15:00 - 19:00
+  event-startdate: 2021-04-30T13:00:00
+  event-enddate: 2021-04-30T17:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
   event-registration-url: ""
