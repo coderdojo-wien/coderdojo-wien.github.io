@@ -10,7 +10,7 @@ events-list:
   event-enddate: 2021-04-123T17:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. 
-  event-registration-url: ""
+  event-registration-url: "https://mailchi.mp/ba6ba089c246/online-dojo-newsletter-1763956"
   
 - event-date: 30.04.2021
   event-time: 15:00 - 19:00
