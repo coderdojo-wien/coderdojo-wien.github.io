@@ -5,12 +5,12 @@ description: "Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erf
 events-list:
 
 - event-date: 28.05.2021
-  event-time: 14:00 - 19:00
-  event-startdate: 2021-05-28T12:00:00
+  event-time: 15:00 - 19:00
+  event-startdate: 2021-05-28T13:00:00
   event-enddate: 2021-05-28T17:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
-  event-registration-url: ""
+  event-registration-url: "https://mailchi.mp/19361ea0c9f7/online-dojo-newsletter-1769548"
   
 - event-date: 04.06.2021
   event-time: 14:00 - 19:00
