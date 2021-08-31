@@ -3,14 +3,6 @@ title: "Termine"
 description: "Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. <b>Zur Teilnahme am Präsenz-Dojo ist unbedingt eine Anmeldung erforderlich!</b>"
 
 events-list:
-- event-date: 27.08.2021
-  event-time: 17:00 - 19:00
-  event-startdate: 2021-08-27T15:00:00
-  event-enddate: 2021-08-27T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
-  event-registration-url: "https://mailchi.mp/54381e18a494/online-dojo-newsletter-1781171"
-  
 - event-date: 03.09.2021
   event-time: 16:00 - 18:00
   event-startdate: 2021-09-03T14:00:00Z
@@ -19,7 +11,6 @@ events-list:
   event-placename: VERBUND
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-167163086291"
   event-notebook-code: "CODERDOJO-NOTEBOOK"
-
   
 - event-date: 10.09.2021
   event-time: 15:00 - 19:00
@@ -29,4 +20,11 @@ events-list:
   event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
   event-registration-url: "" 
   
+- event-date: 17.09.2021
+  event-time: 15:00 - 19:00
+  event-startdate: 2021-09-17T13:00:00
+  event-enddate: 2021-09-17T17:00:00Z
+  event-place: <a href="#main-event-place-map">online Dojo</a>
+  event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
+  event-registration-url: "" 
   
