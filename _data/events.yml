@@ -11,15 +11,6 @@ events-list:
   event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
   event-registration-url: "" 
   
-- event-date: 24.09.2021
-  event-time: 16:00 - 18:00
-  event-startdate: 2021-09-24T14:00:00Z
-  event-enddate: 2021-09-24T16:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-169698758555"
-  event-notebook-code: "CODERDOJO-NOTEBOOK"
-  
 - event-date: 01.10.2021
   event-time: 15:00 - 19:00
   event-startdate: 2021-10-01T13:00:00
