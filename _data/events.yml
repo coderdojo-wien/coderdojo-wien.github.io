@@ -3,21 +3,22 @@ title: "Termine"
 description: "Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. <b>Zur Teilnahme am Präsenz-Dojo ist unbedingt eine Anmeldung erforderlich!</b>"
 
 events-list:
-- event-date: 08.10.2021
-  event-time: 15:00 - 19:00
-  event-startdate: 2021-10-08T13:00:00
-  event-enddate: 2021-10-08T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
-  event-registration-url: "https://mailchi.mp/d41a0a07d3e9/online-dojo-newsletter-1786179" 
-
 - event-date: 15.10.2021
   event-time: 15:00 - 19:00
   event-startdate: 2021-10-15T13:00:00
   event-enddate: 2021-10-15T17:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
-  event-registration-url: "" 
+  event-registration-url: ""
+  
+- event-date: 15.10.2020
+  event-time: 16:00 - 18:00
+  event-startdate: 2021-10-15T14:00:00Z
+  event-enddate: 2021-10-15T16:00:00Z
+  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
+  event-placename: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-188860154807"
+  event-notebook-code: "CODERDOJO-NOTEBOOK"
 
 - event-date: 22.10.2021
   event-time: 15:00 - 19:00
@@ -26,3 +27,4 @@ events-list:
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
   event-registration-url: "" 
+
