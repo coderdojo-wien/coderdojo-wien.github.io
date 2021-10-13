@@ -9,7 +9,7 @@ events-list:
   event-enddate: 2021-10-15T17:00:00Z
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
-  event-registration-url: ""
+  event-registration-url: "https://mailchi.mp/22259856213b/online-dojo-newsletter-1786987"
   
 - event-date: 15.10.2020
   event-time: 16:00 - 18:00
