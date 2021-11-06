@@ -3,23 +3,6 @@ title: "Termine"
 description: "Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. <b>Zur Teilnahme am Präsenz-Dojo ist unbedingt eine Anmeldung erforderlich!</b>"
 
 events-list:
-- event-date: 05.11.2021
-  event-time: 15:00 - 19:00
-  event-startdate: 2021-11-05T13:00:00
-  event-enddate: 2021-11-05T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
-  event-registration-url: "https://mailchi.mp/626d0a02302c/online-dojo-newsletter-1789847" 
-  
-- event-date: 05.11.2021
-  event-time: 16:00 - 18:00
-  event-startdate: 2021-11-05T14:00:00Z
-  event-enddate: 2021-11-05T16:00:00Z
-  event-place: <a href="#main-event-place-map">VERBUND, Am Hof 6a, 1010 Wien</a>
-  event-placename: VERBUND
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-200690108517"
-  event-notebook-code: "CODERDOJO-NOTEBOOK"
-
 - event-date: 12.11.2021
   event-time: 15:00 - 19:00
   event-startdate: 2021-11-12T13:00:00
@@ -27,3 +10,20 @@ events-list:
   event-place: <a href="#main-event-place-map">online Dojo</a>
   event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
   event-registration-url: "" 
+  
+- event-date: 19.11.2021
+  event-time: 15:00 - 19:00
+  event-startdate: 2021-11-19T13:00:00
+  event-enddate: 2021-11-19T17:00:00Z
+  event-place: <a href="#main-event-place-map">online Dojo</a>
+  event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
+  event-registration-url: "" 
+
+- event-date: 26.11.2021
+  event-time: 15:00 - 19:00
+  event-startdate: 2021-11-26T13:00:00
+  event-enddate: 2021-11-26T17:00:00Z
+  event-place: <a href="#main-event-place-map">online Dojo</a>
+  event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
+  event-registration-url: "" 
+  
