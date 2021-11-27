@@ -24,7 +24,7 @@ section.events-section {
       }
 
       // Responsive Media
-      @media (max-width: 800px) {
+      @media (max-width: 800px) and (min-width: 800px) {
         display: block;
 
         .col-md-3 {
