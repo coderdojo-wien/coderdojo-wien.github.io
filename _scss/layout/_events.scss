@@ -15,7 +15,7 @@ section.events-section {
       margin-bottom: 0.5em;
 
       // Responsive Media
-      @media (max-width: 991px) and (min-width: 800px) {
+      @media (max-width: 991px) and (min-width: 400px) {
         display: block;
 
         .events-table {
@@ -24,7 +24,7 @@ section.events-section {
       }
 
       // Responsive Media
-      @media (max-width: 800px) and (min-width: 800px) {
+      @media (max-width: 400px) {
         display: block;
 
         .col-md-3 {
