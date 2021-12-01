@@ -38,7 +38,7 @@
         var $portfolio_grid = $('.exercises-grid');
         var $portfolio_grid_item = $portfolio_grid.children(".item");
         var $overlay = $portfolio_grid.children("#overlay");
-        var $img = '<img alt="Exercise Image" />';
+        var $img = '<img alt="Exercise Image" loading="lazy"/>';
         var $data_filters = null;
 
         $filter_menu_item.on('click', function() {
