@@ -5,8 +5,8 @@ description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nich
 events-list:
 - event-date: 03.12.2021
   event-time: 15:00 - 19:00
-  event-startdate: 2021-12-03T15:00:00+0200
-  event-enddate: 2021-12-03T19:00:00+0200
+  event-startdate: 2021-12-03T15:00:00+0100
+  event-enddate: 2021-12-03T19:00:00+0100
   event-name: Online CoderDojo
   event-type: Online
   event-place: Online Dojo
@@ -16,8 +16,8 @@ events-list:
 
 - event-date: 10.12.2021
   event-time: 15:00 - 19:00
-  event-startdate: 2021-12-10T15:00:00+0200
-  event-enddate: 2021-12-10T19:00:00+0200
+  event-startdate: 2021-12-10T15:00:00+0100
+  event-enddate: 2021-12-10T19:00:00+0100
   event-name: "CoderDojo Wien @ VERBUND"
   event-type: Offline
   event-registration-url: "https://eventbrite.com"
@@ -30,8 +30,8 @@ events-list:
  
 - event-date: 17.12.2021
   event-time: 15:00 - 19:00
-  event-startdate: 2021-12-17T15:00:00+0200
-  event-enddate: 2021-12-17T19:00:00+0200
+  event-startdate: 2021-12-17T15:00:00+0100
+  event-enddate: 2021-12-17T19:00:00+0100
   event-name: Online CoderDojo
   event-type: Online
   event-place: Online Dojo
