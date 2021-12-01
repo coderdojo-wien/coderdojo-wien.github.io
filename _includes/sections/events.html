@@ -69,14 +69,14 @@
             {% case event.event-type %}
             {% when "Offline" %}
               <div class="event-registration">
-                <a href="{{ event.event-registration-url }}" target="_blank" class="button"><b>Anmeldung</b><a>
+                <a href="{{ event.event-registration-url }}" target="_blank" class="button"><b>Anmeldung</b></a>
                 {% if event.event-notebook-code != null %}
                 <a href="{{ event.event-registration-url }}?discount={{ event.event-notebook-code }}" target="_blank" class="button"><b>Anmeldung</b> <br/>mit Notebook reservierung*</a>
                 {% endif %}
               </div>
             {% else %}
               <div class="event-registration">
-                <a href="{{ event.event-url }}" target="_blank" class="button"><b>Programm</b><a>
+                <a href="{{ event.event-url }}" target="_blank" class="button"><b>Programm</b></a>
               </div>
             {% endcase %}
           </div>
