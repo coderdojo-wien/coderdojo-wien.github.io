@@ -42,9 +42,6 @@
                   <div itemprop="location" itemscope itemtype="http://schema.org/Place">
                     <meta itemprop="name" content="{{ event.event-place-name }}" />
                     <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                      <p hidden>
-                      {{ event | inspect  }}
-                      </p>
                       <meta itemprop="streetAddress" content="{{ event.event-place-streetaddress }}" />
                       <meta itemprop="addressLocality" content="{{ event.event-place-addresslocality }}" />
                       <meta itemprop="postalCode" content="{{ event.event-place-postalcode }}" />
