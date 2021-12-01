@@ -30,22 +30,36 @@
             <div class="event-content">
               <span>Wann</span>
               <p class="event-date">{{ event.event-date }}</p>
-              <meta itemprop="name" content="CoderDojo Wien @ VERBUND" />
+              <meta itemprop="name" content="{{ event.event-name }}" />
               <meta itemprop="startDate" content="{{event.event-startdate}}" />
               <meta itemprop="endDate" content="{{event.event-enddate}}" />
-              <meta itemprop="typicalAgeRange" content="7-17" />
-              <meta itemprop="duration" content="PT2H" />
               <meta itemprop="description" content="{{site.description}}" />
-              <div itemprop="location" itemscope itemtype="http://schema.org/Place">
-                <meta itemprop="name" content="{{ event.event-placename }}" />
-                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                  <meta itemprop="streetAddress" content="Am Hof 6a" />
-                  <meta itemprop="addressLocality" content="Wien" />
-                  <meta itemprop="postalCode" content="1010" />
-                  <meta itemprop="addressCountry" conent="AT" />
 
-                </div>
-              </div>
+              {% case event.event-type %}
+                {% when "Offline" %}
+                  <meta itemprop="eventAttendanceMode" content="https://schema.org/OfflineEventAttendanceMode" />
+                  <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+                  <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+                    <meta itemprop="name" content="{{ event.event-place-name }}" />
+                    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                      <p hidden>
+                      {{ event | inspect  }}
+                      </p>
+                      <meta itemprop="streetAddress" content="{{ event.event-place-streetaddress }}" />
+                      <meta itemprop="addressLocality" content="{{ event.event-place-addresslocality }}" />
+                      <meta itemprop="postalCode" content="{{ event.event-place-postalcode }}" />
+                      <meta itemprop="addressCountry" conent="{{ event.event-place-addresscountry }}" />
+                    </div>
+                  </div>
+                {% when "Online" %}
+                  <meta itemprop="eventAttendanceMode" content="https://schema.org/OnlineEventAttendanceMode" />
+                  <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+                  <div itemprop="location" itemscope itemtype="http://schema.org/VirtualLocation">
+                    <meta itemprop="name" content="{{ event.event-place-name }}" />
+                    <meta itemprop="url" content="{{ event.event-url }}" />
+                  </div>
+                {% else %}
+              {% endcase %}
               <hr class="normal">
               <span>Uhrzeit</span>
               <p class="event-time">{{ event.event-time }}</p>
@@ -55,12 +69,19 @@
             </div>
 
             <!-- Event Registration -->
-            <div class="event-registration">
-              <a href="{{ event.event-registration-url }}" target="_blank" class="button"><b>Anmeldung</b><a>
-              {% if event.event-notebook-code != null %}
-              <a href="{{ event.event-registration-url }}?discount={{ event.event-notebook-code }}" target="_blank" class="button"><b>Anmeldung</b> <br/>mit Notebook reservierung*</a>
-              {% endif %}
-            </div>
+            {% case event.event-type %}
+            {% when "Offline" %}
+              <div class="event-registration">
+                <a href="{{ event.event-registration-url }}" target="_blank" class="button"><b>Anmeldung</b><a>
+                {% if event.event-notebook-code != null %}
+                <a href="{{ event.event-registration-url }}?discount={{ event.event-notebook-code }}" target="_blank" class="button"><b>Anmeldung</b> <br/>mit Notebook reservierung*</a>
+                {% endif %}
+              </div>
+            {% else %}
+              <div class="event-registration">
+                <a href="{{ event.event-url }}" target="_blank" class="button"><b>Programm</b><a>
+              </div>
+            {% endcase %}
           </div>
         </div>
         {% endfor %}
