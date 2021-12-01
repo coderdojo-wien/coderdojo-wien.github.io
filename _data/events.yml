@@ -1,28 +1,39 @@
 title: "Termine"
 
-description: "Ein Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. <b>Zur Teilnahme am Präsenz-Dojo ist unbedingt eine Anmeldung erforderlich!</b>"
+description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. </br><b>Für die Teilnahme an offline CoderDojos ist unbedingt eine Anmeldung erforderlich!</b>"
 
 events-list:
 - event-date: 03.12.2021
   event-time: 15:00 - 19:00
-  event-startdate: 2021-12-03T13:00:00
-  event-enddate: 2021-12-03T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
-  event-registration-url: "https://mailchi.mp/260100292324/online-dojo-newsletter-1793495" 
+  event-startdate: 2021-12-03T15:00:00+0100
+  event-enddate: 2021-12-03T19:00:00+0100
+  event-name: Online CoderDojo
+  event-type: Online
+  event-place: Online Dojo
+  event-place-name: Online
+  event-url: "https://linz.coderdojo.net/termine/"
  
+
 - event-date: 10.12.2021
   event-time: 15:00 - 19:00
-  event-startdate: 2021-12-10T13:00:00
-  event-enddate: 2021-12-10T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
-  event-registration-url: "" 
+  event-startdate: 2021-12-10T15:00:00+0100
+  event-enddate: 2021-12-10T19:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
+  event-type: Offline
+  event-registration-url: "https://eventbrite.com"
+  event-place: <a href="#main-event-place-map">VERBUND</a>
+  event-place-name: VERBUND
+  event-place-streetaddress: Am Hof 6a
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1010
+  event-place-addresscountry: AT
  
 - event-date: 17.12.2021
   event-time: 15:00 - 19:00
-  event-startdate: 2021-12-17T13:00:00
-  event-enddate: 2021-12-17T17:00:00Z
-  event-place: <a href="#main-event-place-map">online Dojo</a>
-  event-placename: Eine Anmeldung ist für die Teilnahme an den online-Dojos nicht erforderlich.
-  event-registration-url: "" 
+  event-startdate: 2021-12-17T15:00:00+0100
+  event-enddate: 2021-12-17T19:00:00+0100
+  event-name: Online CoderDojo
+  event-type: Online
+  event-place: Online Dojo
+  event-place-name: Online
+  event-url: "https://linz.coderdojo.net/termine/"
