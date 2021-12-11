@@ -4,16 +4,6 @@ description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nich
 
 events-list:
 
-- event-date: 10.12.2021
-  event-time: 15:00 - 19:00
-  event-startdate: 2021-12-10T15:00:00+0100
-  event-enddate: 2021-12-10T19:00:00+0100
-  event-name: Online CoderDojo
-  event-type: Online
-  event-place: Online Dojo
-  event-place-name: Online
-  event-url: "https://linz.coderdojo.net/termine/"
- 
 - event-date: 17.12.2021
   event-time: 15:00 - 19:00
   event-startdate: 2021-12-17T15:00:00+0100
@@ -28,6 +18,16 @@ events-list:
   event-time: 15:00 - 19:00
   event-startdate: 2021-12-31T15:00:00+0100
   event-enddate: 2021-12-31T19:00:00+0100
+  event-name: Online CoderDojo
+  event-type: Online
+  event-place: Online Dojo
+  event-place-name: Online
+  event-url: "https://linz.coderdojo.net/termine/"
+  
+- event-date: 07.01.2022
+  event-time: 15:00 - 19:00
+  event-startdate: 2022-01-07T15:00:00+0100
+  event-enddate: 2022-01-07T19:00:00+0100
   event-name: Online CoderDojo
   event-type: Online
   event-place: Online Dojo
