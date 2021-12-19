@@ -23,10 +23,10 @@ events-list:
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"
   
-- event-date: 17.01.2022
+- event-date: 21.01.2022
   event-time: 15:00 - 19:00
-  event-startdate: 2022-01-17T15:00:00+0100
-  event-enddate: 2022-01-17T19:00:00+0100
+  event-startdate: 2022-01-21T15:00:00+0100
+  event-enddate: 2022-01-21T19:00:00+0100
   event-name: Online CoderDojo
   event-type: Online
   event-place: Online Dojo
