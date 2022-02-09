@@ -11,7 +11,7 @@ events-list:
   event-type: Online
   event-place: Online Dojo
   event-place-name: Online
-  event-url: "linz.coderdojo.net/termine/"
+  event-url: "https://linz.coderdojo.net/termine/"
 
 - event-date: 18.02.2022
   event-time: 15:00 - 19:00
