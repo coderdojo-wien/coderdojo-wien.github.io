@@ -3,16 +3,6 @@ title: "Termine"
 description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. </br><b>Für die Teilnahme an offline CoderDojos ist unbedingt eine Anmeldung erforderlich!</b>"
 
 events-list:  
-- event-date: 01.04.2022
-  event-time: 15:00 - 19:00
-  event-startdate: 2022-04-01T15:00:00+0100
-  event-enddate: 2022-04-01T19:00:00+0100
-  event-name: Online CoderDojo
-  event-type: Online
-  event-place: Online Dojo
-  event-place-name: Online
-  event-url: "https://linz.coderdojo.net/termine/"
-  
 - event-date: 08.04.2022
   event-time: 15:00 - 19:00
   event-startdate: 2022-04-08T15:00:00+0100
@@ -27,6 +17,16 @@ events-list:
   event-time: 15:00 - 19:00
   event-startdate: 2022-04-15T15:00:00+0100
   event-enddate: 2022-04-15T19:00:00+0100
+  event-name: Online CoderDojo
+  event-type: Online
+  event-place: Online Dojo
+  event-place-name: Online
+  event-url: "https://linz.coderdojo.net/termine/"
+  
+- event-date: 22.04.2022
+  event-time: 15:00 - 19:00
+  event-startdate: 2022-04-22T15:00:00+0100
+  event-enddate: 2022-04-22T19:00:00+0100
   event-name: Online CoderDojo
   event-type: Online
   event-place: Online Dojo
