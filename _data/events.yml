@@ -3,30 +3,6 @@ title: "Termine"
 description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. </br><b>Für die Teilnahme an offline CoderDojos ist unbedingt eine Anmeldung erforderlich!</b>"
 
 events-list:  
-- event-date: 03.06.2022
-  event-time: 15:00 - 19:00
-  event-startdate: 2022-06-03T15:00:00+0100
-  event-enddate: 2022-06-03T19:00:00+0100
-  event-name: Online CoderDojo
-  event-type: Online
-  event-place: Online Dojo
-  event-place-name: Online
-  event-url: "https://linz.coderdojo.net/termine/"
-  
-- event-date: 03.06.2022
-  event-time: 16:00 - 18:00
-  event-startdate: 2022-06-03T16:00:00+0100
-  event-enddate: 2022-06-03T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
-  event-type: Offline
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-349497986887"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
-  event-place-addresslocality: Wien
-  event-place-postalcode: 1010
-  event-place-addresscountry: AT
- 
 - event-date: 10.06.2022
   event-time: 15:00 - 19:00
   event-startdate: 2022-06-10T15:00:00+0100
@@ -36,4 +12,28 @@ events-list:
   event-place: Online Dojo
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"
+  
+- event-date: 17.06.2022
+  event-time: 15:00 - 19:00
+  event-startdate: 2022-06-17T15:00:00+0100
+  event-enddate: 2022-06-17T19:00:00+0100
+  event-name: Online CoderDojo
+  event-type: Online
+  event-place: Online Dojo
+  event-place-name: Online
+  event-url: "https://linz.coderdojo.net/termine/"
+  
+- event-date: 24.06.2022
+  event-time: 16:00 - 18:00
+  event-startdate: 2022-06-24T16:00:00+0100
+  event-enddate: 2022-06-24T18:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
+  event-type: Offline
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-357652888417"
+  event-place: <a href="#main-event-place-map">VERBUND</a>
+  event-place-name: VERBUND
+  event-place-streetaddress: Am Hof 6a
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1010
+  event-place-addresscountry: AT
   
