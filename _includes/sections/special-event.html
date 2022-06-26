@@ -20,57 +20,107 @@
   </div>
 </section>
 
-<section class="site-section next-section-indicator section-focus">
-    <div class="container">
-  
-      <!-- Section Heading -->
-      <div class="row">
-  
-        <!-- Section Header -->
-        <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-          <h2>{{ site.data.special-event.timeline-title }}</h2>
-          <hr class="normal">
-        </header>
-  
-        <!-- Section Content -->
-        <div class="col-md-8 col-md-push-2 col-sm-12 section-content special-event-timeline">
-          {{ site.data.special-event.timeline }}
-        </div>
-          
-      </div>
-  
-    </div>
-  </section>
-  
-  <section class="site-section next-section-indicator special-event-sponsors-section">
+
+<!-- Events Section -->
+<section class="site-section events-section">
   <div class="container">
 
     <!-- Section Heading -->
     <div class="row">
 
-      <!-- Section Header -->
+      <!-- Events Header -->
       <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-        <h2>{{ site.data.special-event.sponsor-title }}</h2>
+        <h1>{{ site.data.special-event.event-title }}</h1>
         <hr class="normal">
       </header>
-    
-    </div>
-    
-    <!-- Section Content -->
-    <div class="row">
-      <div class="clearfix">
-        
-        {% for sponsor in site.data.special-event.sponsors-list %}
-        
-        <div class="col-md-4 col-md-push-4 col-sm-4 col-sm-push-1 col-xs-8 col-xs-push-2">
-          {{ sponsor.link }}
-        </div>
-        
-        {% endfor %}
-      
+
+      <!-- Events Content -->
+      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+        {% if site.data.special-event.event-description != null %} <p>{{ site.data.special-event.event-description }}</p> {% endif %}
       </div>
-    
+
     </div>
+
+    <!-- Events Tables Container -->
+    <div class="row events-tables-container">
+      <div class="events-tables-wrapper clearfix">
+        {% for event in site.data.special-event.events-list %}
+        <!-- Events Table -->
+        <div class="col-md-4 col-md-push-0 col-sm-4 col-sm-push-0 col-xs-8 col-xs-push-2" itemscope itemtype="http://schema.org/Event">
+          <div class="events-table">
+
+            <!-- Event Content -->
+            <div class="event-content">
+              <span>Wann</span>
+              <p class="event-date">{{ event.event-date }}</p>
+              <meta itemprop="name" content="{{ event.event-name }}" />
+              <meta itemprop="startDate" content="{{event.event-startdate}}" />
+              <meta itemprop="endDate" content="{{event.event-enddate}}" />
+              <meta itemprop="description" content="{{site.description}}" />
+
+              {% case event.event-type %}
+                {% when "Offline" %}
+                  <meta itemprop="eventAttendanceMode" content="https://schema.org/OfflineEventAttendanceMode" />
+                  <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+                  <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+                    <meta itemprop="name" content="{{ event.event-place-name }}" />
+                    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                      <meta itemprop="streetAddress" content="{{ event.event-place-streetaddress }}" />
+                      <meta itemprop="addressLocality" content="{{ event.event-place-addresslocality }}" />
+                      <meta itemprop="postalCode" content="{{ event.event-place-postalcode }}" />
+                      <meta itemprop="addressCountry" conent="{{ event.event-place-addresscountry }}" />
+                    </div>
+                  </div>
+                {% when "Online" %}
+                  <meta itemprop="eventAttendanceMode" content="https://schema.org/OnlineEventAttendanceMode" />
+                  <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+                  <div itemprop="location" itemscope itemtype="http://schema.org/VirtualLocation">
+                    <meta itemprop="name" content="{{ event.event-place-name }}" />
+                    <meta itemprop="url" content="{{ event.event-url }}" />
+                  </div>
+                {% else %}
+              {% endcase %}
+              <hr class="normal">
+              <span>Uhrzeit</span>
+              <p class="event-time">{{ event.event-time }}</p>
+              <hr class="normal">
+              <span>Wo</span>
+              <p class="event-place">{{ event.event-place }}</p>
+            </div>
+
+            <!-- Event Registration -->
+            {% case event.event-type %}
+            {% when "Offline" %}
+              <div class="event-registration">
+                <a href="{{ event.event-registration-url }}" target="_blank" class="button"><b>Anmeldung</b></a>
+                {% if event.event-notebook-code != null %}
+                <a href="{{ event.event-registration-url }}?discount={{ event.event-notebook-code }}" target="_blank" class="button"><b>Anmeldung</b> <br/>mit Notebook reservierung*</a>
+                {% endif %}
+              </div>
+            {% else %}
+              <div class="event-registration">
+                <a href="{{ event.event-url }}" target="_blank" class="button"><b>Meeting</b></a>
+              </div>
+            {% endcase %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    {% if site.data.special-event.note != null %}
+    <!-- Section Note -->
+    <div class="row">
+  
+        <!-- Section Note Content -->
+        <div class="col-md-12 col-md-push-0 col-sm-12 section-content">
+          <p>
+           <i>{{ site.data.special-event.note }}</i>
+          </p>
+        </div>
+  
+    </div>
+    {% endif %}
 
   </div>
 </section>

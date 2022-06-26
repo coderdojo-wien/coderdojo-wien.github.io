@@ -1,88 +1,61 @@
-title: "CoderDojo Wien Hackathon at WeAreDevelopers"
-description: "<p>Yes, you've made it to WeAreDevelopers! Now it's your time to prove you are able to take the toughest challenge a developer can face. Show that you're not only an expert but a master who can teach!</p>
+title: "CoderDojo Wien at Woche für Beruf und Weiterbildung Oktober 2022"
+description: "<p>
+Dieser Workshop bietet dir die Gelegenheit einmal in die Welt des Programmierens zu
+schnuppern und dich selbst als Software Entwickler zu versuchen.
+<br />
+Wir werden in einer auch für Anfänger ohne Vorkenntnisse geeigneten Programmierumgebung
+gemeinsam erste Programme entwickeln.
+<br />
+Wenn du es nicht mehr bis zum Workshop erwarten kannst nutze auch gerne die Gelegenheit
+dich bereits einfach bei einem unserer anderen offline und online durchgeführten
+Workshops mit dem Thema zu befassen.
 
-<h2>What the hack</h2>
-<p>
-You are free to let your creativity flow. Just keep in mind that your exercise should be solvable by a kid at the age from 7 to 17. Take a brief look <a href='/exercises' target='_blank'>here</a> and see who an exercise can look like. We'll have a bunch of <a href='https://www.microbit.org/guide/' target='_blank'>micro:bits</a> with us, if you would like to develop with them. Other platforms we've got exercises already are Scratch, C# and JavaScript but feel free to choose something different as long as it's available for free.
+<a href=\"/\">https://wien.coderdojo.net/</a>
+"
+
+event-title: "Jetzt programmieren lernen!"
+
+event-description: "<p>Durch unser hybrides Workshop-Konzept kannst du sowohl online als auch, wenn es
+die aktuelle Situation zulässt, offline teilnehmen.
 </p>
 
-<h2>Submission Guidelines</h2>
+<h3>Online</h3>
 <p>
-Submit your examples as pull-request to our exercises repository at <a href='https://github.com/coderdojo-wien/exercises'>https://github.com/coderdojo-wien/exercises</a>.
+Für die Online-Teilnahme ist keine Anmeldung erforderlich. Installiere dir bitte vorab die Meeting
+Software <a href=\"https://zoom.us\">Zoom</a> und steige zum Workshop über den Meeting Link entwickeln.
 </p>
 
+<h3>Offline</h3>
 <p>
-An exercise should be self-contained, ie contain a description of the task and an exemplary solution (both as README in GitHub Markdown format, language preferable in German, but English is fine). Full source has to be attached. Look at <a href='https://github.com/coderdojo-wien/exercises/tree/master/csharp/Schleifen/Readme.md' target='_blank'>C# - Schleifen / Loops</a>,  <a href='https://github.com/coderdojo-wien/exercises/tree/master/scratch/Fledermaus/Readme.md' target='_blank'>Scratch - Fledermaus / Bat escape</a> or <a href='https://github.com/coderdojo-wien/exercises/tree/master/microbit/HotWire/Readme.md' target='_blank'>micro:bit - Hot Wire</a> for a reference.
+Für die Offline-Teilnahme musst du dich über Anmelde-Link registrieren. Vor Ort können wir nur eine
+begrenzte Teilnehmeranzahl betreuen.
+
+</br><b>Für die Teilnahme an offline CoderDojos ist unbedingt eine Anmeldung erforderlich!</b>
 </p>
+"
 
-<p>
-You can develop your exercise for the platform of your choice. How ever, the required development tools and runtime should be available for free. Preferable your example can be used on most modern PC platforms such as Linux, MacOS and Windows. Keep in mind that the audience of your example isn't an IT professional, but a kid ;-)
-</p>
-
-<p>
-By submitting a pull-request to acknowledge that your submitted code is subject to the <a href='https://github.com/coderdojo-wien/exercises/blob/dev/LICENSE'>GNU GPL v3</a>.
-</p>
-
-<h2>Finish</h2>
-<p>
-At the end of each day our jury will reward extraordinary submissions with a brand new BBC micro:bit, which were generously sponsed by The Micro:bit Foundation.
-</p>
-
-
-<h2>Pratice</h2>
-<p>
-Throught WeAreDevelopers it's also possible to pratice your coding skills, wether you're an experienced developer or one of our young coders. Finally we're dedicating entirely to a full day <a href='https://coderdojo.com/' target='_blank'>CoderDojo</a> with some very special guests.
-</p>"
-
-sponsor-title: "Kudos to our supporters"
-sponsors-list:
-- link: "<a href='https://microbit.org/' target='_blank'><img src='/images/special-event/microbit-logo.png'/ alt='Micro:bit Educational Foundation'></a>"
-- link: "<a href='https://www.wearedevelopers.com' target='_blank'><img src='/images/special-event/wearedevelopers-logo.png'/ alt='WeAreDevelopers'></a>"
-- link: "<a href='https://www.microsoft.com/de-at' target='_blank'><img src='/images/special-event/Microsoft-logo.png' alt='Microsoft Österreich'/></a>"
-
-timeline-title: "Program"
-timeline: "
-<h2>Wednesday, May 16th 2018</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>10:30 - 17:00</td> <td>Hackathon</td>
-    </tr>
-  </tbody>  
-</table>
-<h2>Thursday, May 17th 2018</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>09:30 - 17:00</td> <td>Hackathon</td>
-    </tr>
-  </tbody>  
-</table>
-<h2>Friday, May 18th 2018</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>09:30 - 16:30</td> <td>Hackathon</td>
-    </tr>
-    <tr>
-      <td>09:30 - 16:30</td> <td>CoderDojo</td>
-    </tr>
-  </tbody>  
-</table>"
-
-registration-title: "Venue"
-registration-description: "<p>Für die Coder die uns regelmäßig besuchen gibt CoderDojo"
-
-event-map-text: CoderDojo Wien at WeAreDevelopers
-event-map-text-location: Wien, Österreich
-event-map-lng: 16.4115363
-event-map-lat: 48.2349166
-
-events-list:
-- event-date: 18.5.2018
-  event-time: 09:00 - 16:30
-  event-startdate: 2018-05-18T09:00:00Z
-  event-enddate: 2018-05-18T16:30:00Z
-  event-place: <a href="#event-place-map">Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Wien</a>
-  event-placename: WeAreDevelopers
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-wearedevelopers-ticket-verlosung-tickets-45753498947"
+events-list:  
+- event-date: 14.10.2022
+  event-time: 15:00 - 17:00
+  event-startdate: 2022-10-14T15:00:00+0100
+  event-enddate: 2022-10-14T17:00:00+0100
+  event-name: "Jetzt programmieren lernen! by CoderDojo Wien at VERBUND"
+  event-type: Offline
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-woche-fur-beruf-und-weiterbildung-oktober-2022-registrierung-367511275117"
+  event-place: VERBUND
+  event-place-name: VERBUND
+  event-place-streetaddress: Am Hof 6a
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1010
+  event-place-addresscountry: AT
+  
+- event-date: 14.10.2022
+  event-time: 15:00 - 17:00
+  event-startdate: 2022-10-14T15:00:00+0100
+  event-enddate: 2022-10-14T17:00:00+0100
+  event-name: "Jetzt programmieren lernen! by CoderDojo Wien"
+  event-type: Online
+  event-place: Zoom
+  event-place-name: Zoom
+  event-place-addresscountry: AT
+  event-url: "https://us02web.zoom.us/j/88659527030?pwd=CjV6p27jwmzFzFkYnuUt62fmLVHBJD.1"
