@@ -28,20 +28,20 @@ team-members-list:
   vimeo:
 
 # Team Member
-- firstname: Otmar
-  lastname: Pilgerstorfer
-  tagline: Schriftführer
-  avatar: otmar_pilgerstorfer.jpg
+- firstname: Rigerta
+  lastname: Deminir
+  tagline: Schriftführerin
+  avatar: rigerta_demiri.jpg
   email:
 
   # Social Links
   youtube:
   pinterest:
   facebook:
-  twitter:
+  twitter: 'https://twitter.com/RigertaD'
   google-plus:
-  linkedin:
-  xing: 'https://www.xing.com/profile/Otmar_Pilgerstorfer'
+  linkedin: 'https://www.linkedin.com/in/rigerta-demiri/'
+  xing:
   vimeo:
 
 # Team Member
