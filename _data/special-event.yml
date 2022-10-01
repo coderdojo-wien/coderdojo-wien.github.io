@@ -1,5 +1,14 @@
 title: "CoderDojo Wien at Woche für Beruf und Weiterbildung Oktober 2022"
-description: "<p>
+description: "<h1 class=\"mx-auto\">
+!!! Leider abgesagt !!!
+</h1>
+<br />
+<p>
+Aus organisatorischen Gründen müssen wir den für die Wiener Wochen für Beruf und Weiterbildung
+geplanten Workshop leider absagen. Wir laden daher alle Interessenten herzlich ein, bei einem
+unserer regelmäßig stattfindenden CoderDojo Workshops in die Welt des Programmierens zu schnuppern.
+</p>
+<p>
 Dieser Workshop bietet dir die Gelegenheit einmal in die Welt des Programmierens zu
 schnuppern und dich selbst als Software Entwickler zu versuchen.
 <br />
@@ -35,27 +44,50 @@ begrenzte Teilnehmeranzahl betreuen.
 "
 
 events-list:  
-- event-date: 14.10.2022
-  event-time: 15:00 - 17:00
-  event-startdate: 2022-10-14T15:00:00+0100
-  event-enddate: 2022-10-14T17:00:00+0100
-  event-name: "Jetzt programmieren lernen! by CoderDojo Wien at VERBUND"
+- event-date: 07.10.2022
+  event-time: 16:00 - 18:00
+  event-startdate: 2022-10-07T16:00:00+0100
+  event-enddate: 2022-10-07T18:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
   event-type: Offline
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-woche-fur-beruf-und-weiterbildung-oktober-2022-registrierung-367511275117"
-  event-place: VERBUND
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-426051650957"
+  event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
   event-place-streetaddress: Am Hof 6a
   event-place-addresslocality: Wien
   event-place-postalcode: 1010
   event-place-addresscountry: AT
   
-- event-date: 14.10.2022
-  event-time: 15:00 - 17:00
-  event-startdate: 2022-10-14T15:00:00+0100
-  event-enddate: 2022-10-14T17:00:00+0100
-  event-name: "Jetzt programmieren lernen! by CoderDojo Wien"
+- event-date: 07.10.2022
+  event-time: 15:00 - 19:00
+  event-startdate: 2022-10-07T15:00:00+0100
+  event-enddate: 2022-10-07T19:00:00+0100
+  event-name: Online CoderDojo
   event-type: Online
-  event-place: Zoom
-  event-place-name: Zoom
-  event-place-addresscountry: AT
-  event-url: "https://us02web.zoom.us/j/88659527030?pwd=CjV6p27jwmzFzFkYnuUt62fmLVHBJD.1"
+  event-place: Online Dojo
+  event-place-name: Online
+  event-url: "https://linz.coderdojo.net/termine/"
+# - event-date: 14.10.2022
+#   event-time: 15:00 - 17:00
+#   event-startdate: 2022-10-14T15:00:00+0100
+#   event-enddate: 2022-10-14T17:00:00+0100
+#   event-name: "Jetzt programmieren lernen! by CoderDojo Wien at VERBUND"
+#   event-type: Offline
+#   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-woche-fur-beruf-und-weiterbildung-oktober-2022-registrierung-367511275117"
+#   event-place: VERBUND
+#   event-place-name: VERBUND
+#   event-place-streetaddress: Am Hof 6a
+#   event-place-addresslocality: Wien
+#   event-place-postalcode: 1010
+#   event-place-addresscountry: AT
+  
+# - event-date: 14.10.2022
+#   event-time: 15:00 - 17:00
+#   event-startdate: 2022-10-14T15:00:00+0100
+#   event-enddate: 2022-10-14T17:00:00+0100
+#   event-name: "Jetzt programmieren lernen! by CoderDojo Wien"
+#   event-type: Online
+#   event-place: Zoom
+#   event-place-name: Zoom
+#   event-place-addresscountry: AT
+#   event-url: "https://us02web.zoom.us/j/88659527030?pwd=CjV6p27jwmzFzFkYnuUt62fmLVHBJD.1"
