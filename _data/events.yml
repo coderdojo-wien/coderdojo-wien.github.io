@@ -3,24 +3,10 @@ title: "Termine"
 description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. </br><b>Für die Teilnahme an offline CoderDojos ist unbedingt eine Anmeldung erforderlich!</b>"
 events-list:
 
-- event-date: 20.01.2023
-  event-time: 16:00 - 18:00
-  event-startdate: 2023-01-20T16:00:00+0100
-  event-enddate: 2023-01-20T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
-  event-type: Offline
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-20123-registrierung-490892511717"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
-  event-place-addresslocality: Wien
-  event-place-postalcode: 1010
-  event-place-addresscountry: AT
-  
-- event-date: 20.01.2023
+- event-date: 27.01.2023
   event-time: 15:00 - 19:00
-  event-startdate: 2023-01-20T15:00:00+0100
-  event-enddate: 2023-01-20T19:00:00+0100
+  event-startdate: 2023-01-27T15:00:00+0100
+  event-enddate: 2023-01-27T19:00:00+0100
   event-name: Online CoderDojo
   event-type: Online
   event-place: Online Dojo
@@ -40,3 +26,14 @@ events-list:
   event-place-addresslocality: Wien
   event-place-postalcode: 1010
   event-place-addresscountry: AT
+
+- event-date: 03.02.2023
+  event-time: 15:00 - 19:00
+  event-startdate: 2023-02-03T15:00:00+0100
+  event-enddate: 2023-02-03T19:00:00+0100
+  event-name: Online CoderDojo
+  event-type: Online
+  event-place: Online Dojo
+  event-place-name: Online
+  event-url: "https://linz.coderdojo.net/termine/"
+  
