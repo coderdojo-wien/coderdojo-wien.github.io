@@ -17,14 +17,14 @@ events-list:
   event-time: 16:00 - 18:00
   event-startdate: 2023-04-28T16:00:00+0100
   event-enddate: 2023-04-28T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
+  event-name: "CoderDojo Wien @ Dynatrace Vienna Labs"
   event-type: Offline
-  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-28423-registrierung-613267368207"
+  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-dynatrace-registrierung-613267368207"
   event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
+  event-place-name: Dynatrace Vienna Labs
+  event-place-streetaddress: Wiedner Gürtel 13, The Icon Tower, Turm 24, Stock 22
   event-place-addresslocality: Wien
-  event-place-postalcode: 1010
+  event-place-postalcode: 1100
   event-place-addresscountry: AT
 
 - event-date: 28.04.2023
@@ -37,3 +37,16 @@ events-list:
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"
   
+# - event-date: 28.04.2023
+#   event-time: 16:00 - 18:00
+#   event-startdate: 2023-04-28T16:00:00+0100
+#   event-enddate: 2023-04-28T18:00:00+0100
+#   event-name: "CoderDojo Wien @ VERBUND"
+#   event-type: Offline
+#   event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-28423-registrierung-613267368207"
+#   event-place: <a href="#main-event-place-map">VERBUND</a>
+#   event-place-name: VERBUND
+#   event-place-streetaddress: Am Hof 6a
+#   event-place-addresslocality: Wien
+#   event-place-postalcode: 1010
+#   event-place-addresscountry: AT
