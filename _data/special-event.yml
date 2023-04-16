@@ -1,6 +1,5 @@
-title: "CoderDojo Wien at Woche für Beruf und Weiterbildung Oktober 2022"
+title: "CoderDojo Wien at Woche für Beruf und Weiterbildung Mai 2023"
 description: "<h1 class=\"mx-auto\">
-!!! Leider abgesagt !!!
 </h1>
 <br />
 <p>
@@ -22,7 +21,7 @@ Workshops mit dem Thema zu befassen.
 <a href=\"/\">https://wien.coderdojo.net/</a>
 "
 
-event-title: "Jetzt programmieren lernen!"
+event-title: "Deine Sprache sind die Tasten: Jetzt programmieren lernen!"
 
 event-description: "<p>Durch unser hybrides Workshop-Konzept kannst du sowohl online als auch, wenn es
 die aktuelle Situation zulässt, offline teilnehmen.
@@ -44,13 +43,13 @@ begrenzte Teilnehmeranzahl betreuen.
 "
 
 events-list:  
-- event-date: 07.10.2022
+- event-date: 12.05.2023
   event-time: 16:00 - 18:00
-  event-startdate: 2022-10-07T16:00:00+0100
-  event-enddate: 2022-10-07T18:00:00+0100
+  event-startdate: 2023-05-12T16:00:00+0200
+  event-enddate: 2023-05-12T18:00:00+0200
   event-name: "CoderDojo Wien @ VERBUND"
   event-type: Offline
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-registrierung-426051650957"
+  event-registration-url: ""
   event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
   event-place-streetaddress: Am Hof 6a
@@ -58,15 +57,15 @@ events-list:
   event-place-postalcode: 1010
   event-place-addresscountry: AT
   
-- event-date: 07.10.2022
-  event-time: 15:00 - 19:00
-  event-startdate: 2022-10-07T15:00:00+0100
-  event-enddate: 2022-10-07T19:00:00+0100
-  event-name: Online CoderDojo
+- event-date: 05.05.2023
+  event-time: 16:00 - 18:00
+  event-startdate: 2023-05-05T16:00:00+0200
+  event-enddate: 2023-05-05T18:00:00+0200
+  event-name: Deine Sprache sind die Tasten
   event-type: Online
   event-place: Online Dojo
   event-place-name: Online
-  event-url: "https://linz.coderdojo.net/termine/"
+  event-url: "https://digital-austria.at/projects/waff/"
 # - event-date: 14.10.2022
 #   event-time: 15:00 - 17:00
 #   event-startdate: 2022-10-14T15:00:00+0100
