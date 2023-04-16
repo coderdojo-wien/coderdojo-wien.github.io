@@ -20,7 +20,7 @@ events-list:
   event-name: "CoderDojo Wien @ Dynatrace Vienna Labs"
   event-type: Offline
   event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-dynatrace-registrierung-613267368207"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
+  event-place: <a href="#main-event-place-map">Dynatrace Vienna</a>
   event-place-name: Dynatrace Vienna Labs
   event-place-streetaddress: Wiedner Gürtel 13, The Icon Tower, Turm 24, Stock 22
   event-place-addresslocality: Wien
