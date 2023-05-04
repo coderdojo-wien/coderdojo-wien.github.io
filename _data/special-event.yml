@@ -3,11 +3,6 @@ description: "<h1 class=\"mx-auto\">
 </h1>
 <br />
 <p>
-Aus organisatorischen Gründen müssen wir den für die Wiener Wochen für Beruf und Weiterbildung
-geplanten Workshop leider absagen. Wir laden daher alle Interessenten herzlich ein, bei einem
-unserer regelmäßig stattfindenden CoderDojo Workshops in die Welt des Programmierens zu schnuppern.
-</p>
-<p>
 Dieser Workshop bietet dir die Gelegenheit einmal in die Welt des Programmierens zu
 schnuppern und dich selbst als Software Entwickler zu versuchen.
 <br />
@@ -31,6 +26,32 @@ die aktuelle Situation zulässt, offline teilnehmen.
 <p>
 Für die Online-Teilnahme ist keine Anmeldung erforderlich. Installiere dir bitte vorab die Meeting
 Software <a href=\"https://zoom.us\">Zoom</a> und steige zum Workshop über den Meeting Link entwickeln.
+< /br>
+Am 5. Mai wird Karin vom CoderDojo Linz mit euch einen Monster Builder mit HTML, CSS und TypeScript bauen. Mit eurem Programm können eure Freunde sich ihre eigenen Monster zusammenstellen.
+
+<b>Voraussetzungen</b>
+<ul>
+<li>Ein Internetbrowser (idealerweise Chrome)</li>
+<li>Zugriff auf Stackblitz</li>
+</ul>
+
+Am 12. Mai wird Daniel vom CoderDojo Wien mit euch ein lustiges Fisches Fangen in Scratch bauen.
+
+<b>Voraussetzungen</b>
+<ul>
+<li>Ein Internetbrowser (idealerweise Chrome)</li>
+<li>Zugriff auf Scratch</li>
+</ul>
+
+<b>Informationen</b>
+Für beide Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+
+Bitte installiere für die Teilnahme an den online Workshops die <a href="https://zoom.us/download" target="_blank">Zoom App</a>. Es gibt sie kostenlos für alle erdenklichen Plattformen.
+Danach klicke zum Teilnehmen einfach auf den Teilnahmelink des jeweiligen Workshops.
+
+Du kannst jederzeit bei den online CoderDojos einsteigen, auch wenn du Anfänger bist. Wenn du nicht sicher bist, welcher Workshop für dich geeignet ist,
+schreib uns an hallo@wien.coderdojo.net wie alt du bist und ob du schon Programmiererfahrung hast.
+Wir werden dir dann einen Vorschlag machen, mit welchen Workshop du beginnen könntest.
 </p>
 
 <h3>Offline</h3>
@@ -43,6 +64,16 @@ begrenzte Teilnehmeranzahl betreuen.
 "
 
 events-list:  
+- event-date: 05.05.2023
+  event-time: 16:00 - 18:00
+  event-startdate: 2023-05-05T16:00:00+0200
+  event-enddate: 2023-05-05T18:00:00+0200
+  event-name: Deine Sprache sind die Tasten
+  event-type: Online
+  event-place: Online Dojo
+  event-place-name: Online
+  event-url: "https://meet.coderdojo.cf/MonsterBuilder"
+  
 - event-date: 12.05.2023
   event-time: 16:00 - 18:00
   event-startdate: 2023-05-12T16:00:00+0200
@@ -57,15 +88,6 @@ events-list:
   event-place-postalcode: 1010
   event-place-addresscountry: AT
   
-- event-date: 05.05.2023
-  event-time: 16:00 - 18:00
-  event-startdate: 2023-05-05T16:00:00+0200
-  event-enddate: 2023-05-05T18:00:00+0200
-  event-name: Deine Sprache sind die Tasten
-  event-type: Online
-  event-place: Online Dojo
-  event-place-name: Online
-  event-url: "https://digital-austria.at/projects/waff/"
 # - event-date: 14.10.2022
 #   event-time: 15:00 - 17:00
 #   event-startdate: 2022-10-14T15:00:00+0100
