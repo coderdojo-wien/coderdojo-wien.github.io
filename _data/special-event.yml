@@ -85,9 +85,9 @@ events-list:
   event-time: 16:00 - 18:00
   event-startdate: 2023-05-12T16:00:00+0200
   event-enddate: 2023-05-12T18:00:00+0200
-  event-name: "CoderDojo Wien @ VERBUND"
+  event-name: "WAFF Workshop bei CoderDojo Wien @ VERBUND"
   event-type: Offline
-  event-registration-url: ""
+  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-12523-registrierung-627557530467"
   event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
   event-place-streetaddress: Am Hof 6a
