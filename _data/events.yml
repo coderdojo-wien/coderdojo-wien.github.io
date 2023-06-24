@@ -3,16 +3,6 @@ title: "Termine"
 description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. </br><b>Für die Teilnahme an offline CoderDojos ist unbedingt eine Anmeldung erforderlich!</b>"
 events-list:
     
-- event-date: 23.06.2023
-  event-time: 15:00 - 19:00
-  event-startdate: 2023-06-23T15:00:00+0100
-  event-enddate: 2023-06-23T19:00:00+0100
-  event-name: Online CoderDojo
-  event-type: Online
-  event-place: Online Dojo
-  event-place-name: Online
-  event-url: "https://linz.coderdojo.net/termine/"
-
 - event-date: 30.06.2023
   event-time: 16:00 - 18:00
   event-startdate: 2023-06-30:00:00+0100
@@ -36,6 +26,20 @@ events-list:
   event-place: Online Dojo
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"
+
+- event-date: 07.07.2023
+  event-time: 16:00 - 18:00
+  event-startdate: 2023-07-07:00:00+0100
+  event-enddate: 2023-07-07oT18:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
+  event-type: Offline
+  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-7723-registrierung-655738259787"
+  event-place: <a href="#main-event-place-map">VERBUND</a>
+  event-place-name: VERBUND
+  event-place-streetaddress: Am Hof 6a
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1010
+  event-place-addresscountry: AT
    
 # - event-date: 28.04.2023
 #   event-time: 16:00 - 18:00
