@@ -17,10 +17,10 @@ events-list:
   event-place-postalcode: 1010
   event-place-addresscountry: AT
   
-- event-date: 21.07.2023
+- event-date: 28.07.2023
   event-time: 15:00 - 19:00
-  event-startdate: 2023-07-21T15:00:00+0100
-  event-enddate: 2023-07-21T19:00:00+0100
+  event-startdate: 2023-07-28T15:00:00+0100
+  event-enddate: 2023-07-28T19:00:00+0100
   event-name: Online CoderDojo
   event-type: Online
   event-place: Online Dojo
