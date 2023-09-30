@@ -27,10 +27,10 @@ events-list:
   event-place-postalcode: 1010
   event-place-addresscountry: AT
 
-- event-date: 13.09.2023
+- event-date: 13.10.2023
   event-time: 15:00 - 19:00
-  event-startdate: 2023-09-13T15:00:00+0100
-  event-enddate: 2023-09-13T19:00:00+0100
+  event-startdate: 2023-10-13T15:00:00+0100
+  event-enddate: 2023-10-13T19:00:00+0100
   event-name: Online CoderDojo
   event-type: Online
   event-place: Online Dojo
