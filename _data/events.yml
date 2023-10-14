@@ -3,39 +3,39 @@ title: "Termine"
 description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. </br><b>Für die Teilnahme an offline CoderDojos ist unbedingt eine Anmeldung erforderlich!</b>"
 events-list:
 
-- event-date: 06.10.2023
+- event-date: 20.10.2023
   event-time: 15:00 - 19:00
-  event-startdate: 2023-10-06T15:00:00+0100
-  event-enddate: 2023-10-06T19:00:00+0100
+  event-startdate: 2023-10-20T15:00:00+0100
+  event-enddate: 2023-10-20T19:00:00+0100
+  event-name: Online CoderDojo
+  event-type: Online
+  event-place: Online Dojo
+  event-place-name: Online
+  event-url: "https://linz.coderdojo.net/termine/"
+  
+- event-date: 27.10.2023
+  event-time: 15:00 - 19:00
+  event-startdate: 2023-10-27T15:00:00+0100
+  event-enddate: 2023-10-27T19:00:00+0100
   event-name: Online CoderDojo
   event-type: Online
   event-place: Online Dojo
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"
 
-- event-date: 13.10.2023
+- event-date: 10.11.2023
   event-time: 16:00 - 18:00
-  event-startdate: 2023-10-13T16:00:00+0100
-  event-enddate: 2023-10-13T18:00:00+0100
+  event-startdate: 2023-11-10T16:00:00+0100
+  event-enddate: 2023-11-10T18:00:00+0100
   event-name: "CoderDojo Wien @ VERBUND"
   event-type: Offline
-  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-131023-registrierung-720294609567"
+  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-101123-registrierung-729289292907"
   event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
   event-place-streetaddress: Am Hof 6a
   event-place-addresslocality: Wien
   event-place-postalcode: 1010
   event-place-addresscountry: AT
-
-- event-date: 13.10.2023
-  event-time: 15:00 - 19:00
-  event-startdate: 2023-10-13T15:00:00+0100
-  event-enddate: 2023-10-13T19:00:00+0100
-  event-name: Online CoderDojo
-  event-type: Online
-  event-place: Online Dojo
-  event-place-name: Online
-  event-url: "https://linz.coderdojo.net/termine/"
   
 # - event-date: 28.04.2023
 #   event-time: 16:00 - 18:00
