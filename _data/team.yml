@@ -13,7 +13,7 @@ team-members-list:
 # Team Member
 - firstname: Daniel
   lastname: Wagner
-  tagline: Founder
+  tagline: Obmann & Co-Founder
   avatar: daniel_wagner.jpg
   email: 'daniel.wagner@wien.coderdojo.net'
 
@@ -21,18 +21,18 @@ team-members-list:
   youtube:
   pinterest:
   facebook: 'https://www.facebook.com/daniel.wagn3r'
-  twitter:
+  twitter: 'https://twitter.com/daniel_wagn3r'
   google-plus:
   linkedin: 'https://www.linkedin.com/in/daniel-wagner-b90b43138/'
   xing: 'https://www.xing.com/profile/Daniel_Wagner314'
   vimeo:
 
 # Team Member
-- firstname: Rigerta
-  lastname: Demiri
-  tagline: Schriftführerin
-  avatar: rigerta_demiri.jpg
-  email:
+- firstname: Anton
+  lastname: Nedoma
+  tagline: Obmann Stellvertreter
+  avatar: avatar.jpg
+  email: anton.nedoma@digitial-austria.at
 
   # Social Links
   youtube:
@@ -40,33 +40,16 @@ team-members-list:
   facebook:
   twitter:
   google-plus:
-  linkedin: 'https://www.linkedin.com/in/rigerta-demiri/'
-  xing:
-  vimeo:
-
-# Team Member
-- firstname: Katharina
-  lastname: Unlayao
-  tagline: Kassiererin
-  avatar: katharina_unlayao.jpg
-  email:
-
-  # Social Links
-  youtube:
-  pinterest:
-  facebook:
-  twitter:
-  google-plus:
-  linkedin: 'https://www.linkedin.com/in/katharina-unlayao-787063155'
+  linkedin: 'https://www.linkedin.com/in/anton-nedoma-abb7b6b2/'
   xing:
   vimeo:
 
 # Team Member
 - firstname: Karl
   lastname: Sträßler
-  tagline: Obmann-Stellvertreter
+  tagline: Kassier
   avatar: karl-straessler.jpg
-  email:
+  email: karl.straessler@wien.coderdojo.net
 
   # Social Links
   youtube:
@@ -77,3 +60,21 @@ team-members-list:
   linkedin: 'https://www.linkedin.com/in/karl-str%C3%A4ssler-98457710/'
   xing:
   vimeo:
+
+# Team Member
+- firstname: Thomas
+  lastname: Zapf
+  tagline: Schriftführer
+  avatar: thomas_zapf.jpg
+  email: thomas.zapf@digitial-austria.at
+
+  # Social Links
+  youtube:
+  pinterest:
+  facebook:
+  twitter:
+  google-plus:
+  linkedin: 'https://www.linkedin.com/in/thomas-zapf-0434b610'
+  xing:
+  vimeo:
+
