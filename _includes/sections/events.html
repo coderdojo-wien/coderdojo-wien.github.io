@@ -118,9 +118,9 @@
                   mapTypeId: google.maps.MapTypeId.ROADMAP
               };
               map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);
-              marker = new google.maps.Marker({
+              marker = new google.maps.marker.AdvancedMarkerElement({
                   map: map,
-                  position: new google.maps.LatLng( {{ site.map-lat }}, {{ site.map-lng }} )
+                  position: new google.maps.LatLng({{ site.map-lat }}, {{ site.map-lng }})
               });
               infowindow = new google.maps.InfoWindow({
                   content: "<span><strong>{{ site.map-text }}</strong><br>{{ site.map-text-location }}<br><span>"
