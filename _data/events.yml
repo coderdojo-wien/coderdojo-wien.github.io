@@ -13,20 +13,6 @@ events-list:
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"
 
-- event-date: 26.04.2024
-  event-time: 16:00 - 18:00
-  event-startdate: 2024-04-26T16:00:00+0100
-  event-enddate: 2024-04-26T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
-  event-type: Offline
-  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-26-april-24-registrierung-863907158567"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
-  event-place-addresslocality: Wien
-  event-place-postalcode: 1010
-  event-place-addresscountry: AT
-
 - event-date: 10.05.2024
   event-time: 16:00 - 18:00
   event-startdate: 2024-05-10T16:00:00+0100
@@ -34,6 +20,20 @@ events-list:
   event-name: "CoderDojo Wien @ VERBUND"
   event-type: Offline
   event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-10-mai-24-registrierung-874327415837"
+  event-place: <a href="#main-event-place-map">VERBUND</a>
+  event-place-name: VERBUND
+  event-place-streetaddress: Am Hof 6a
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1010
+  event-place-addresscountry: AT
+
+- event-date: 24.05.2024
+  event-time: 16:00 - 18:00
+  event-startdate: 2024-05-24T16:00:00+0100
+  event-enddate: 2024-05-24T18:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
+  event-type: Offline
+  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-24-mai-24-registrierung-892107847587"
   event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
   event-place-streetaddress: Am Hof 6a
