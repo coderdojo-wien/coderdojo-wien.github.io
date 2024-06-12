@@ -13,20 +13,6 @@ events-list:
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"
 
-- event-date: 07.06.2024
-  event-time: 16:00 - 18:00
-  event-startdate: 2024-06-07T16:00:00+0100
-  event-enddate: 2024-06-07T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
-  event-type: Offline
-  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-7-juni-24-registrierung-892112130397"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
-  event-place-addresslocality: Wien
-  event-place-postalcode: 1010
-  event-place-addresscountry: AT
-
 - event-date: 21.06.2024
   event-time: 16:00 - 18:00
   event-startdate: 2024-06-21T16:00:00+0100
@@ -40,7 +26,21 @@ events-list:
   event-place-addresslocality: Wien
   event-place-postalcode: 1010
   event-place-addresscountry: AT
-  
+
+- event-date: 05.07.2024
+  event-time: 16:00 - 18:00
+  event-startdate: 2024-07-05T16:00:00+0100
+  event-enddate: 2024-07-05T18:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
+  event-type: Offline
+  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-pwc-am-5-juli-24-registrierung-912998391767"
+  event-place: <a href="#main-event-place-map">PWC</a>
+  event-place-name: PWC
+  event-place-streetaddress: Donau-City-Straße 7
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1220
+  event-place-addresscountry: AT
+
 # - event-date: 28.04.2023
 #   event-time: 16:00 - 18:00
 #   event-startdate: 2023-04-28T16:00:00+0100
