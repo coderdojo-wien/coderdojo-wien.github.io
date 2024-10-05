@@ -11,21 +11,7 @@ events-list:
   event-type: Online
   event-place: Online Dojo
   event-place-name: Online
-  event-url: "https://linz.coderdojo.net/termine/"
-  
-- event-date: 04.10.2024
-  event-time: 16:00 - 18:00
-  event-startdate: 2024-10-04T16:00:00+0100
-  event-enddate: 2024-10-04T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
-  event-type: Offline
-  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-4-oktober-24-registrierung-951854481377"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
-  event-place-addresslocality: Wien
-  event-place-postalcode: 1010
-  event-place-addresscountry: AT
+  event-url: "https://linz.coderdojo.net/termine/"  
 
 - event-date: 18.10.2024
   event-time: 16:00 - 18:00
@@ -34,6 +20,20 @@ events-list:
   event-name: "CoderDojo Wien @ VERBUND"
   event-type: Offline
   event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-18-oktober-24-registrierung-1011131319997"
+  event-place: <a href="#main-event-place-map">VERBUND</a>
+  event-place-name: VERBUND
+  event-place-streetaddress: Am Hof 6a
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1010
+  event-place-addresscountry: AT
+
+- event-date: 31.10.2024
+  event-time: 16:00 - 18:00
+  event-startdate: 2024-10-31T16:00:00+0100
+  event-enddate: 2024-10-31T18:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
+  event-type: Offline
+  event-registration-url: "https://www.eventbrite.at/e/halloween-special-at-verbund-am-31-oktober-24-registrierung-1028256100677"
   event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
   event-place-streetaddress: Am Hof 6a
