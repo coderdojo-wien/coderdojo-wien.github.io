@@ -4,7 +4,7 @@ description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nich
 events-list:
 
 - event-date: Immer Freitags
-  event-time: 15:00 - 19:00
+  event-time: zw 15:00 - 19:00
   event-startdate: 2024-02-02T15:00:00+0100
   event-enddate: 2024-02-02T19:00:00+0100
   event-name: Online CoderDojo
