@@ -13,20 +13,6 @@ events-list:
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"  
 
-- event-date: 27.12.2024
-  event-time: 16:00 - 18:00
-  event-startdate: 2024-12-27T16:00:00+0100
-  event-enddate: 2024-12-27T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
-  event-type: Offline
-  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-27-dezember-24-registrierung-1089637678629"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
-  event-place-addresslocality: Wien
-  event-place-postalcode: 1010
-  event-place-addresscountry: AT
-
 - event-date: 10.10.2025
   event-time: 16:00 - 18:00
   event-startdate: 2025-01-10T16:00:00+0100
@@ -41,6 +27,19 @@ events-list:
   event-place-postalcode: 1010
   event-place-addresscountry: AT
 
+- event-date: 24.10.2025
+  event-time: 16:00 - 18:00
+  event-startdate: 2025-01-24T16:00:00+0100
+  event-enddate: 2025-01-24T18:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
+  event-type: Offline
+  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-24-janner-2025-registrierung-1114355570509"
+  event-place: <a href="#main-event-place-map">VERBUND</a>
+  event-place-name: VERBUND
+  event-place-streetaddress: Am Hof 6a
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1010
+  event-place-addresscountry: AT
 
 # - event-date: 28.04.2023
 #   event-time: 16:00 - 18:00
