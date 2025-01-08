@@ -13,7 +13,7 @@ events-list:
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"  
 
-- event-date: 10.10.2025
+- event-date: 10.01.2025
   event-time: 16:00 - 18:00
   event-startdate: 2025-01-10T16:00:00+0100
   event-enddate: 2025-01-10T18:00:00+0100
@@ -27,7 +27,7 @@ events-list:
   event-place-postalcode: 1010
   event-place-addresscountry: AT
 
-- event-date: 24.10.2025
+- event-date: 24.01.2025
   event-time: 16:00 - 18:00
   event-startdate: 2025-01-24T16:00:00+0100
   event-enddate: 2025-01-24T18:00:00+0100
