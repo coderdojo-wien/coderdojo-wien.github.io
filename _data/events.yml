@@ -13,21 +13,6 @@ events-list:
   event-place-name: Online
   event-url: "https://linz.coderdojo.net/termine/"  
 
-- event-date: 25.07.2025
-  event-time: 16:00 - 18:00
-  event-startdate: 2025-07-25T16:00:00+0100
-  event-enddate: 2025-07-25T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
-  event-type: Offline
-  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-25-juli-2025-registrierung-1413552245819"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
-  event-place-addresslocality: Wien
-  event-place-postalcode: 1010
-  event-place-addresscountry: AT
-
-
 - event-date: 05.09.2025
   event-time: 16:00 - 18:00
   event-startdate: 2025-09-05T16:00:00+0100
@@ -37,6 +22,20 @@ events-list:
   event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-5-september-2025-registrierung-1483205209709"
   event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
+  event-place-streetaddress: Am Hof 6a
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1010
+  event-place-addresscountry: AT
+
+- event-date: 19.09.2025
+  event-time: 16:00 - 18:00
+  event-startdate: 2025-09-19T16:00:00+0100
+  event-enddate: 2025-09-19T18:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
+  event-type: Offline
+  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-verbund-am-19-september-2025-registrierung-1496050961699"
+  event-place: <a href="#main-event-place-map">VERBUND</a>
+  event-place-name: PWC DC-Tower
   event-place-streetaddress: Am Hof 6a
   event-place-addresslocality: Wien
   event-place-postalcode: 1010
