@@ -3,20 +3,6 @@ title: "Termine"
 description: "Ein Anmeldung ist für die Teilnahme an den online CoderDojos nicht erforderlich. Das genaue Workshopprogramm mit den Teilnahmelinks finden sie in unserem aktuellen Newsletter, der jeweils bis spätestens den Tag davor versendet wird und auf unserer Hompepage https://www.facebook.com/coderdojowien. </br><b>Für die Teilnahme an offline CoderDojos ist unbedingt eine Anmeldung erforderlich!</b>"
 events-list:
 
-- event-date: 06.02.2026
-  event-time: 16:00 - 18:00
-  event-startdate: 2026-02-06T16:00:00+0100
-  event-enddate: 2026-02-06T18:00:00+0100
-  event-name: "CoderDojo Wien @ Hauptbücherei am Gürtel"
-  event-type: Offline
-  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-hauptbucherei-am-gurtel-am-6-februar-2026-registrierung-1979112207890"
-  event-place: <a href="#main-event-place-map">Hauptbücherei am Gürtel</a>
-  event-place-name: Hauptbücherei am Gürtel
-  event-place-streetaddress: Urban-Loritz-Platz 2a
-  event-place-addresslocality: Wien
-  event-place-postalcode: 1070
-  event-place-addresscountry: AT
-
 - event-date: 20.02.2026
   event-time: 16:00 - 18:00
   event-startdate: 2026-02-20T16:00:00+0100
@@ -44,6 +30,34 @@ events-list:
   event-place-addresslocality: Wien
   event-place-postalcode: 1010
   event-place-addresscountry: AT
+
+- event-date: 20.03.2026
+  event-time: 16:00 - 18:00
+  event-startdate: 2026-03-20T16:00:00+0100
+  event-enddate: 2026-03-20T18:00:00+0100
+  event-name: "CoderDojo Wien @ VERBUND"
+  event-type: Offline
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-20-marz-2026-registrierung-1982489702066"
+  event-place: <a href="#main-event-place-map">VERBUND</a>
+  event-place-name: VERBUND
+  event-place-streetaddress: Am Hof 6a
+  event-place-addresslocality: Wien
+  event-place-postalcode: 1010
+  event-place-addresscountry: AT
+
+#- event-date: 06.02.2026
+#  event-time: 16:00 - 18:00
+#  event-startdate: 2026-02-06T16:00:00+0100
+#  event-enddate: 2026-02-06T18:00:00+0100
+#  event-name: "CoderDojo Wien @ Hauptbücherei am Gürtel"
+#  event-type: Offline
+#  event-registration-url: "https://www.eventbrite.at/e/coderdojo-wien-at-hauptbucherei-am-gurtel-am-6-februar-2026-registrierung-1979112207890"
+#  event-place: <a href="#main-event-place-map">Hauptbücherei am Gürtel</a>
+#  event-place-name: Hauptbücherei am Gürtel
+#  event-place-streetaddress: Urban-Loritz-Platz 2a
+#  event-place-addresslocality: Wien
+#  event-place-postalcode: 1070
+#  event-place-addresscountry: AT
 
 # - event-date: 28.04.2023
 #   event-time: 16:00 - 18:00
