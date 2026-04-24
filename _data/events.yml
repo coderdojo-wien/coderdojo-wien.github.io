@@ -7,14 +7,14 @@ events-list:
   event-time: 16:00 - 18:00
   event-startdate: 2026-04-29T1800:00+0100
   event-enddate: 2026-04-29T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
+  event-name: "CoderDojo Wien @ Hauptbücherei"
   event-type: Offline
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-29-april-2026-registrierung-1984227174894"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
+  event-place: <a href="#main-event-place-map">Hauptbücherei</a>
+  event-place-name: Hauptbücherei
+  event-place-streetaddress: Urban-Loritz-Platz 2a
   event-place-addresslocality: Wien
-  event-place-postalcode: 1010
+  event-place-postalcode: 1070
   event-place-addresscountry: AT
 
 - event-date: 15.05.2026
