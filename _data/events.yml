@@ -17,18 +17,18 @@ events-list:
   event-place-postalcode: 1010
   event-place-addresscountry: AT
 
-- event-date: 10.07.2026
-  event-time: 16:00 - 18:00
-  event-startdate: 2026-07-10T1800:00+0100
-  event-enddate: 2026-07-10T18:00:00+0100
-  event-name: "CoderDojo Wien @ VERBUND"
+- event-date: 15.07.2026
+  event-time: 12:00 - 14:00
+  event-startdate: 2026-07-15T1800:00+0100
+  event-enddate: 2026-07-15T18:00:00+0100
+  event-name: "CoderDojo Wien @ SPAR ICS"
   event-type: Offline
-  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-10-juli-2026-registrierung-1990681391630"
+  event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-spar-ics-am-15-juli-2026-registrierung-1990681391630"
   event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
   event-place-streetaddress: Am Hof 6a
   event-place-addresslocality: Wien
-  event-place-postalcode: 1010
+  event-place-postalcode: 1020
   event-place-addresscountry: AT
 
 - event-date: 24.07.2026
@@ -40,7 +40,7 @@ events-list:
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-24-juli-2026-registrierung-1991814721450"
   event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
+  event-place-streetaddress: Rothschildplatz 4/7
   event-place-addresslocality: Wien
   event-place-postalcode: 1010
   event-place-addresscountry: AT
