@@ -24,9 +24,9 @@ events-list:
   event-name: "CoderDojo Wien @ SPAR ICS"
   event-type: Offline
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-spar-ics-am-15-juli-2026-registrierung-1990681391630"
-  event-place: <a href="#main-event-place-map">VERBUND</a>
-  event-place-name: VERBUND
-  event-place-streetaddress: Am Hof 6a
+  event-place: <a href="#main-event-place-map">SPAR ICS</a>
+  event-place-name: SPAR ICS
+  event-place-streetaddress: Rothschildplatz 4/7
   event-place-addresslocality: Wien
   event-place-postalcode: 1020
   event-place-addresscountry: AT
@@ -40,7 +40,7 @@ events-list:
   event-registration-url: "https://www.eventbrite.de/e/coderdojo-wien-at-verbund-am-24-juli-2026-registrierung-1991814721450"
   event-place: <a href="#main-event-place-map">VERBUND</a>
   event-place-name: VERBUND
-  event-place-streetaddress: Rothschildplatz 4/7
+  event-place-streetaddress: Am Hof 6a
   event-place-addresslocality: Wien
   event-place-postalcode: 1010
   event-place-addresscountry: AT
